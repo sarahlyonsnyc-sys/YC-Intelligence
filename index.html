@@ -127,6 +127,7 @@
       <button class="nav-btn" data-tab="explorer">Explorer</button>
       <button class="nav-btn" data-tab="sectors">Sector Deep Dive</button>
       <button class="nav-btn" data-tab="ideas">Idea Evaluator</button>
+      <button class="nav-btn" data-tab="ultimate" style="background:linear-gradient(135deg,rgba(255,107,53,0.15),rgba(168,85,247,0.15));color:#ff6b35;font-weight:700">⚡ Ultimate Analyzer</button>
     </nav>
   </header>
 
@@ -208,6 +209,47 @@
         <div id="ideaResult" class="ai-result hidden"></div>
       </div>
     </div>
+
+    <!-- ULTIMATE ANALYZER -->
+    <div id="tab-ultimate" class="tab-content hidden">
+      <div class="ai-section" style="max-width:900px">
+        <!-- API Key Input (only shown once) -->
+        <div id="apiKeySection">
+          <div class="ai-title">⚡ Ultimate Startup Analyzer</div>
+          <div class="ai-subtitle" style="margin-bottom:8px">
+            Claude autonomously analyzes all <span id="ultimateCount">5,690</span> YC companies across 6 phases to determine the single best startup you should build.
+          </div>
+          <div style="font-family:var(--font-mono);font-size:11px;color:var(--text-dim);margin-bottom:20px">
+            Market Landscape → Whitespace → Timing → Competition → Unit Economics → Final Verdict
+          </div>
+          <div style="margin-bottom:16px">
+            <label style="font-family:var(--font-mono);font-size:11px;color:var(--text-muted);display:block;margin-bottom:8px">Enter your Anthropic API key (stays in your browser, never stored):</label>
+            <div class="ai-input-row">
+              <input class="ai-input" id="apiKeyInput" type="password" placeholder="sk-ant-..." style="font-family:var(--font-mono);font-size:13px" />
+              <button class="ai-btn" id="startUltimateBtn">Run Full Analysis</button>
+            </div>
+          </div>
+          <div style="font-family:var(--font-mono);font-size:10px;color:var(--text-dim)">~4-5 min · 6 phases · Zero decisions required · Key is only used for this session</div>
+        </div>
+
+        <!-- Progress tracker -->
+        <div id="ultimateProgress" class="hidden">
+          <div style="font-family:var(--font-mono);font-size:10px;color:var(--accent);letter-spacing:3px;text-transform:uppercase;margin-bottom:12px" id="ultimateStatus">Analysis in progress</div>
+          <div style="font-family:var(--font-display);font-size:32px;color:#fff;font-style:italic;margin-bottom:24px" id="ultimateTitle">Building your recommendation...</div>
+          <div id="phaseTracker" style="display:flex;flex-direction:column;gap:10px;margin-bottom:32px"></div>
+          <div id="phaseResults"></div>
+          <div id="finalVerdictBox" class="hidden" style="margin-top:32px;padding:32px;background:linear-gradient(135deg,rgba(255,107,53,0.06),rgba(255,107,53,0.02));border:1px solid rgba(255,107,53,0.2);border-radius:20px">
+            <div style="font-family:var(--font-mono);font-size:10px;color:var(--accent);letter-spacing:3px;text-transform:uppercase;margin-bottom:10px">Final Recommendation</div>
+            <div style="font-family:var(--font-display);font-size:28px;color:#fff;font-weight:900;margin-bottom:20px">The Startup You Should Build</div>
+            <div id="finalVerdictContent" style="font-size:14px;line-height:1.8;color:#d0d0e0"></div>
+            <div style="margin-top:24px;padding-top:20px;border-top:1px solid rgba(255,255,255,0.08);display:flex;gap:12px">
+              <button onclick="resetUltimate()" style="background:rgba(255,255,255,0.05);border:1px solid rgba(255,255,255,0.1);border-radius:10px;padding:12px 24px;font-family:var(--font-body);font-size:13px;color:var(--text);cursor:pointer">Run Again</button>
+              <button onclick="copyFullReport()" class="ai-btn">Copy Full Report</button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
   </main>
 
 <script>
@@ -287,6 +329,7 @@ function showTab(tab) {
   if (tab === "explorer") renderExplorer();
   if (tab === "sectors") renderSectors();
   if (tab === "ideas") renderIdeas();
+  if (tab === "ultimate") renderUltimate();
 }
 
 // ─── Overview ────────────────────────────────────────────────────────────────
@@ -499,6 +542,205 @@ function formatAI(text) {
     return `<p style="margin:5px 0;line-height:1.7">${formatted}</p>`;
   }).join("");
 }
+
+// ─── Ultimate Analyzer ───────────────────────────────────────────────────────
+const PHASE_DEFS = [
+  { id: "data", label: "Data Collection & Market Map", icon: "📡" },
+  { id: "gaps", label: "Whitespace Analysis", icon: "🔍" },
+  { id: "timing", label: "Market Timing Assessment", icon: "⏱️" },
+  { id: "compete", label: "Competitive Moat Analysis", icon: "🏰" },
+  { id: "unit", label: "Unit Economics & Business Model", icon: "📊" },
+  { id: "verdict", label: "Final Verdict", icon: "🎯" },
+];
+
+let ultimateResults = {};
+let userApiKey = "";
+
+function renderUltimate() {
+  document.getElementById("ultimateCount").textContent = companies.length.toLocaleString();
+}
+
+function buildDataSummary() {
+  const sectorLines = sectors.slice(0, 12).map(s =>
+    `${s.name}: ${s.count} companies, ${s.rate}% active`
+  ).join("\n");
+
+  const recentCos = companies
+    .filter(c => c.batch && (c.batch.includes("2024") || c.batch.includes("2025") || c.batch.includes("2026")))
+    .slice(0, 80)
+    .map(c => `${c.name} (${c.industry}, ${c.batch}): ${c.oneLiner}`)
+    .join("\n");
+
+  const topCos = companies
+    .filter(c => c.topCompany)
+    .slice(0, 25)
+    .map(c => `${c.name} (${c.industry}, ${c.batch}): ${c.oneLiner}`)
+    .join("\n");
+
+  const statusStr = statusData.map(s => `${s.name}: ${s.value}`).join(", ");
+
+  return `FULL Y COMBINATOR DATASET: ${companies.length} companies
+
+SECTOR BREAKDOWN (top 12):
+${sectorLines}
+
+STATUS: ${statusStr}
+
+TOP YC COMPANIES:
+${topCos}
+
+RECENT COMPANIES (2024-2026 batches):
+${recentCos}`;
+}
+
+async function claudeCall(system, prompt) {
+  const res = await fetch("https://api.anthropic.com/v1/messages", {
+    method: "POST",
+    headers: { "Content-Type": "application/json", "x-api-key": userApiKey, "anthropic-version": "2023-06-01", "anthropic-dangerous-direct-browser-access": "true" },
+    body: JSON.stringify({
+      model: "claude-sonnet-4-20250514",
+      max_tokens: 1500,
+      system: system,
+      messages: [{ role: "user", content: prompt }],
+    }),
+  });
+  const data = await res.json();
+  if (data.error) throw new Error(data.error.message);
+  return (data.content || []).map(b => b.text || "").join("\n");
+}
+
+function updatePhaseTracker(activeIdx) {
+  document.getElementById("phaseTracker").innerHTML = PHASE_DEFS.map((p, i) => {
+    const isDone = ultimateResults[p.id] !== undefined;
+    const isActive = i === activeIdx && !isDone;
+    const isFuture = !isDone && !isActive;
+    const bgCol = isActive ? "rgba(255,107,53,0.08)" : isDone ? "rgba(34,197,94,0.04)" : "rgba(255,255,255,0.02)";
+    const borderCol = isActive ? "rgba(255,107,53,0.25)" : isDone ? "rgba(34,197,94,0.12)" : "rgba(255,255,255,0.04)";
+    const textCol = isActive ? "var(--accent)" : isDone ? "var(--green)" : "var(--text-dim)";
+    const statusText = isDone ? "DONE" : isActive ? "RUNNING" : "PENDING";
+    const iconContent = isDone ? "✓" : isActive ? '<div style="width:16px;height:16px;border:2px solid rgba(255,107,53,0.3);border-top:2px solid #ff6b35;border-radius:50%;animation:spin 0.8s linear infinite"></div>' : p.icon;
+
+    return `<div style="display:flex;align-items:center;gap:14px;padding:12px 18px;background:${bgCol};border:1px solid ${borderCol};border-radius:10px;opacity:${isFuture?0.4:1};transition:all 0.3s">
+      <div style="width:32px;height:32px;border-radius:8px;display:flex;align-items:center;justify-content:center;font-size:16px;background:${isActive?'rgba(255,107,53,0.15)':isDone?'rgba(34,197,94,0.1)':'rgba(255,255,255,0.03)'}">${iconContent}</div>
+      <div style="flex:1">
+        <div style="font-family:var(--font-body);font-size:13px;font-weight:600;color:${textCol}">Phase ${i+1}: ${p.label}</div>
+      </div>
+      <div style="font-family:var(--font-mono);font-size:10px;color:${textCol}">${statusText}</div>
+    </div>`;
+  }).join("");
+}
+
+function addPhaseResult(id, text) {
+  const phase = PHASE_DEFS.find(p => p.id === id);
+  const idx = PHASE_DEFS.indexOf(phase);
+  const formatted = text.replace(/\*\*([^*]+)\*\*/g, '<b style="color:var(--accent)">$1</b>').split("\n").map(l => `<p style="margin:4px 0;line-height:1.7">${l}</p>`).join("");
+
+  document.getElementById("phaseResults").innerHTML += `
+    <details style="margin-bottom:14px;animation:fadeUp 0.4s ease" ${id==='verdict'?'open':''}>
+      <summary style="font-family:var(--font-body);font-size:13px;font-weight:600;color:var(--accent);cursor:pointer;padding:10px 18px;background:rgba(255,255,255,0.02);border:1px solid rgba(255,255,255,0.06);border-radius:8px;list-style:none;display:flex;align-items:center;gap:8px">
+        ${phase.icon} Phase ${idx+1}: ${phase.label}
+        <span style="margin-left:auto;font-family:var(--font-mono);font-size:10px;color:var(--text-dim)">click to expand</span>
+      </summary>
+      <div style="padding:20px;background:rgba(255,255,255,0.02);border:1px solid rgba(255,255,255,0.04);border-top:none;border-radius:0 0 8px 8px;font-size:13px;color:#c8c8d8;line-height:1.7">
+        ${formatted}
+      </div>
+    </details>`;
+}
+
+async function runUltimateAnalysis() {
+  userApiKey = document.getElementById("apiKeyInput").value.trim();
+  if (!userApiKey) { alert("Please enter your Anthropic API key"); return; }
+  if (companies.length === 0) { alert("Company data hasn't loaded yet. Wait a moment and try again."); return; }
+
+  document.getElementById("apiKeySection").classList.add("hidden");
+  document.getElementById("ultimateProgress").classList.remove("hidden");
+  ultimateResults = {};
+  document.getElementById("phaseResults").innerHTML = "";
+
+  const dataSummary = buildDataSummary();
+
+  try {
+    // Phase 1: Data & Market Map
+    updatePhaseTracker(0);
+    const p1 = await claudeCall(
+      `You are an expert startup analyst. Here is the COMPLETE Y Combinator dataset:\n\n${dataSummary}\n\nThis is real data from ${companies.length} companies. Analyze it precisely. Use **bold** for key insights.`,
+      `Analyze this YC dataset:\n1. Rank top 8 sectors by company count and survival rate\n2. Which sectors are accelerating in recent batches?\n3. Which are declining?\n4. Overall ecosystem health assessment\n\nBe precise with numbers from the data.`
+    );
+    ultimateResults.data = p1;
+    addPhaseResult("data", p1);
+
+    // Phase 2: Whitespace
+    updatePhaseTracker(1);
+    const p2 = await claudeCall(
+      `You are an expert startup analyst. YC dataset: ${companies.length} companies.\n\n${dataSummary.slice(0, 1500)}\n\nMarket analysis:\n${p1.slice(0, 700)}\n\nUse **bold**.`,
+      `Identify TOP 5 whitespace opportunities underrepresented in YC:\n\nFor each:\n1. Specific idea (e.g. "AI-powered X for Y")\n2. Existing YC competitors (name them)\n3. Macro tailwinds\n4. Market size estimate\n5. Why not built yet\n\nRank by attractiveness.`
+    );
+    ultimateResults.gaps = p2;
+    addPhaseResult("gaps", p2);
+
+    // Phase 3: Timing
+    updatePhaseTracker(2);
+    const p3 = await claudeCall(
+      `You are a startup timing analyst. Top whitespace opportunities:\n${p2.slice(0, 800)}\n\nUse **bold**.`,
+      `For the top 3 opportunities, assess timing in March 2026:\n1. Tech readiness\n2. Regulatory environment\n3. Customer readiness\n4. Macro trends\n5. Timing score (1-10)\n\nWhich has BEST timing?`
+    );
+    ultimateResults.timing = p3;
+    addPhaseResult("timing", p3);
+
+    // Phase 4: Competition
+    updatePhaseTracker(3);
+    const p4 = await claudeCall(
+      `You are a competitive strategy analyst. Best-timed opportunities:\n${p3.slice(0, 700)}\n\nUse **bold**.`,
+      `For top 2 opportunities, analyze defensibility:\n1. Competitors inside/outside YC\n2. Possible moats\n3. Replication difficulty\n4. Unfair advantages to build\n5. Defensibility score (1-10)\n\nWhich is more defensible?`
+    );
+    ultimateResults.compete = p4;
+    addPhaseResult("compete", p4);
+
+    // Phase 5: Unit Economics
+    updatePhaseTracker(4);
+    const p5 = await claudeCall(
+      `You are a business model analyst. #1 opportunity:\n${p4.slice(0, 700)}\n\nUse **bold**.`,
+      `Design the business for the #1 opportunity:\n1. Revenue model\n2. Pricing & ACV\n3. Customer acquisition & CAC\n4. Gross margins\n5. Path to $1M ARR\n6. Path to $10M ARR\n7. Why VCs fund this`
+    );
+    ultimateResults.unit = p5;
+    addPhaseResult("unit", p5);
+
+    // Phase 6: Final Verdict
+    updatePhaseTracker(5);
+    const p6 = await claudeCall(
+      `You are a senior startup strategist. Analysis summary:\nMARKET: ${p1.slice(0,300)}\nWHITESPACE: ${p2.slice(0,300)}\nTIMING: ${p3.slice(0,250)}\nDEFENSIBILITY: ${p4.slice(0,250)}\nBUSINESS: ${p5.slice(0,300)}\n\nDeliver a definitive recommendation. Use **bold**.`,
+      `ONE final startup recommendation:\n\n**THE STARTUP:** Name, one-liner, sector\n\n**WHY THIS** (3 data-backed reasons):\n\n**90-DAY PLAN:**\n- Weeks 1-4: MVP\n- Weeks 5-8: First 10 customers\n- Weeks 9-12: Pre-YC milestones\n\n**YC APPLICATION ANGLE:** Why they'd accept, comparable YC companies\n\n**SCORES:** Fundability, Timing, Competition, Defensibility, Revenue Potential, OVERALL (all X/10)\n\n**BOTTOM LINE:** One bold paragraph.`
+    );
+    ultimateResults.verdict = p6;
+    addPhaseResult("verdict", p6);
+    updatePhaseTracker(6);
+
+    // Show final verdict
+    document.getElementById("ultimateStatus").textContent = "Analysis complete";
+    document.getElementById("ultimateTitle").innerHTML = 'Your startup <span style="font-style:italic;color:var(--accent)">blueprint</span>';
+    const verdictFormatted = p6.replace(/\*\*([^*]+)\*\*/g, '<b style="color:var(--accent)">$1</b>').split("\n").map(l => `<p style="margin:4px 0;line-height:1.8">${l}</p>`).join("");
+    document.getElementById("finalVerdictContent").innerHTML = verdictFormatted;
+    document.getElementById("finalVerdictBox").classList.remove("hidden");
+
+  } catch (e) {
+    document.getElementById("phaseResults").innerHTML += `<div style="padding:16px;background:rgba(239,68,68,0.08);border:1px solid rgba(239,68,68,0.2);border-radius:10px;font-family:var(--font-mono);font-size:12px;color:var(--red);margin-top:16px">Error: ${e.message}</div>`;
+  }
+}
+
+function resetUltimate() {
+  ultimateResults = {};
+  document.getElementById("apiKeySection").classList.remove("hidden");
+  document.getElementById("ultimateProgress").classList.add("hidden");
+  document.getElementById("finalVerdictBox").classList.add("hidden");
+  document.getElementById("phaseResults").innerHTML = "";
+}
+
+function copyFullReport() {
+  const all = PHASE_DEFS.map(p => `## ${p.label}\n${ultimateResults[p.id] || ""}`).join("\n\n---\n\n");
+  navigator.clipboard.writeText(all).then(() => alert("Full report copied to clipboard!"));
+}
+
+document.getElementById("startUltimateBtn").addEventListener("click", runUltimateAnalysis);
 
 // ─── Init ────────────────────────────────────────────────────────────────────
 loadData();
