@@ -1,0 +1,228 @@
+[
+  {
+    "source": "google_trends",
+    "keyword": "quality control software",
+    "avg_interest_12m": 3.9,
+    "recent_interest_4w": 3.5,
+    "trend": "stable",
+    "growth_pct": -10.0,
+    "scraped_at": "2026-03-08T19:56:56.737109"
+  },
+  {
+    "source": "google_trends",
+    "keyword": "manufacturing AI",
+    "avg_interest_12m": 50.7,
+    "recent_interest_4w": 45.0,
+    "trend": "stable",
+    "growth_pct": -11.2,
+    "scraped_at": "2026-03-08T19:56:56.737222"
+  },
+  {
+    "source": "google_trends",
+    "keyword": "defect detection",
+    "avg_interest_12m": 2.6,
+    "recent_interest_4w": 3.8,
+    "trend": "rising",
+    "growth_pct": 46.1,
+    "scraped_at": "2026-03-08T19:56:56.737315"
+  },
+  {
+    "source": "google_trends",
+    "keyword": "visual inspection AI",
+    "avg_interest_12m": 0.9,
+    "recent_interest_4w": 0.2,
+    "trend": "declining",
+    "growth_pct": -69.3,
+    "scraped_at": "2026-03-08T19:56:56.737401"
+  },
+  {
+    "source": "google_trends",
+    "keyword": "property management software",
+    "avg_interest_12m": 34.9,
+    "recent_interest_4w": 27.0,
+    "trend": "declining",
+    "growth_pct": -22.6,
+    "scraped_at": "2026-03-08T19:57:00.616694"
+  },
+  {
+    "source": "google_trends",
+    "keyword": "landlord tool",
+    "avg_interest_12m": 1.7,
+    "recent_interest_4w": 2.5,
+    "trend": "rising",
+    "growth_pct": 44.0,
+    "scraped_at": "2026-03-08T19:57:00.616845"
+  },
+  {
+    "source": "google_trends",
+    "keyword": "tenant screening AI",
+    "avg_interest_12m": 0.6,
+    "recent_interest_4w": 0.5,
+    "trend": "declining",
+    "growth_pct": -14.2,
+    "scraped_at": "2026-03-08T19:57:00.616965"
+  },
+  {
+    "source": "google_trends",
+    "keyword": "clinical trial software",
+    "avg_interest_12m": 2.3,
+    "recent_interest_4w": 3.0,
+    "trend": "rising",
+    "growth_pct": 29.3,
+    "scraped_at": "2026-03-08T19:57:04.537185"
+  },
+  {
+    "source": "google_trends",
+    "keyword": "healthcare AI",
+    "avg_interest_12m": 52.0,
+    "recent_interest_4w": 51.0,
+    "trend": "stable",
+    "growth_pct": -1.9,
+    "scraped_at": "2026-03-08T19:57:04.537333"
+  },
+  {
+    "source": "google_trends",
+    "keyword": "patient matching",
+    "avg_interest_12m": 1.0,
+    "recent_interest_4w": 1.2,
+    "trend": "rising",
+    "growth_pct": 28.8,
+    "scraped_at": "2026-03-08T19:57:04.537457"
+  },
+  {
+    "source": "google_trends",
+    "keyword": "supply chain AI",
+    "avg_interest_12m": 46.2,
+    "recent_interest_4w": 44.2,
+    "trend": "stable",
+    "growth_pct": -4.3,
+    "scraped_at": "2026-03-08T19:57:08.492847"
+  },
+  {
+    "source": "google_trends",
+    "keyword": "inventory management AI",
+    "avg_interest_12m": 13.3,
+    "recent_interest_4w": 10.0,
+    "trend": "declining",
+    "growth_pct": -24.6,
+    "scraped_at": "2026-03-08T19:57:08.492995"
+  },
+  {
+    "source": "google_trends",
+    "keyword": "procurement automation",
+    "avg_interest_12m": 6.9,
+    "recent_interest_4w": 5.0,
+    "trend": "declining",
+    "growth_pct": -27.6,
+    "scraped_at": "2026-03-08T19:57:08.493116"
+  },
+  {
+    "source": "google_trends",
+    "keyword": "corporate training AI",
+    "avg_interest_12m": 47.8,
+    "recent_interest_4w": 40.8,
+    "trend": "stable",
+    "growth_pct": -14.8,
+    "scraped_at": "2026-03-08T19:57:12.496293"
+  },
+  {
+    "source": "google_trends",
+    "keyword": "employee learning platform",
+    "avg_interest_12m": 7.0,
+    "recent_interest_4w": 7.0,
+    "trend": "stable",
+    "growth_pct": 0.0,
+    "scraped_at": "2026-03-08T19:57:12.496428"
+  },
+  {
+    "source": "google_trends",
+    "keyword": "skills assessment AI",
+    "avg_interest_12m": 13.0,
+    "recent_interest_4w": 11.8,
+    "trend": "stable",
+    "growth_pct": -9.6,
+    "scraped_at": "2026-03-08T19:57:12.496554"
+  },
+  {
+    "source": "google_trends",
+    "keyword": "cybersecurity AI",
+    "avg_interest_12m": 43.9,
+    "recent_interest_4w": 32.5,
+    "trend": "declining",
+    "growth_pct": -26.0,
+    "scraped_at": "2026-03-08T19:57:16.400311"
+  },
+  {
+    "source": "google_trends",
+    "keyword": "compliance automation",
+    "avg_interest_12m": 13.3,
+    "recent_interest_4w": 9.0,
+    "trend": "declining",
+    "growth_pct": -32.2,
+    "scraped_at": "2026-03-08T19:57:16.400487"
+  },
+  {
+    "source": "google_trends",
+    "keyword": "SOC2 automation",
+    "avg_interest_12m": 0.2,
+    "recent_interest_4w": 0.5,
+    "trend": "rising",
+    "growth_pct": 31.1,
+    "scraped_at": "2026-03-08T19:57:16.400623"
+  },
+  {
+    "source": "google_trends",
+    "keyword": "legal AI",
+    "avg_interest_12m": 48.0,
+    "recent_interest_4w": 46.2,
+    "trend": "stable",
+    "growth_pct": -3.6,
+    "scraped_at": "2026-03-08T19:57:20.378976"
+  },
+  {
+    "source": "google_trends",
+    "keyword": "contract analysis AI",
+    "avg_interest_12m": 1.4,
+    "recent_interest_4w": 1.2,
+    "trend": "stable",
+    "growth_pct": -10.5,
+    "scraped_at": "2026-03-08T19:57:20.379141"
+  },
+  {
+    "source": "google_trends",
+    "keyword": "document review AI",
+    "avg_interest_12m": 2.2,
+    "recent_interest_4w": 2.8,
+    "trend": "rising",
+    "growth_pct": 23.5,
+    "scraped_at": "2026-03-08T19:57:20.379284"
+  },
+  {
+    "source": "google_trends_related",
+    "parent_keyword": "AI startup",
+    "related_query": "startup funding news",
+    "value": 2900,
+    "scraped_at": "2026-03-08T19:57:30.589338"
+  },
+  {
+    "source": "google_trends_related",
+    "parent_keyword": "AI startup",
+    "related_query": "ai news",
+    "value": 1000,
+    "scraped_at": "2026-03-08T19:57:30.589436"
+  },
+  {
+    "source": "google_trends_related",
+    "parent_keyword": "AI startup",
+    "related_query": "startup news",
+    "value": 950,
+    "scraped_at": "2026-03-08T19:57:30.589507"
+  },
+  {
+    "source": "google_trends_related",
+    "parent_keyword": "AI startup",
+    "related_query": "ai startup ideas",
+    "value": 60,
+    "scraped_at": "2026-03-08T19:57:30.589574"
+  }
+]

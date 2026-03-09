@@ -1,0 +1,3080 @@
+[
+  {
+    "source": "worldbank",
+    "indicator": "Manufacturing % of GDP",
+    "indicator_code": "NV.IND.MANF.ZS",
+    "country": "Brazil",
+    "year": "2024",
+    "value": 12.1108065155746,
+    "scraped_at": "2026-03-08T20:38:21.766371"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Manufacturing % of GDP",
+    "indicator_code": "NV.IND.MANF.ZS",
+    "country": "Brazil",
+    "year": "2023",
+    "value": 13.2531636221996,
+    "scraped_at": "2026-03-08T20:38:21.766382"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Manufacturing % of GDP",
+    "indicator_code": "NV.IND.MANF.ZS",
+    "country": "Brazil",
+    "year": "2022",
+    "value": 13.0740816278135,
+    "scraped_at": "2026-03-08T20:38:21.766385"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Manufacturing % of GDP",
+    "indicator_code": "NV.IND.MANF.ZS",
+    "country": "Brazil",
+    "year": "2021",
+    "value": 11.9043730116912,
+    "scraped_at": "2026-03-08T20:38:21.766388"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Manufacturing % of GDP",
+    "indicator_code": "NV.IND.MANF.ZS",
+    "country": "Brazil",
+    "year": "2020",
+    "value": 10.692931568083,
+    "scraped_at": "2026-03-08T20:38:21.766391"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Manufacturing % of GDP",
+    "indicator_code": "NV.IND.MANF.ZS",
+    "country": "China",
+    "year": "2024",
+    "value": 24.8692407436614,
+    "scraped_at": "2026-03-08T20:38:21.766393"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Manufacturing % of GDP",
+    "indicator_code": "NV.IND.MANF.ZS",
+    "country": "China",
+    "year": "2023",
+    "value": 25.4991668287269,
+    "scraped_at": "2026-03-08T20:38:21.766396"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Manufacturing % of GDP",
+    "indicator_code": "NV.IND.MANF.ZS",
+    "country": "China",
+    "year": "2022",
+    "value": 26.4237655920515,
+    "scraped_at": "2026-03-08T20:38:21.766399"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Manufacturing % of GDP",
+    "indicator_code": "NV.IND.MANF.ZS",
+    "country": "China",
+    "year": "2021",
+    "value": 26.9701216685139,
+    "scraped_at": "2026-03-08T20:38:21.766401"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Manufacturing % of GDP",
+    "indicator_code": "NV.IND.MANF.ZS",
+    "country": "China",
+    "year": "2020",
+    "value": 25.7441402732098,
+    "scraped_at": "2026-03-08T20:38:21.766404"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Manufacturing % of GDP",
+    "indicator_code": "NV.IND.MANF.ZS",
+    "country": "Germany",
+    "year": "2024",
+    "value": 18.0067082931968,
+    "scraped_at": "2026-03-08T20:38:21.766407"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Manufacturing % of GDP",
+    "indicator_code": "NV.IND.MANF.ZS",
+    "country": "Germany",
+    "year": "2023",
+    "value": 18.9402532641593,
+    "scraped_at": "2026-03-08T20:38:21.766410"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Manufacturing % of GDP",
+    "indicator_code": "NV.IND.MANF.ZS",
+    "country": "Germany",
+    "year": "2022",
+    "value": 18.3217735042199,
+    "scraped_at": "2026-03-08T20:38:21.766412"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Manufacturing % of GDP",
+    "indicator_code": "NV.IND.MANF.ZS",
+    "country": "Germany",
+    "year": "2021",
+    "value": 18.5726195842861,
+    "scraped_at": "2026-03-08T20:38:21.766416"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Manufacturing % of GDP",
+    "indicator_code": "NV.IND.MANF.ZS",
+    "country": "Germany",
+    "year": "2020",
+    "value": 18.52749571104,
+    "scraped_at": "2026-03-08T20:38:21.766419"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Manufacturing % of GDP",
+    "indicator_code": "NV.IND.MANF.ZS",
+    "country": "United Kingdom",
+    "year": "2024",
+    "value": 7.98503886607726,
+    "scraped_at": "2026-03-08T20:38:21.766422"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Manufacturing % of GDP",
+    "indicator_code": "NV.IND.MANF.ZS",
+    "country": "United Kingdom",
+    "year": "2023",
+    "value": 8.22392851588786,
+    "scraped_at": "2026-03-08T20:38:21.766424"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Manufacturing % of GDP",
+    "indicator_code": "NV.IND.MANF.ZS",
+    "country": "United Kingdom",
+    "year": "2022",
+    "value": 7.9613351523025,
+    "scraped_at": "2026-03-08T20:38:21.766427"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Manufacturing % of GDP",
+    "indicator_code": "NV.IND.MANF.ZS",
+    "country": "United Kingdom",
+    "year": "2021",
+    "value": 8.73281920838765,
+    "scraped_at": "2026-03-08T20:38:21.766430"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Manufacturing % of GDP",
+    "indicator_code": "NV.IND.MANF.ZS",
+    "country": "United Kingdom",
+    "year": "2020",
+    "value": 9.08180842652208,
+    "scraped_at": "2026-03-08T20:38:21.766432"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Manufacturing % of GDP",
+    "indicator_code": "NV.IND.MANF.ZS",
+    "country": "India",
+    "year": "2024",
+    "value": 12.6085653310554,
+    "scraped_at": "2026-03-08T20:38:21.766435"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Manufacturing % of GDP",
+    "indicator_code": "NV.IND.MANF.ZS",
+    "country": "India",
+    "year": "2023",
+    "value": 13.0186290013323,
+    "scraped_at": "2026-03-08T20:38:21.766437"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Manufacturing % of GDP",
+    "indicator_code": "NV.IND.MANF.ZS",
+    "country": "India",
+    "year": "2022",
+    "value": 13.1454235512516,
+    "scraped_at": "2026-03-08T20:38:21.766440"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Manufacturing % of GDP",
+    "indicator_code": "NV.IND.MANF.ZS",
+    "country": "India",
+    "year": "2021",
+    "value": 14.3770288531286,
+    "scraped_at": "2026-03-08T20:38:21.766443"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Manufacturing % of GDP",
+    "indicator_code": "NV.IND.MANF.ZS",
+    "country": "India",
+    "year": "2020",
+    "value": 14.1204853576923,
+    "scraped_at": "2026-03-08T20:38:21.766446"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Manufacturing % of GDP",
+    "indicator_code": "NV.IND.MANF.ZS",
+    "country": "Israel",
+    "year": "2024",
+    "value": 11.1290426476645,
+    "scraped_at": "2026-03-08T20:38:21.766448"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Manufacturing % of GDP",
+    "indicator_code": "NV.IND.MANF.ZS",
+    "country": "Israel",
+    "year": "2023",
+    "value": 11.728639444159,
+    "scraped_at": "2026-03-08T20:38:21.766451"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Manufacturing % of GDP",
+    "indicator_code": "NV.IND.MANF.ZS",
+    "country": "Israel",
+    "year": "2022",
+    "value": 12.1935490053439,
+    "scraped_at": "2026-03-08T20:38:21.766454"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Manufacturing % of GDP",
+    "indicator_code": "NV.IND.MANF.ZS",
+    "country": "Israel",
+    "year": "2021",
+    "value": 11.7585344138753,
+    "scraped_at": "2026-03-08T20:38:21.766457"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Manufacturing % of GDP",
+    "indicator_code": "NV.IND.MANF.ZS",
+    "country": "Israel",
+    "year": "2020",
+    "value": 12.191982675666,
+    "scraped_at": "2026-03-08T20:38:21.766459"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Manufacturing % of GDP",
+    "indicator_code": "NV.IND.MANF.ZS",
+    "country": "Japan",
+    "year": "2023",
+    "value": 20.5810487191941,
+    "scraped_at": "2026-03-08T20:38:21.766462"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Manufacturing % of GDP",
+    "indicator_code": "NV.IND.MANF.ZS",
+    "country": "Japan",
+    "year": "2022",
+    "value": 19.8229456954966,
+    "scraped_at": "2026-03-08T20:38:21.766465"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Manufacturing % of GDP",
+    "indicator_code": "NV.IND.MANF.ZS",
+    "country": "Japan",
+    "year": "2021",
+    "value": 20.779603531788,
+    "scraped_at": "2026-03-08T20:38:21.766467"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Manufacturing % of GDP",
+    "indicator_code": "NV.IND.MANF.ZS",
+    "country": "Japan",
+    "year": "2020",
+    "value": 20.0515708445907,
+    "scraped_at": "2026-03-08T20:38:21.766470"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Manufacturing % of GDP",
+    "indicator_code": "NV.IND.MANF.ZS",
+    "country": "Korea, Rep.",
+    "year": "2024",
+    "value": 26.6179725157922,
+    "scraped_at": "2026-03-08T20:38:21.766473"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Manufacturing % of GDP",
+    "indicator_code": "NV.IND.MANF.ZS",
+    "country": "Korea, Rep.",
+    "year": "2023",
+    "value": 25.4551420827792,
+    "scraped_at": "2026-03-08T20:38:21.766475"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Manufacturing % of GDP",
+    "indicator_code": "NV.IND.MANF.ZS",
+    "country": "Korea, Rep.",
+    "year": "2022",
+    "value": 26.4977408590265,
+    "scraped_at": "2026-03-08T20:38:21.766478"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Manufacturing % of GDP",
+    "indicator_code": "NV.IND.MANF.ZS",
+    "country": "Korea, Rep.",
+    "year": "2021",
+    "value": 26.2480856022754,
+    "scraped_at": "2026-03-08T20:38:21.766480"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Manufacturing % of GDP",
+    "indicator_code": "NV.IND.MANF.ZS",
+    "country": "Korea, Rep.",
+    "year": "2020",
+    "value": 25.7002433607737,
+    "scraped_at": "2026-03-08T20:38:21.766483"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Manufacturing % of GDP",
+    "indicator_code": "NV.IND.MANF.ZS",
+    "country": "Singapore",
+    "year": "2024",
+    "value": 16.3327049348535,
+    "scraped_at": "2026-03-08T20:38:21.766486"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Manufacturing % of GDP",
+    "indicator_code": "NV.IND.MANF.ZS",
+    "country": "Singapore",
+    "year": "2023",
+    "value": 16.9755594437794,
+    "scraped_at": "2026-03-08T20:38:21.766489"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Manufacturing % of GDP",
+    "indicator_code": "NV.IND.MANF.ZS",
+    "country": "Singapore",
+    "year": "2022",
+    "value": 19.6555376499378,
+    "scraped_at": "2026-03-08T20:38:21.766492"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Manufacturing % of GDP",
+    "indicator_code": "NV.IND.MANF.ZS",
+    "country": "Singapore",
+    "year": "2021",
+    "value": 20.6330680035618,
+    "scraped_at": "2026-03-08T20:38:21.766494"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Manufacturing % of GDP",
+    "indicator_code": "NV.IND.MANF.ZS",
+    "country": "Singapore",
+    "year": "2020",
+    "value": 19.6539845250362,
+    "scraped_at": "2026-03-08T20:38:21.766497"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Manufacturing % of GDP",
+    "indicator_code": "NV.IND.MANF.ZS",
+    "country": "United States",
+    "year": "2021",
+    "value": 10.7103708073141,
+    "scraped_at": "2026-03-08T20:38:21.766500"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Manufacturing % of GDP",
+    "indicator_code": "NV.IND.MANF.ZS",
+    "country": "United States",
+    "year": "2020",
+    "value": 10.6290647168458,
+    "scraped_at": "2026-03-08T20:38:21.766502"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Services % of GDP",
+    "indicator_code": "NV.SRV.TOTL.ZS",
+    "country": "Brazil",
+    "year": "2024",
+    "value": 59.1707527174248,
+    "scraped_at": "2026-03-08T20:38:23.201936"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Services % of GDP",
+    "indicator_code": "NV.SRV.TOTL.ZS",
+    "country": "Brazil",
+    "year": "2023",
+    "value": 59.1789358564203,
+    "scraped_at": "2026-03-08T20:38:23.201952"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Services % of GDP",
+    "indicator_code": "NV.SRV.TOTL.ZS",
+    "country": "Brazil",
+    "year": "2022",
+    "value": 58.0872310746862,
+    "scraped_at": "2026-03-08T20:38:23.201956"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Services % of GDP",
+    "indicator_code": "NV.SRV.TOTL.ZS",
+    "country": "Brazil",
+    "year": "2021",
+    "value": 56.9133841883894,
+    "scraped_at": "2026-03-08T20:38:23.201959"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Services % of GDP",
+    "indicator_code": "NV.SRV.TOTL.ZS",
+    "country": "Brazil",
+    "year": "2020",
+    "value": 61.4484446411949,
+    "scraped_at": "2026-03-08T20:38:23.201962"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Services % of GDP",
+    "indicator_code": "NV.SRV.TOTL.ZS",
+    "country": "China",
+    "year": "2024",
+    "value": 56.7483417417827,
+    "scraped_at": "2026-03-08T20:38:23.201965"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Services % of GDP",
+    "indicator_code": "NV.SRV.TOTL.ZS",
+    "country": "China",
+    "year": "2023",
+    "value": 56.3379775668432,
+    "scraped_at": "2026-03-08T20:38:23.201967"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Services % of GDP",
+    "indicator_code": "NV.SRV.TOTL.ZS",
+    "country": "China",
+    "year": "2022",
+    "value": 54.9575804271762,
+    "scraped_at": "2026-03-08T20:38:23.201970"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Services % of GDP",
+    "indicator_code": "NV.SRV.TOTL.ZS",
+    "country": "China",
+    "year": "2021",
+    "value": 54.8181795722183,
+    "scraped_at": "2026-03-08T20:38:23.201972"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Services % of GDP",
+    "indicator_code": "NV.SRV.TOTL.ZS",
+    "country": "China",
+    "year": "2020",
+    "value": 55.5482556415912,
+    "scraped_at": "2026-03-08T20:38:23.201975"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Services % of GDP",
+    "indicator_code": "NV.SRV.TOTL.ZS",
+    "country": "Germany",
+    "year": "2024",
+    "value": 64.0456505820091,
+    "scraped_at": "2026-03-08T20:38:23.201978"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Services % of GDP",
+    "indicator_code": "NV.SRV.TOTL.ZS",
+    "country": "Germany",
+    "year": "2023",
+    "value": 63.6154489715143,
+    "scraped_at": "2026-03-08T20:38:23.201980"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Services % of GDP",
+    "indicator_code": "NV.SRV.TOTL.ZS",
+    "country": "Germany",
+    "year": "2022",
+    "value": 63.4806825103587,
+    "scraped_at": "2026-03-08T20:38:23.201982"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Services % of GDP",
+    "indicator_code": "NV.SRV.TOTL.ZS",
+    "country": "Germany",
+    "year": "2021",
+    "value": 63.5453543127468,
+    "scraped_at": "2026-03-08T20:38:23.201985"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Services % of GDP",
+    "indicator_code": "NV.SRV.TOTL.ZS",
+    "country": "Germany",
+    "year": "2020",
+    "value": 63.8751333055131,
+    "scraped_at": "2026-03-08T20:38:23.201987"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Services % of GDP",
+    "indicator_code": "NV.SRV.TOTL.ZS",
+    "country": "United Kingdom",
+    "year": "2024",
+    "value": 72.4462431770253,
+    "scraped_at": "2026-03-08T20:38:23.201990"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Services % of GDP",
+    "indicator_code": "NV.SRV.TOTL.ZS",
+    "country": "United Kingdom",
+    "year": "2023",
+    "value": 72.4231913505155,
+    "scraped_at": "2026-03-08T20:38:23.201992"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Services % of GDP",
+    "indicator_code": "NV.SRV.TOTL.ZS",
+    "country": "United Kingdom",
+    "year": "2022",
+    "value": 72.4836484564399,
+    "scraped_at": "2026-03-08T20:38:23.201995"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Services % of GDP",
+    "indicator_code": "NV.SRV.TOTL.ZS",
+    "country": "United Kingdom",
+    "year": "2021",
+    "value": 72.1686675403806,
+    "scraped_at": "2026-03-08T20:38:23.201997"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Services % of GDP",
+    "indicator_code": "NV.SRV.TOTL.ZS",
+    "country": "United Kingdom",
+    "year": "2020",
+    "value": 72.1096426823299,
+    "scraped_at": "2026-03-08T20:38:23.202000"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Services % of GDP",
+    "indicator_code": "NV.SRV.TOTL.ZS",
+    "country": "India",
+    "year": "2024",
+    "value": 49.874440225505,
+    "scraped_at": "2026-03-08T20:38:23.202003"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Services % of GDP",
+    "indicator_code": "NV.SRV.TOTL.ZS",
+    "country": "India",
+    "year": "2023",
+    "value": 49.5071878364149,
+    "scraped_at": "2026-03-08T20:38:23.202005"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Services % of GDP",
+    "indicator_code": "NV.SRV.TOTL.ZS",
+    "country": "India",
+    "year": "2022",
+    "value": 49.7252249980944,
+    "scraped_at": "2026-03-08T20:38:23.202008"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Services % of GDP",
+    "indicator_code": "NV.SRV.TOTL.ZS",
+    "country": "India",
+    "year": "2021",
+    "value": 47.8472234596709,
+    "scraped_at": "2026-03-08T20:38:23.202010"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Services % of GDP",
+    "indicator_code": "NV.SRV.TOTL.ZS",
+    "country": "India",
+    "year": "2020",
+    "value": 47.9326881092162,
+    "scraped_at": "2026-03-08T20:38:23.202013"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Services % of GDP",
+    "indicator_code": "NV.SRV.TOTL.ZS",
+    "country": "Israel",
+    "year": "2024",
+    "value": 72.5367368776929,
+    "scraped_at": "2026-03-08T20:38:23.202015"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Services % of GDP",
+    "indicator_code": "NV.SRV.TOTL.ZS",
+    "country": "Israel",
+    "year": "2023",
+    "value": 72.1468413146559,
+    "scraped_at": "2026-03-08T20:38:23.202018"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Services % of GDP",
+    "indicator_code": "NV.SRV.TOTL.ZS",
+    "country": "Israel",
+    "year": "2022",
+    "value": 70.3167224788312,
+    "scraped_at": "2026-03-08T20:38:23.202020"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Services % of GDP",
+    "indicator_code": "NV.SRV.TOTL.ZS",
+    "country": "Israel",
+    "year": "2021",
+    "value": 70.7410571741361,
+    "scraped_at": "2026-03-08T20:38:23.202023"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Services % of GDP",
+    "indicator_code": "NV.SRV.TOTL.ZS",
+    "country": "Israel",
+    "year": "2020",
+    "value": 70.3061114030538,
+    "scraped_at": "2026-03-08T20:38:23.202025"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Services % of GDP",
+    "indicator_code": "NV.SRV.TOTL.ZS",
+    "country": "Japan",
+    "year": "2023",
+    "value": 69.7727958101915,
+    "scraped_at": "2026-03-08T20:38:23.202028"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Services % of GDP",
+    "indicator_code": "NV.SRV.TOTL.ZS",
+    "country": "Japan",
+    "year": "2022",
+    "value": 70.3587115927394,
+    "scraped_at": "2026-03-08T20:38:23.202032"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Services % of GDP",
+    "indicator_code": "NV.SRV.TOTL.ZS",
+    "country": "Japan",
+    "year": "2021",
+    "value": 69.0185642532758,
+    "scraped_at": "2026-03-08T20:38:23.202035"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Services % of GDP",
+    "indicator_code": "NV.SRV.TOTL.ZS",
+    "country": "Japan",
+    "year": "2020",
+    "value": 69.4747111995642,
+    "scraped_at": "2026-03-08T20:38:23.202037"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Services % of GDP",
+    "indicator_code": "NV.SRV.TOTL.ZS",
+    "country": "Korea, Rep.",
+    "year": "2024",
+    "value": 57.5005082410932,
+    "scraped_at": "2026-03-08T20:38:23.202040"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Services % of GDP",
+    "indicator_code": "NV.SRV.TOTL.ZS",
+    "country": "Korea, Rep.",
+    "year": "2023",
+    "value": 58.8846232184384,
+    "scraped_at": "2026-03-08T20:38:23.202042"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Services % of GDP",
+    "indicator_code": "NV.SRV.TOTL.ZS",
+    "country": "Korea, Rep.",
+    "year": "2022",
+    "value": 58.0714839153337,
+    "scraped_at": "2026-03-08T20:38:23.202045"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Services % of GDP",
+    "indicator_code": "NV.SRV.TOTL.ZS",
+    "country": "Korea, Rep.",
+    "year": "2021",
+    "value": 56.9003312416072,
+    "scraped_at": "2026-03-08T20:38:23.202047"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Services % of GDP",
+    "indicator_code": "NV.SRV.TOTL.ZS",
+    "country": "Korea, Rep.",
+    "year": "2020",
+    "value": 56.9193572011009,
+    "scraped_at": "2026-03-08T20:38:23.202050"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Services % of GDP",
+    "indicator_code": "NV.SRV.TOTL.ZS",
+    "country": "Singapore",
+    "year": "2024",
+    "value": 73.0290588610543,
+    "scraped_at": "2026-03-08T20:38:23.202052"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Services % of GDP",
+    "indicator_code": "NV.SRV.TOTL.ZS",
+    "country": "Singapore",
+    "year": "2023",
+    "value": 72.6907302698223,
+    "scraped_at": "2026-03-08T20:38:23.202055"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Services % of GDP",
+    "indicator_code": "NV.SRV.TOTL.ZS",
+    "country": "Singapore",
+    "year": "2022",
+    "value": 71.6014067935171,
+    "scraped_at": "2026-03-08T20:38:23.202057"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Services % of GDP",
+    "indicator_code": "NV.SRV.TOTL.ZS",
+    "country": "Singapore",
+    "year": "2021",
+    "value": 70.1698277615445,
+    "scraped_at": "2026-03-08T20:38:23.202060"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Services % of GDP",
+    "indicator_code": "NV.SRV.TOTL.ZS",
+    "country": "Singapore",
+    "year": "2020",
+    "value": 72.1026995251566,
+    "scraped_at": "2026-03-08T20:38:23.202062"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Services % of GDP",
+    "indicator_code": "NV.SRV.TOTL.ZS",
+    "country": "United States",
+    "year": "2021",
+    "value": 77.5992103112853,
+    "scraped_at": "2026-03-08T20:38:23.202065"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Services % of GDP",
+    "indicator_code": "NV.SRV.TOTL.ZS",
+    "country": "United States",
+    "year": "2020",
+    "value": 78.137486413611,
+    "scraped_at": "2026-03-08T20:38:23.202068"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "R&D Expenditure % of GDP",
+    "indicator_code": "GB.XPD.RSDV.GD.ZS",
+    "country": "Brazil",
+    "year": "2020",
+    "value": 1.14526,
+    "scraped_at": "2026-03-08T20:38:24.395697"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "R&D Expenditure % of GDP",
+    "indicator_code": "GB.XPD.RSDV.GD.ZS",
+    "country": "China",
+    "year": "2022",
+    "value": 2.55518,
+    "scraped_at": "2026-03-08T20:38:24.395717"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "R&D Expenditure % of GDP",
+    "indicator_code": "GB.XPD.RSDV.GD.ZS",
+    "country": "China",
+    "year": "2021",
+    "value": 2.4326,
+    "scraped_at": "2026-03-08T20:38:24.395720"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "R&D Expenditure % of GDP",
+    "indicator_code": "GB.XPD.RSDV.GD.ZS",
+    "country": "China",
+    "year": "2020",
+    "value": 2.40666,
+    "scraped_at": "2026-03-08T20:38:24.395723"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "R&D Expenditure % of GDP",
+    "indicator_code": "GB.XPD.RSDV.GD.ZS",
+    "country": "Germany",
+    "year": "2022",
+    "value": 3.13236,
+    "scraped_at": "2026-03-08T20:38:24.395727"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "R&D Expenditure % of GDP",
+    "indicator_code": "GB.XPD.RSDV.GD.ZS",
+    "country": "Germany",
+    "year": "2021",
+    "value": 3.12882,
+    "scraped_at": "2026-03-08T20:38:24.395730"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "R&D Expenditure % of GDP",
+    "indicator_code": "GB.XPD.RSDV.GD.ZS",
+    "country": "Germany",
+    "year": "2020",
+    "value": 3.13136,
+    "scraped_at": "2026-03-08T20:38:24.395733"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "R&D Expenditure % of GDP",
+    "indicator_code": "GB.XPD.RSDV.GD.ZS",
+    "country": "United Kingdom",
+    "year": "2021",
+    "value": 2.89711,
+    "scraped_at": "2026-03-08T20:38:24.395736"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "R&D Expenditure % of GDP",
+    "indicator_code": "GB.XPD.RSDV.GD.ZS",
+    "country": "United Kingdom",
+    "year": "2020",
+    "value": 2.93883,
+    "scraped_at": "2026-03-08T20:38:24.395739"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "R&D Expenditure % of GDP",
+    "indicator_code": "GB.XPD.RSDV.GD.ZS",
+    "country": "India",
+    "year": "2020",
+    "value": 0.64558,
+    "scraped_at": "2026-03-08T20:38:24.395742"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "R&D Expenditure % of GDP",
+    "indicator_code": "GB.XPD.RSDV.GD.ZS",
+    "country": "Israel",
+    "year": "2022",
+    "value": 6.01924,
+    "scraped_at": "2026-03-08T20:38:24.395745"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "R&D Expenditure % of GDP",
+    "indicator_code": "GB.XPD.RSDV.GD.ZS",
+    "country": "Israel",
+    "year": "2021",
+    "value": 5.78276,
+    "scraped_at": "2026-03-08T20:38:24.395748"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "R&D Expenditure % of GDP",
+    "indicator_code": "GB.XPD.RSDV.GD.ZS",
+    "country": "Israel",
+    "year": "2020",
+    "value": 5.79681,
+    "scraped_at": "2026-03-08T20:38:24.395751"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "R&D Expenditure % of GDP",
+    "indicator_code": "GB.XPD.RSDV.GD.ZS",
+    "country": "Japan",
+    "year": "2022",
+    "value": 3.40537,
+    "scraped_at": "2026-03-08T20:38:24.395754"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "R&D Expenditure % of GDP",
+    "indicator_code": "GB.XPD.RSDV.GD.ZS",
+    "country": "Japan",
+    "year": "2021",
+    "value": 3.27677,
+    "scraped_at": "2026-03-08T20:38:24.395757"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "R&D Expenditure % of GDP",
+    "indicator_code": "GB.XPD.RSDV.GD.ZS",
+    "country": "Japan",
+    "year": "2020",
+    "value": 3.26458,
+    "scraped_at": "2026-03-08T20:38:24.395759"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "R&D Expenditure % of GDP",
+    "indicator_code": "GB.XPD.RSDV.GD.ZS",
+    "country": "Korea, Rep.",
+    "year": "2022",
+    "value": 5.21081,
+    "scraped_at": "2026-03-08T20:38:24.395762"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "R&D Expenditure % of GDP",
+    "indicator_code": "GB.XPD.RSDV.GD.ZS",
+    "country": "Korea, Rep.",
+    "year": "2021",
+    "value": 4.90988,
+    "scraped_at": "2026-03-08T20:38:24.395766"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "R&D Expenditure % of GDP",
+    "indicator_code": "GB.XPD.RSDV.GD.ZS",
+    "country": "Korea, Rep.",
+    "year": "2020",
+    "value": 4.79571,
+    "scraped_at": "2026-03-08T20:38:24.395769"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "R&D Expenditure % of GDP",
+    "indicator_code": "GB.XPD.RSDV.GD.ZS",
+    "country": "Singapore",
+    "year": "2020",
+    "value": 2.15626,
+    "scraped_at": "2026-03-08T20:38:24.395772"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "R&D Expenditure % of GDP",
+    "indicator_code": "GB.XPD.RSDV.GD.ZS",
+    "country": "United States",
+    "year": "2022",
+    "value": 3.58623,
+    "scraped_at": "2026-03-08T20:38:24.395775"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "R&D Expenditure % of GDP",
+    "indicator_code": "GB.XPD.RSDV.GD.ZS",
+    "country": "United States",
+    "year": "2021",
+    "value": 3.48313,
+    "scraped_at": "2026-03-08T20:38:24.395778"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "R&D Expenditure % of GDP",
+    "indicator_code": "GB.XPD.RSDV.GD.ZS",
+    "country": "United States",
+    "year": "2020",
+    "value": 3.42467,
+    "scraped_at": "2026-03-08T20:38:24.395780"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Internet Users %",
+    "indicator_code": "IT.NET.USER.ZS",
+    "country": "Brazil",
+    "year": "2024",
+    "value": 84.4635,
+    "scraped_at": "2026-03-08T20:38:25.554689"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Internet Users %",
+    "indicator_code": "IT.NET.USER.ZS",
+    "country": "Brazil",
+    "year": "2023",
+    "value": 84.1506,
+    "scraped_at": "2026-03-08T20:38:25.554707"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Internet Users %",
+    "indicator_code": "IT.NET.USER.ZS",
+    "country": "Brazil",
+    "year": "2022",
+    "value": 80.5278,
+    "scraped_at": "2026-03-08T20:38:25.554710"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Internet Users %",
+    "indicator_code": "IT.NET.USER.ZS",
+    "country": "Brazil",
+    "year": "2021",
+    "value": 80.6899,
+    "scraped_at": "2026-03-08T20:38:25.554713"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Internet Users %",
+    "indicator_code": "IT.NET.USER.ZS",
+    "country": "Brazil",
+    "year": "2020",
+    "value": 81.3427,
+    "scraped_at": "2026-03-08T20:38:25.554716"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Internet Users %",
+    "indicator_code": "IT.NET.USER.ZS",
+    "country": "China",
+    "year": "2024",
+    "value": 92,
+    "scraped_at": "2026-03-08T20:38:25.554720"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Internet Users %",
+    "indicator_code": "IT.NET.USER.ZS",
+    "country": "China",
+    "year": "2023",
+    "value": 90.6,
+    "scraped_at": "2026-03-08T20:38:25.554722"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Internet Users %",
+    "indicator_code": "IT.NET.USER.ZS",
+    "country": "China",
+    "year": "2022",
+    "value": 75.6113,
+    "scraped_at": "2026-03-08T20:38:25.554725"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Internet Users %",
+    "indicator_code": "IT.NET.USER.ZS",
+    "country": "China",
+    "year": "2021",
+    "value": 73.0532,
+    "scraped_at": "2026-03-08T20:38:25.554728"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Internet Users %",
+    "indicator_code": "IT.NET.USER.ZS",
+    "country": "China",
+    "year": "2020",
+    "value": 70.0528,
+    "scraped_at": "2026-03-08T20:38:25.554731"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Internet Users %",
+    "indicator_code": "IT.NET.USER.ZS",
+    "country": "Germany",
+    "year": "2024",
+    "value": 93.5,
+    "scraped_at": "2026-03-08T20:38:25.554733"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Internet Users %",
+    "indicator_code": "IT.NET.USER.ZS",
+    "country": "Germany",
+    "year": "2023",
+    "value": 92.4764,
+    "scraped_at": "2026-03-08T20:38:25.554736"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Internet Users %",
+    "indicator_code": "IT.NET.USER.ZS",
+    "country": "Germany",
+    "year": "2022",
+    "value": 91.6298,
+    "scraped_at": "2026-03-08T20:38:25.554739"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Internet Users %",
+    "indicator_code": "IT.NET.USER.ZS",
+    "country": "Germany",
+    "year": "2021",
+    "value": 91.4306,
+    "scraped_at": "2026-03-08T20:38:25.554741"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Internet Users %",
+    "indicator_code": "IT.NET.USER.ZS",
+    "country": "Germany",
+    "year": "2020",
+    "value": 89.8129,
+    "scraped_at": "2026-03-08T20:38:25.554746"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Internet Users %",
+    "indicator_code": "IT.NET.USER.ZS",
+    "country": "United Kingdom",
+    "year": "2023",
+    "value": 96.2988,
+    "scraped_at": "2026-03-08T20:38:25.554749"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Internet Users %",
+    "indicator_code": "IT.NET.USER.ZS",
+    "country": "United Kingdom",
+    "year": "2022",
+    "value": 96.2989,
+    "scraped_at": "2026-03-08T20:38:25.554751"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Internet Users %",
+    "indicator_code": "IT.NET.USER.ZS",
+    "country": "United Kingdom",
+    "year": "2021",
+    "value": 96.1965,
+    "scraped_at": "2026-03-08T20:38:25.554754"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Internet Users %",
+    "indicator_code": "IT.NET.USER.ZS",
+    "country": "United Kingdom",
+    "year": "2020",
+    "value": 94.8182,
+    "scraped_at": "2026-03-08T20:38:25.554757"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Internet Users %",
+    "indicator_code": "IT.NET.USER.ZS",
+    "country": "India",
+    "year": "2025",
+    "value": 70,
+    "scraped_at": "2026-03-08T20:38:25.554759"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Internet Users %",
+    "indicator_code": "IT.NET.USER.ZS",
+    "country": "India",
+    "year": "2022",
+    "value": 55.9,
+    "scraped_at": "2026-03-08T20:38:25.554763"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Internet Users %",
+    "indicator_code": "IT.NET.USER.ZS",
+    "country": "India",
+    "year": "2020",
+    "value": 43.4054,
+    "scraped_at": "2026-03-08T20:38:25.554765"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Internet Users %",
+    "indicator_code": "IT.NET.USER.ZS",
+    "country": "Israel",
+    "year": "2024",
+    "value": 88.1824,
+    "scraped_at": "2026-03-08T20:38:25.554768"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Internet Users %",
+    "indicator_code": "IT.NET.USER.ZS",
+    "country": "Israel",
+    "year": "2023",
+    "value": 87.0384,
+    "scraped_at": "2026-03-08T20:38:25.554771"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Internet Users %",
+    "indicator_code": "IT.NET.USER.ZS",
+    "country": "Israel",
+    "year": "2022",
+    "value": 91.8508,
+    "scraped_at": "2026-03-08T20:38:25.554773"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Internet Users %",
+    "indicator_code": "IT.NET.USER.ZS",
+    "country": "Israel",
+    "year": "2021",
+    "value": 90.2969,
+    "scraped_at": "2026-03-08T20:38:25.554776"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Internet Users %",
+    "indicator_code": "IT.NET.USER.ZS",
+    "country": "Israel",
+    "year": "2020",
+    "value": 90.1273,
+    "scraped_at": "2026-03-08T20:38:25.554778"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Internet Users %",
+    "indicator_code": "IT.NET.USER.ZS",
+    "country": "Japan",
+    "year": "2023",
+    "value": 86.9815,
+    "scraped_at": "2026-03-08T20:38:25.554781"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Internet Users %",
+    "indicator_code": "IT.NET.USER.ZS",
+    "country": "Japan",
+    "year": "2022",
+    "value": 84.9234,
+    "scraped_at": "2026-03-08T20:38:25.554784"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Internet Users %",
+    "indicator_code": "IT.NET.USER.ZS",
+    "country": "Japan",
+    "year": "2021",
+    "value": 82.9141,
+    "scraped_at": "2026-03-08T20:38:25.554787"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Internet Users %",
+    "indicator_code": "IT.NET.USER.ZS",
+    "country": "Japan",
+    "year": "2020",
+    "value": 90.2195,
+    "scraped_at": "2026-03-08T20:38:25.554790"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Internet Users %",
+    "indicator_code": "IT.NET.USER.ZS",
+    "country": "Korea, Rep.",
+    "year": "2024",
+    "value": 97.8956,
+    "scraped_at": "2026-03-08T20:38:25.554792"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Internet Users %",
+    "indicator_code": "IT.NET.USER.ZS",
+    "country": "Korea, Rep.",
+    "year": "2023",
+    "value": 97.416,
+    "scraped_at": "2026-03-08T20:38:25.554795"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Internet Users %",
+    "indicator_code": "IT.NET.USER.ZS",
+    "country": "Korea, Rep.",
+    "year": "2022",
+    "value": 97.1686,
+    "scraped_at": "2026-03-08T20:38:25.554798"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Internet Users %",
+    "indicator_code": "IT.NET.USER.ZS",
+    "country": "Korea, Rep.",
+    "year": "2021",
+    "value": 97.5713,
+    "scraped_at": "2026-03-08T20:38:25.554801"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Internet Users %",
+    "indicator_code": "IT.NET.USER.ZS",
+    "country": "Korea, Rep.",
+    "year": "2020",
+    "value": 96.5051,
+    "scraped_at": "2026-03-08T20:38:25.554803"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Internet Users %",
+    "indicator_code": "IT.NET.USER.ZS",
+    "country": "Singapore",
+    "year": "2024",
+    "value": 94.3776,
+    "scraped_at": "2026-03-08T20:38:25.554806"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Internet Users %",
+    "indicator_code": "IT.NET.USER.ZS",
+    "country": "Singapore",
+    "year": "2023",
+    "value": 94.2852,
+    "scraped_at": "2026-03-08T20:38:25.554809"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Internet Users %",
+    "indicator_code": "IT.NET.USER.ZS",
+    "country": "Singapore",
+    "year": "2022",
+    "value": 95.9539,
+    "scraped_at": "2026-03-08T20:38:25.554811"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Internet Users %",
+    "indicator_code": "IT.NET.USER.ZS",
+    "country": "Singapore",
+    "year": "2021",
+    "value": 96.9247,
+    "scraped_at": "2026-03-08T20:38:25.554814"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Internet Users %",
+    "indicator_code": "IT.NET.USER.ZS",
+    "country": "Singapore",
+    "year": "2020",
+    "value": 92.0043,
+    "scraped_at": "2026-03-08T20:38:25.554816"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Internet Users %",
+    "indicator_code": "IT.NET.USER.ZS",
+    "country": "United States",
+    "year": "2023",
+    "value": 93.1444,
+    "scraped_at": "2026-03-08T20:38:25.554819"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Internet Users %",
+    "indicator_code": "IT.NET.USER.ZS",
+    "country": "United States",
+    "year": "2022",
+    "value": 92.2016,
+    "scraped_at": "2026-03-08T20:38:25.554822"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Internet Users %",
+    "indicator_code": "IT.NET.USER.ZS",
+    "country": "United States",
+    "year": "2021",
+    "value": 91.2684,
+    "scraped_at": "2026-03-08T20:38:25.554824"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Internet Users %",
+    "indicator_code": "IT.NET.USER.ZS",
+    "country": "United States",
+    "year": "2020",
+    "value": 90.3447,
+    "scraped_at": "2026-03-08T20:38:25.554827"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Unemployment Rate",
+    "indicator_code": "SL.UEM.TOTL.ZS",
+    "country": "Brazil",
+    "year": "2025",
+    "value": 5.97,
+    "scraped_at": "2026-03-08T20:38:26.683000"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Unemployment Rate",
+    "indicator_code": "SL.UEM.TOTL.ZS",
+    "country": "Brazil",
+    "year": "2024",
+    "value": 6.801,
+    "scraped_at": "2026-03-08T20:38:26.683040"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Unemployment Rate",
+    "indicator_code": "SL.UEM.TOTL.ZS",
+    "country": "Brazil",
+    "year": "2023",
+    "value": 7.947,
+    "scraped_at": "2026-03-08T20:38:26.683044"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Unemployment Rate",
+    "indicator_code": "SL.UEM.TOTL.ZS",
+    "country": "Brazil",
+    "year": "2022",
+    "value": 9.231,
+    "scraped_at": "2026-03-08T20:38:26.683208"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Unemployment Rate",
+    "indicator_code": "SL.UEM.TOTL.ZS",
+    "country": "Brazil",
+    "year": "2021",
+    "value": 13.158,
+    "scraped_at": "2026-03-08T20:38:26.683224"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Unemployment Rate",
+    "indicator_code": "SL.UEM.TOTL.ZS",
+    "country": "Brazil",
+    "year": "2020",
+    "value": 13.697,
+    "scraped_at": "2026-03-08T20:38:26.683228"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Unemployment Rate",
+    "indicator_code": "SL.UEM.TOTL.ZS",
+    "country": "China",
+    "year": "2025",
+    "value": 4.615,
+    "scraped_at": "2026-03-08T20:38:26.683230"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Unemployment Rate",
+    "indicator_code": "SL.UEM.TOTL.ZS",
+    "country": "China",
+    "year": "2024",
+    "value": 4.59,
+    "scraped_at": "2026-03-08T20:38:26.683234"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Unemployment Rate",
+    "indicator_code": "SL.UEM.TOTL.ZS",
+    "country": "China",
+    "year": "2023",
+    "value": 4.67,
+    "scraped_at": "2026-03-08T20:38:26.683236"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Unemployment Rate",
+    "indicator_code": "SL.UEM.TOTL.ZS",
+    "country": "China",
+    "year": "2022",
+    "value": 4.98,
+    "scraped_at": "2026-03-08T20:38:26.683239"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Unemployment Rate",
+    "indicator_code": "SL.UEM.TOTL.ZS",
+    "country": "China",
+    "year": "2021",
+    "value": 4.55,
+    "scraped_at": "2026-03-08T20:38:26.683242"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Unemployment Rate",
+    "indicator_code": "SL.UEM.TOTL.ZS",
+    "country": "China",
+    "year": "2020",
+    "value": 5,
+    "scraped_at": "2026-03-08T20:38:26.683244"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Unemployment Rate",
+    "indicator_code": "SL.UEM.TOTL.ZS",
+    "country": "Germany",
+    "year": "2025",
+    "value": 3.711,
+    "scraped_at": "2026-03-08T20:38:26.683247"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Unemployment Rate",
+    "indicator_code": "SL.UEM.TOTL.ZS",
+    "country": "Germany",
+    "year": "2024",
+    "value": 3.4,
+    "scraped_at": "2026-03-08T20:38:26.683252"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Unemployment Rate",
+    "indicator_code": "SL.UEM.TOTL.ZS",
+    "country": "Germany",
+    "year": "2023",
+    "value": 3.071,
+    "scraped_at": "2026-03-08T20:38:26.683254"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Unemployment Rate",
+    "indicator_code": "SL.UEM.TOTL.ZS",
+    "country": "Germany",
+    "year": "2022",
+    "value": 3.137,
+    "scraped_at": "2026-03-08T20:38:26.683257"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Unemployment Rate",
+    "indicator_code": "SL.UEM.TOTL.ZS",
+    "country": "Germany",
+    "year": "2021",
+    "value": 3.594,
+    "scraped_at": "2026-03-08T20:38:26.683260"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Unemployment Rate",
+    "indicator_code": "SL.UEM.TOTL.ZS",
+    "country": "Germany",
+    "year": "2020",
+    "value": 3.881,
+    "scraped_at": "2026-03-08T20:38:26.683263"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Unemployment Rate",
+    "indicator_code": "SL.UEM.TOTL.ZS",
+    "country": "United Kingdom",
+    "year": "2025",
+    "value": 4.746,
+    "scraped_at": "2026-03-08T20:38:26.683265"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Unemployment Rate",
+    "indicator_code": "SL.UEM.TOTL.ZS",
+    "country": "United Kingdom",
+    "year": "2024",
+    "value": 4.361,
+    "scraped_at": "2026-03-08T20:38:26.683269"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Unemployment Rate",
+    "indicator_code": "SL.UEM.TOTL.ZS",
+    "country": "United Kingdom",
+    "year": "2023",
+    "value": 4.025,
+    "scraped_at": "2026-03-08T20:38:26.683271"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Unemployment Rate",
+    "indicator_code": "SL.UEM.TOTL.ZS",
+    "country": "United Kingdom",
+    "year": "2022",
+    "value": 3.768,
+    "scraped_at": "2026-03-08T20:38:26.683274"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Unemployment Rate",
+    "indicator_code": "SL.UEM.TOTL.ZS",
+    "country": "United Kingdom",
+    "year": "2021",
+    "value": 4.864,
+    "scraped_at": "2026-03-08T20:38:26.683277"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Unemployment Rate",
+    "indicator_code": "SL.UEM.TOTL.ZS",
+    "country": "United Kingdom",
+    "year": "2020",
+    "value": 4.472,
+    "scraped_at": "2026-03-08T20:38:26.683279"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Unemployment Rate",
+    "indicator_code": "SL.UEM.TOTL.ZS",
+    "country": "India",
+    "year": "2025",
+    "value": 4.219,
+    "scraped_at": "2026-03-08T20:38:26.683282"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Unemployment Rate",
+    "indicator_code": "SL.UEM.TOTL.ZS",
+    "country": "India",
+    "year": "2024",
+    "value": 4.173,
+    "scraped_at": "2026-03-08T20:38:26.683284"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Unemployment Rate",
+    "indicator_code": "SL.UEM.TOTL.ZS",
+    "country": "India",
+    "year": "2023",
+    "value": 4.172,
+    "scraped_at": "2026-03-08T20:38:26.683286"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Unemployment Rate",
+    "indicator_code": "SL.UEM.TOTL.ZS",
+    "country": "India",
+    "year": "2022",
+    "value": 4.822,
+    "scraped_at": "2026-03-08T20:38:26.683289"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Unemployment Rate",
+    "indicator_code": "SL.UEM.TOTL.ZS",
+    "country": "India",
+    "year": "2021",
+    "value": 6.38,
+    "scraped_at": "2026-03-08T20:38:26.683292"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Unemployment Rate",
+    "indicator_code": "SL.UEM.TOTL.ZS",
+    "country": "India",
+    "year": "2020",
+    "value": 7.859,
+    "scraped_at": "2026-03-08T20:38:26.683294"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Unemployment Rate",
+    "indicator_code": "SL.UEM.TOTL.ZS",
+    "country": "Israel",
+    "year": "2025",
+    "value": 3.489,
+    "scraped_at": "2026-03-08T20:38:26.683297"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Unemployment Rate",
+    "indicator_code": "SL.UEM.TOTL.ZS",
+    "country": "Israel",
+    "year": "2024",
+    "value": 3.595,
+    "scraped_at": "2026-03-08T20:38:26.683299"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Unemployment Rate",
+    "indicator_code": "SL.UEM.TOTL.ZS",
+    "country": "Israel",
+    "year": "2023",
+    "value": 3.371,
+    "scraped_at": "2026-03-08T20:38:26.683302"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Unemployment Rate",
+    "indicator_code": "SL.UEM.TOTL.ZS",
+    "country": "Israel",
+    "year": "2022",
+    "value": 3.695,
+    "scraped_at": "2026-03-08T20:38:26.683304"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Unemployment Rate",
+    "indicator_code": "SL.UEM.TOTL.ZS",
+    "country": "Israel",
+    "year": "2021",
+    "value": 4.812,
+    "scraped_at": "2026-03-08T20:38:26.683307"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Unemployment Rate",
+    "indicator_code": "SL.UEM.TOTL.ZS",
+    "country": "Israel",
+    "year": "2020",
+    "value": 4.169,
+    "scraped_at": "2026-03-08T20:38:26.683310"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Unemployment Rate",
+    "indicator_code": "SL.UEM.TOTL.ZS",
+    "country": "Japan",
+    "year": "2025",
+    "value": 2.451,
+    "scraped_at": "2026-03-08T20:38:26.683312"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Unemployment Rate",
+    "indicator_code": "SL.UEM.TOTL.ZS",
+    "country": "Japan",
+    "year": "2024",
+    "value": 2.5,
+    "scraped_at": "2026-03-08T20:38:26.683315"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Unemployment Rate",
+    "indicator_code": "SL.UEM.TOTL.ZS",
+    "country": "Japan",
+    "year": "2023",
+    "value": 2.6,
+    "scraped_at": "2026-03-08T20:38:26.683317"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Unemployment Rate",
+    "indicator_code": "SL.UEM.TOTL.ZS",
+    "country": "Japan",
+    "year": "2022",
+    "value": 2.614,
+    "scraped_at": "2026-03-08T20:38:26.683320"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Unemployment Rate",
+    "indicator_code": "SL.UEM.TOTL.ZS",
+    "country": "Japan",
+    "year": "2021",
+    "value": 2.808,
+    "scraped_at": "2026-03-08T20:38:26.683322"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Unemployment Rate",
+    "indicator_code": "SL.UEM.TOTL.ZS",
+    "country": "Japan",
+    "year": "2020",
+    "value": 2.809,
+    "scraped_at": "2026-03-08T20:38:26.683325"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Unemployment Rate",
+    "indicator_code": "SL.UEM.TOTL.ZS",
+    "country": "Korea, Rep.",
+    "year": "2025",
+    "value": 2.683,
+    "scraped_at": "2026-03-08T20:38:26.683328"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Unemployment Rate",
+    "indicator_code": "SL.UEM.TOTL.ZS",
+    "country": "Korea, Rep.",
+    "year": "2024",
+    "value": 2.784,
+    "scraped_at": "2026-03-08T20:38:26.683331"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Unemployment Rate",
+    "indicator_code": "SL.UEM.TOTL.ZS",
+    "country": "Korea, Rep.",
+    "year": "2023",
+    "value": 2.675,
+    "scraped_at": "2026-03-08T20:38:26.683333"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Unemployment Rate",
+    "indicator_code": "SL.UEM.TOTL.ZS",
+    "country": "Korea, Rep.",
+    "year": "2022",
+    "value": 2.857,
+    "scraped_at": "2026-03-08T20:38:26.683336"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Unemployment Rate",
+    "indicator_code": "SL.UEM.TOTL.ZS",
+    "country": "Korea, Rep.",
+    "year": "2021",
+    "value": 3.639,
+    "scraped_at": "2026-03-08T20:38:26.683338"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Unemployment Rate",
+    "indicator_code": "SL.UEM.TOTL.ZS",
+    "country": "Korea, Rep.",
+    "year": "2020",
+    "value": 3.931,
+    "scraped_at": "2026-03-08T20:38:26.683341"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Unemployment Rate",
+    "indicator_code": "SL.UEM.TOTL.ZS",
+    "country": "Singapore",
+    "year": "2025",
+    "value": 2.818,
+    "scraped_at": "2026-03-08T20:38:26.683343"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Unemployment Rate",
+    "indicator_code": "SL.UEM.TOTL.ZS",
+    "country": "Singapore",
+    "year": "2024",
+    "value": 2.737,
+    "scraped_at": "2026-03-08T20:38:26.683346"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Unemployment Rate",
+    "indicator_code": "SL.UEM.TOTL.ZS",
+    "country": "Singapore",
+    "year": "2023",
+    "value": 3.444,
+    "scraped_at": "2026-03-08T20:38:26.683349"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Unemployment Rate",
+    "indicator_code": "SL.UEM.TOTL.ZS",
+    "country": "Singapore",
+    "year": "2022",
+    "value": 3.591,
+    "scraped_at": "2026-03-08T20:38:26.683351"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Unemployment Rate",
+    "indicator_code": "SL.UEM.TOTL.ZS",
+    "country": "Singapore",
+    "year": "2021",
+    "value": 4.64,
+    "scraped_at": "2026-03-08T20:38:26.683354"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Unemployment Rate",
+    "indicator_code": "SL.UEM.TOTL.ZS",
+    "country": "Singapore",
+    "year": "2020",
+    "value": 4.1,
+    "scraped_at": "2026-03-08T20:38:26.683356"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Unemployment Rate",
+    "indicator_code": "SL.UEM.TOTL.ZS",
+    "country": "United States",
+    "year": "2025",
+    "value": 4.198,
+    "scraped_at": "2026-03-08T20:38:26.683358"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Unemployment Rate",
+    "indicator_code": "SL.UEM.TOTL.ZS",
+    "country": "United States",
+    "year": "2024",
+    "value": 4.022,
+    "scraped_at": "2026-03-08T20:38:26.683361"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Unemployment Rate",
+    "indicator_code": "SL.UEM.TOTL.ZS",
+    "country": "United States",
+    "year": "2023",
+    "value": 3.638,
+    "scraped_at": "2026-03-08T20:38:26.683363"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Unemployment Rate",
+    "indicator_code": "SL.UEM.TOTL.ZS",
+    "country": "United States",
+    "year": "2022",
+    "value": 3.65,
+    "scraped_at": "2026-03-08T20:38:26.683366"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Unemployment Rate",
+    "indicator_code": "SL.UEM.TOTL.ZS",
+    "country": "United States",
+    "year": "2021",
+    "value": 5.349,
+    "scraped_at": "2026-03-08T20:38:26.683368"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Unemployment Rate",
+    "indicator_code": "SL.UEM.TOTL.ZS",
+    "country": "United States",
+    "year": "2020",
+    "value": 8.055,
+    "scraped_at": "2026-03-08T20:38:26.683371"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "GDP Growth Rate",
+    "indicator_code": "NY.GDP.MKTP.KD.ZG",
+    "country": "Brazil",
+    "year": "2024",
+    "value": 3.41931516597739,
+    "scraped_at": "2026-03-08T20:38:27.810750"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "GDP Growth Rate",
+    "indicator_code": "NY.GDP.MKTP.KD.ZG",
+    "country": "Brazil",
+    "year": "2023",
+    "value": 3.24165532813583,
+    "scraped_at": "2026-03-08T20:38:27.810764"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "GDP Growth Rate",
+    "indicator_code": "NY.GDP.MKTP.KD.ZG",
+    "country": "Brazil",
+    "year": "2022",
+    "value": 3.01669435408112,
+    "scraped_at": "2026-03-08T20:38:27.810767"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "GDP Growth Rate",
+    "indicator_code": "NY.GDP.MKTP.KD.ZG",
+    "country": "Brazil",
+    "year": "2021",
+    "value": 4.7626043797061,
+    "scraped_at": "2026-03-08T20:38:27.810770"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "GDP Growth Rate",
+    "indicator_code": "NY.GDP.MKTP.KD.ZG",
+    "country": "Brazil",
+    "year": "2020",
+    "value": -3.27675879612903,
+    "scraped_at": "2026-03-08T20:38:27.810773"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "GDP Growth Rate",
+    "indicator_code": "NY.GDP.MKTP.KD.ZG",
+    "country": "China",
+    "year": "2024",
+    "value": 4.9773565917572,
+    "scraped_at": "2026-03-08T20:38:27.810775"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "GDP Growth Rate",
+    "indicator_code": "NY.GDP.MKTP.KD.ZG",
+    "country": "China",
+    "year": "2023",
+    "value": 5.41484330099675,
+    "scraped_at": "2026-03-08T20:38:27.810777"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "GDP Growth Rate",
+    "indicator_code": "NY.GDP.MKTP.KD.ZG",
+    "country": "China",
+    "year": "2022",
+    "value": 3.1341888719577,
+    "scraped_at": "2026-03-08T20:38:27.810780"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "GDP Growth Rate",
+    "indicator_code": "NY.GDP.MKTP.KD.ZG",
+    "country": "China",
+    "year": "2021",
+    "value": 8.57008513166322,
+    "scraped_at": "2026-03-08T20:38:27.810785"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "GDP Growth Rate",
+    "indicator_code": "NY.GDP.MKTP.KD.ZG",
+    "country": "China",
+    "year": "2020",
+    "value": 2.34018843078414,
+    "scraped_at": "2026-03-08T20:38:27.810787"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "GDP Growth Rate",
+    "indicator_code": "NY.GDP.MKTP.KD.ZG",
+    "country": "Germany",
+    "year": "2024",
+    "value": -0.495851897260366,
+    "scraped_at": "2026-03-08T20:38:27.810790"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "GDP Growth Rate",
+    "indicator_code": "NY.GDP.MKTP.KD.ZG",
+    "country": "Germany",
+    "year": "2023",
+    "value": -0.869647578573321,
+    "scraped_at": "2026-03-08T20:38:27.810792"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "GDP Growth Rate",
+    "indicator_code": "NY.GDP.MKTP.KD.ZG",
+    "country": "Germany",
+    "year": "2022",
+    "value": 1.8092581243061,
+    "scraped_at": "2026-03-08T20:38:27.810795"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "GDP Growth Rate",
+    "indicator_code": "NY.GDP.MKTP.KD.ZG",
+    "country": "Germany",
+    "year": "2021",
+    "value": 3.90999994204108,
+    "scraped_at": "2026-03-08T20:38:27.810798"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "GDP Growth Rate",
+    "indicator_code": "NY.GDP.MKTP.KD.ZG",
+    "country": "Germany",
+    "year": "2020",
+    "value": -4.13191443239947,
+    "scraped_at": "2026-03-08T20:38:27.810806"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "GDP Growth Rate",
+    "indicator_code": "NY.GDP.MKTP.KD.ZG",
+    "country": "United Kingdom",
+    "year": "2024",
+    "value": 1.1264226705118,
+    "scraped_at": "2026-03-08T20:38:27.810809"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "GDP Growth Rate",
+    "indicator_code": "NY.GDP.MKTP.KD.ZG",
+    "country": "United Kingdom",
+    "year": "2023",
+    "value": 0.271650048355255,
+    "scraped_at": "2026-03-08T20:38:27.810811"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "GDP Growth Rate",
+    "indicator_code": "NY.GDP.MKTP.KD.ZG",
+    "country": "United Kingdom",
+    "year": "2022",
+    "value": 5.14970388522993,
+    "scraped_at": "2026-03-08T20:38:27.810814"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "GDP Growth Rate",
+    "indicator_code": "NY.GDP.MKTP.KD.ZG",
+    "country": "United Kingdom",
+    "year": "2021",
+    "value": 8.5431118453255,
+    "scraped_at": "2026-03-08T20:38:27.810816"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "GDP Growth Rate",
+    "indicator_code": "NY.GDP.MKTP.KD.ZG",
+    "country": "United Kingdom",
+    "year": "2020",
+    "value": -10.047896637362,
+    "scraped_at": "2026-03-08T20:38:27.810818"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "GDP Growth Rate",
+    "indicator_code": "NY.GDP.MKTP.KD.ZG",
+    "country": "India",
+    "year": "2024",
+    "value": 6.49476552383821,
+    "scraped_at": "2026-03-08T20:38:27.810821"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "GDP Growth Rate",
+    "indicator_code": "NY.GDP.MKTP.KD.ZG",
+    "country": "India",
+    "year": "2023",
+    "value": 9.19075493028345,
+    "scraped_at": "2026-03-08T20:38:27.810824"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "GDP Growth Rate",
+    "indicator_code": "NY.GDP.MKTP.KD.ZG",
+    "country": "India",
+    "year": "2022",
+    "value": 7.60936497768895,
+    "scraped_at": "2026-03-08T20:38:27.810826"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "GDP Growth Rate",
+    "indicator_code": "NY.GDP.MKTP.KD.ZG",
+    "country": "India",
+    "year": "2021",
+    "value": 9.68959249192875,
+    "scraped_at": "2026-03-08T20:38:27.810829"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "GDP Growth Rate",
+    "indicator_code": "NY.GDP.MKTP.KD.ZG",
+    "country": "India",
+    "year": "2020",
+    "value": -5.77772470686801,
+    "scraped_at": "2026-03-08T20:38:27.810831"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "GDP Growth Rate",
+    "indicator_code": "NY.GDP.MKTP.KD.ZG",
+    "country": "Israel",
+    "year": "2024",
+    "value": 0.871968424377442,
+    "scraped_at": "2026-03-08T20:38:27.810833"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "GDP Growth Rate",
+    "indicator_code": "NY.GDP.MKTP.KD.ZG",
+    "country": "Israel",
+    "year": "2023",
+    "value": 1.82652049482384,
+    "scraped_at": "2026-03-08T20:38:27.810836"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "GDP Growth Rate",
+    "indicator_code": "NY.GDP.MKTP.KD.ZG",
+    "country": "Israel",
+    "year": "2022",
+    "value": 6.26326343841286,
+    "scraped_at": "2026-03-08T20:38:27.810838"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "GDP Growth Rate",
+    "indicator_code": "NY.GDP.MKTP.KD.ZG",
+    "country": "Israel",
+    "year": "2021",
+    "value": 9.38837403354628,
+    "scraped_at": "2026-03-08T20:38:27.810840"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "GDP Growth Rate",
+    "indicator_code": "NY.GDP.MKTP.KD.ZG",
+    "country": "Israel",
+    "year": "2020",
+    "value": -2.02161548237589,
+    "scraped_at": "2026-03-08T20:38:27.810842"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "GDP Growth Rate",
+    "indicator_code": "NY.GDP.MKTP.KD.ZG",
+    "country": "Japan",
+    "year": "2024",
+    "value": 0.104309021773304,
+    "scraped_at": "2026-03-08T20:38:27.810845"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "GDP Growth Rate",
+    "indicator_code": "NY.GDP.MKTP.KD.ZG",
+    "country": "Japan",
+    "year": "2023",
+    "value": 1.47503481053384,
+    "scraped_at": "2026-03-08T20:38:27.810847"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "GDP Growth Rate",
+    "indicator_code": "NY.GDP.MKTP.KD.ZG",
+    "country": "Japan",
+    "year": "2022",
+    "value": 0.941998775483285,
+    "scraped_at": "2026-03-08T20:38:27.810849"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "GDP Growth Rate",
+    "indicator_code": "NY.GDP.MKTP.KD.ZG",
+    "country": "Japan",
+    "year": "2021",
+    "value": 2.69657404187188,
+    "scraped_at": "2026-03-08T20:38:27.810852"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "GDP Growth Rate",
+    "indicator_code": "NY.GDP.MKTP.KD.ZG",
+    "country": "Japan",
+    "year": "2020",
+    "value": -4.16876457146743,
+    "scraped_at": "2026-03-08T20:38:27.810854"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "GDP Growth Rate",
+    "indicator_code": "NY.GDP.MKTP.KD.ZG",
+    "country": "Korea, Rep.",
+    "year": "2024",
+    "value": 2.00361101838986,
+    "scraped_at": "2026-03-08T20:38:27.810857"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "GDP Growth Rate",
+    "indicator_code": "NY.GDP.MKTP.KD.ZG",
+    "country": "Korea, Rep.",
+    "year": "2023",
+    "value": 1.58301467403629,
+    "scraped_at": "2026-03-08T20:38:27.810860"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "GDP Growth Rate",
+    "indicator_code": "NY.GDP.MKTP.KD.ZG",
+    "country": "Korea, Rep.",
+    "year": "2022",
+    "value": 2.72756456708991,
+    "scraped_at": "2026-03-08T20:38:27.810862"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "GDP Growth Rate",
+    "indicator_code": "NY.GDP.MKTP.KD.ZG",
+    "country": "Korea, Rep.",
+    "year": "2021",
+    "value": 4.61296795454287,
+    "scraped_at": "2026-03-08T20:38:27.810864"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "GDP Growth Rate",
+    "indicator_code": "NY.GDP.MKTP.KD.ZG",
+    "country": "Korea, Rep.",
+    "year": "2020",
+    "value": -0.700242317542106,
+    "scraped_at": "2026-03-08T20:38:27.810867"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "GDP Growth Rate",
+    "indicator_code": "NY.GDP.MKTP.KD.ZG",
+    "country": "Singapore",
+    "year": "2024",
+    "value": 4.38802362461865,
+    "scraped_at": "2026-03-08T20:38:27.810869"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "GDP Growth Rate",
+    "indicator_code": "NY.GDP.MKTP.KD.ZG",
+    "country": "Singapore",
+    "year": "2023",
+    "value": 1.82140694115385,
+    "scraped_at": "2026-03-08T20:38:27.810871"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "GDP Growth Rate",
+    "indicator_code": "NY.GDP.MKTP.KD.ZG",
+    "country": "Singapore",
+    "year": "2022",
+    "value": 4.10800021897151,
+    "scraped_at": "2026-03-08T20:38:27.810874"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "GDP Growth Rate",
+    "indicator_code": "NY.GDP.MKTP.KD.ZG",
+    "country": "Singapore",
+    "year": "2021",
+    "value": 9.7568044629903,
+    "scraped_at": "2026-03-08T20:38:27.810876"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "GDP Growth Rate",
+    "indicator_code": "NY.GDP.MKTP.KD.ZG",
+    "country": "Singapore",
+    "year": "2020",
+    "value": -3.81470885510713,
+    "scraped_at": "2026-03-08T20:38:27.810878"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "GDP Growth Rate",
+    "indicator_code": "NY.GDP.MKTP.KD.ZG",
+    "country": "United States",
+    "year": "2024",
+    "value": 2.79300127716779,
+    "scraped_at": "2026-03-08T20:38:27.810880"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "GDP Growth Rate",
+    "indicator_code": "NY.GDP.MKTP.KD.ZG",
+    "country": "United States",
+    "year": "2023",
+    "value": 2.88755600749487,
+    "scraped_at": "2026-03-08T20:38:27.810883"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "GDP Growth Rate",
+    "indicator_code": "NY.GDP.MKTP.KD.ZG",
+    "country": "United States",
+    "year": "2022",
+    "value": 2.51237531986017,
+    "scraped_at": "2026-03-08T20:38:27.810885"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "GDP Growth Rate",
+    "indicator_code": "NY.GDP.MKTP.KD.ZG",
+    "country": "United States",
+    "year": "2021",
+    "value": 6.05505293244555,
+    "scraped_at": "2026-03-08T20:38:27.810887"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "GDP Growth Rate",
+    "indicator_code": "NY.GDP.MKTP.KD.ZG",
+    "country": "United States",
+    "year": "2020",
+    "value": -2.16302914036166,
+    "scraped_at": "2026-03-08T20:38:27.810890"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Inflation Rate",
+    "indicator_code": "FP.CPI.TOTL.ZG",
+    "country": "Brazil",
+    "year": "2024",
+    "value": 4.36746407652337,
+    "scraped_at": "2026-03-08T20:38:28.834982"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Inflation Rate",
+    "indicator_code": "FP.CPI.TOTL.ZG",
+    "country": "Brazil",
+    "year": "2023",
+    "value": 4.59356282283204,
+    "scraped_at": "2026-03-08T20:38:28.834987"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Inflation Rate",
+    "indicator_code": "FP.CPI.TOTL.ZG",
+    "country": "Brazil",
+    "year": "2022",
+    "value": 9.28010608956873,
+    "scraped_at": "2026-03-08T20:38:28.834990"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Inflation Rate",
+    "indicator_code": "FP.CPI.TOTL.ZG",
+    "country": "Brazil",
+    "year": "2021",
+    "value": 8.30165975585673,
+    "scraped_at": "2026-03-08T20:38:28.834992"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Inflation Rate",
+    "indicator_code": "FP.CPI.TOTL.ZG",
+    "country": "Brazil",
+    "year": "2020",
+    "value": 3.21176803803376,
+    "scraped_at": "2026-03-08T20:38:28.834995"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Inflation Rate",
+    "indicator_code": "FP.CPI.TOTL.ZG",
+    "country": "China",
+    "year": "2024",
+    "value": 0.218128938439177,
+    "scraped_at": "2026-03-08T20:38:28.834997"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Inflation Rate",
+    "indicator_code": "FP.CPI.TOTL.ZG",
+    "country": "China",
+    "year": "2023",
+    "value": 0.234836828893051,
+    "scraped_at": "2026-03-08T20:38:28.835000"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Inflation Rate",
+    "indicator_code": "FP.CPI.TOTL.ZG",
+    "country": "China",
+    "year": "2022",
+    "value": 1.97357555739051,
+    "scraped_at": "2026-03-08T20:38:28.835002"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Inflation Rate",
+    "indicator_code": "FP.CPI.TOTL.ZG",
+    "country": "China",
+    "year": "2021",
+    "value": 0.981015135544882,
+    "scraped_at": "2026-03-08T20:38:28.835005"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Inflation Rate",
+    "indicator_code": "FP.CPI.TOTL.ZG",
+    "country": "China",
+    "year": "2020",
+    "value": 2.41942189457782,
+    "scraped_at": "2026-03-08T20:38:28.835007"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Inflation Rate",
+    "indicator_code": "FP.CPI.TOTL.ZG",
+    "country": "Germany",
+    "year": "2024",
+    "value": 2.2564981433876,
+    "scraped_at": "2026-03-08T20:38:28.835010"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Inflation Rate",
+    "indicator_code": "FP.CPI.TOTL.ZG",
+    "country": "Germany",
+    "year": "2023",
+    "value": 5.94643667725823,
+    "scraped_at": "2026-03-08T20:38:28.835012"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Inflation Rate",
+    "indicator_code": "FP.CPI.TOTL.ZG",
+    "country": "Germany",
+    "year": "2022",
+    "value": 6.87257438551097,
+    "scraped_at": "2026-03-08T20:38:28.835015"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Inflation Rate",
+    "indicator_code": "FP.CPI.TOTL.ZG",
+    "country": "Germany",
+    "year": "2021",
+    "value": 3.06666666666673,
+    "scraped_at": "2026-03-08T20:38:28.835017"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Inflation Rate",
+    "indicator_code": "FP.CPI.TOTL.ZG",
+    "country": "Germany",
+    "year": "2020",
+    "value": 0.144877925813982,
+    "scraped_at": "2026-03-08T20:38:28.835020"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Inflation Rate",
+    "indicator_code": "FP.CPI.TOTL.ZG",
+    "country": "United Kingdom",
+    "year": "2024",
+    "value": 3.2715729463592,
+    "scraped_at": "2026-03-08T20:38:28.835022"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Inflation Rate",
+    "indicator_code": "FP.CPI.TOTL.ZG",
+    "country": "United Kingdom",
+    "year": "2023",
+    "value": 6.79396706793963,
+    "scraped_at": "2026-03-08T20:38:28.835025"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Inflation Rate",
+    "indicator_code": "FP.CPI.TOTL.ZG",
+    "country": "United Kingdom",
+    "year": "2022",
+    "value": 7.92204883147902,
+    "scraped_at": "2026-03-08T20:38:28.835027"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Inflation Rate",
+    "indicator_code": "FP.CPI.TOTL.ZG",
+    "country": "United Kingdom",
+    "year": "2021",
+    "value": 2.51837109614213,
+    "scraped_at": "2026-03-08T20:38:28.835029"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Inflation Rate",
+    "indicator_code": "FP.CPI.TOTL.ZG",
+    "country": "United Kingdom",
+    "year": "2020",
+    "value": 0.989486703772491,
+    "scraped_at": "2026-03-08T20:38:28.835032"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Inflation Rate",
+    "indicator_code": "FP.CPI.TOTL.ZG",
+    "country": "India",
+    "year": "2024",
+    "value": 4.95303550973656,
+    "scraped_at": "2026-03-08T20:38:28.835034"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Inflation Rate",
+    "indicator_code": "FP.CPI.TOTL.ZG",
+    "country": "India",
+    "year": "2023",
+    "value": 5.64914318907925,
+    "scraped_at": "2026-03-08T20:38:28.835037"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Inflation Rate",
+    "indicator_code": "FP.CPI.TOTL.ZG",
+    "country": "India",
+    "year": "2022",
+    "value": 6.69903414079852,
+    "scraped_at": "2026-03-08T20:38:28.835039"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Inflation Rate",
+    "indicator_code": "FP.CPI.TOTL.ZG",
+    "country": "India",
+    "year": "2021",
+    "value": 5.13140747176369,
+    "scraped_at": "2026-03-08T20:38:28.835041"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Inflation Rate",
+    "indicator_code": "FP.CPI.TOTL.ZG",
+    "country": "India",
+    "year": "2020",
+    "value": 6.62343677628535,
+    "scraped_at": "2026-03-08T20:38:28.835044"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Inflation Rate",
+    "indicator_code": "FP.CPI.TOTL.ZG",
+    "country": "Israel",
+    "year": "2024",
+    "value": 3.07480889805025,
+    "scraped_at": "2026-03-08T20:38:28.835046"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Inflation Rate",
+    "indicator_code": "FP.CPI.TOTL.ZG",
+    "country": "Israel",
+    "year": "2023",
+    "value": 4.22522603168918,
+    "scraped_at": "2026-03-08T20:38:28.835049"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Inflation Rate",
+    "indicator_code": "FP.CPI.TOTL.ZG",
+    "country": "Israel",
+    "year": "2022",
+    "value": 4.41162725488371,
+    "scraped_at": "2026-03-08T20:38:28.835051"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Inflation Rate",
+    "indicator_code": "FP.CPI.TOTL.ZG",
+    "country": "Israel",
+    "year": "2021",
+    "value": 1.47965474722561,
+    "scraped_at": "2026-03-08T20:38:28.835054"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Inflation Rate",
+    "indicator_code": "FP.CPI.TOTL.ZG",
+    "country": "Israel",
+    "year": "2020",
+    "value": -0.575254620897756,
+    "scraped_at": "2026-03-08T20:38:28.835056"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Inflation Rate",
+    "indicator_code": "FP.CPI.TOTL.ZG",
+    "country": "Japan",
+    "year": "2024",
+    "value": 2.73853681635241,
+    "scraped_at": "2026-03-08T20:38:28.835059"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Inflation Rate",
+    "indicator_code": "FP.CPI.TOTL.ZG",
+    "country": "Japan",
+    "year": "2023",
+    "value": 3.26813365933163,
+    "scraped_at": "2026-03-08T20:38:28.835061"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Inflation Rate",
+    "indicator_code": "FP.CPI.TOTL.ZG",
+    "country": "Japan",
+    "year": "2022",
+    "value": 2.49770278172255,
+    "scraped_at": "2026-03-08T20:38:28.835063"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Inflation Rate",
+    "indicator_code": "FP.CPI.TOTL.ZG",
+    "country": "Japan",
+    "year": "2021",
+    "value": -0.233352779398264,
+    "scraped_at": "2026-03-08T20:38:28.835066"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Inflation Rate",
+    "indicator_code": "FP.CPI.TOTL.ZG",
+    "country": "Japan",
+    "year": "2020",
+    "value": -0.024995834027731,
+    "scraped_at": "2026-03-08T20:38:28.835068"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Inflation Rate",
+    "indicator_code": "FP.CPI.TOTL.ZG",
+    "country": "Korea, Rep.",
+    "year": "2024",
+    "value": 2.32174328643542,
+    "scraped_at": "2026-03-08T20:38:28.835071"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Inflation Rate",
+    "indicator_code": "FP.CPI.TOTL.ZG",
+    "country": "Korea, Rep.",
+    "year": "2023",
+    "value": 3.5974562502901,
+    "scraped_at": "2026-03-08T20:38:28.835073"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Inflation Rate",
+    "indicator_code": "FP.CPI.TOTL.ZG",
+    "country": "Korea, Rep.",
+    "year": "2022",
+    "value": 5.08951365062842,
+    "scraped_at": "2026-03-08T20:38:28.835076"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Inflation Rate",
+    "indicator_code": "FP.CPI.TOTL.ZG",
+    "country": "Korea, Rep.",
+    "year": "2021",
+    "value": 2.49833333333339,
+    "scraped_at": "2026-03-08T20:38:28.835078"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Inflation Rate",
+    "indicator_code": "FP.CPI.TOTL.ZG",
+    "country": "Korea, Rep.",
+    "year": "2020",
+    "value": 0.537288023411737,
+    "scraped_at": "2026-03-08T20:38:28.835082"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Inflation Rate",
+    "indicator_code": "FP.CPI.TOTL.ZG",
+    "country": "Singapore",
+    "year": "2024",
+    "value": 2.38951123595017,
+    "scraped_at": "2026-03-08T20:38:28.835084"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Inflation Rate",
+    "indicator_code": "FP.CPI.TOTL.ZG",
+    "country": "Singapore",
+    "year": "2023",
+    "value": 4.83372362825798,
+    "scraped_at": "2026-03-08T20:38:28.835087"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Inflation Rate",
+    "indicator_code": "FP.CPI.TOTL.ZG",
+    "country": "Singapore",
+    "year": "2022",
+    "value": 6.13095418919732,
+    "scraped_at": "2026-03-08T20:38:28.835089"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Inflation Rate",
+    "indicator_code": "FP.CPI.TOTL.ZG",
+    "country": "Singapore",
+    "year": "2021",
+    "value": 2.31610315765146,
+    "scraped_at": "2026-03-08T20:38:28.835092"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Inflation Rate",
+    "indicator_code": "FP.CPI.TOTL.ZG",
+    "country": "Singapore",
+    "year": "2020",
+    "value": -0.172111865925382,
+    "scraped_at": "2026-03-08T20:38:28.835094"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Inflation Rate",
+    "indicator_code": "FP.CPI.TOTL.ZG",
+    "country": "United States",
+    "year": "2024",
+    "value": 2.94952520485207,
+    "scraped_at": "2026-03-08T20:38:28.835097"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Inflation Rate",
+    "indicator_code": "FP.CPI.TOTL.ZG",
+    "country": "United States",
+    "year": "2023",
+    "value": 4.11633838374488,
+    "scraped_at": "2026-03-08T20:38:28.835099"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Inflation Rate",
+    "indicator_code": "FP.CPI.TOTL.ZG",
+    "country": "United States",
+    "year": "2022",
+    "value": 8.00279982052121,
+    "scraped_at": "2026-03-08T20:38:28.835101"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Inflation Rate",
+    "indicator_code": "FP.CPI.TOTL.ZG",
+    "country": "United States",
+    "year": "2021",
+    "value": 4.69785886363742,
+    "scraped_at": "2026-03-08T20:38:28.835104"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "Inflation Rate",
+    "indicator_code": "FP.CPI.TOTL.ZG",
+    "country": "United States",
+    "year": "2020",
+    "value": 1.23358439630629,
+    "scraped_at": "2026-03-08T20:38:28.835106"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "New Business Registrations",
+    "indicator_code": "IC.BUS.NREG",
+    "country": "Brazil",
+    "year": "2022",
+    "value": 767491,
+    "scraped_at": "2026-03-08T20:38:30.164156"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "New Business Registrations",
+    "indicator_code": "IC.BUS.NREG",
+    "country": "Brazil",
+    "year": "2021",
+    "value": 745782,
+    "scraped_at": "2026-03-08T20:38:30.164172"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "New Business Registrations",
+    "indicator_code": "IC.BUS.NREG",
+    "country": "Brazil",
+    "year": "2020",
+    "value": 565429,
+    "scraped_at": "2026-03-08T20:38:30.164176"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "New Business Registrations",
+    "indicator_code": "IC.BUS.NREG",
+    "country": "China",
+    "year": "2020",
+    "value": 232064,
+    "scraped_at": "2026-03-08T20:38:30.164179"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "New Business Registrations",
+    "indicator_code": "IC.BUS.NREG",
+    "country": "Germany",
+    "year": "2022",
+    "value": 74773,
+    "scraped_at": "2026-03-08T20:38:30.164183"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "New Business Registrations",
+    "indicator_code": "IC.BUS.NREG",
+    "country": "Germany",
+    "year": "2021",
+    "value": 82991,
+    "scraped_at": "2026-03-08T20:38:30.164186"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "New Business Registrations",
+    "indicator_code": "IC.BUS.NREG",
+    "country": "Germany",
+    "year": "2020",
+    "value": 72774,
+    "scraped_at": "2026-03-08T20:38:30.164188"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "New Business Registrations",
+    "indicator_code": "IC.BUS.NREG",
+    "country": "United Kingdom",
+    "year": "2022",
+    "value": 790311,
+    "scraped_at": "2026-03-08T20:38:30.164191"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "New Business Registrations",
+    "indicator_code": "IC.BUS.NREG",
+    "country": "United Kingdom",
+    "year": "2021",
+    "value": 766688,
+    "scraped_at": "2026-03-08T20:38:30.164194"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "New Business Registrations",
+    "indicator_code": "IC.BUS.NREG",
+    "country": "United Kingdom",
+    "year": "2020",
+    "value": 774854,
+    "scraped_at": "2026-03-08T20:38:30.164196"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "New Business Registrations",
+    "indicator_code": "IC.BUS.NREG",
+    "country": "India",
+    "year": "2022",
+    "value": 173114,
+    "scraped_at": "2026-03-08T20:38:30.164199"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "New Business Registrations",
+    "indicator_code": "IC.BUS.NREG",
+    "country": "India",
+    "year": "2021",
+    "value": 167606,
+    "scraped_at": "2026-03-08T20:38:30.164202"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "New Business Registrations",
+    "indicator_code": "IC.BUS.NREG",
+    "country": "India",
+    "year": "2020",
+    "value": 142000,
+    "scraped_at": "2026-03-08T20:38:30.164205"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "New Business Registrations",
+    "indicator_code": "IC.BUS.NREG",
+    "country": "Israel",
+    "year": "2020",
+    "value": 16898,
+    "scraped_at": "2026-03-08T20:38:30.164208"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "New Business Registrations",
+    "indicator_code": "IC.BUS.NREG",
+    "country": "Japan",
+    "year": "2022",
+    "value": 37312,
+    "scraped_at": "2026-03-08T20:38:30.164211"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "New Business Registrations",
+    "indicator_code": "IC.BUS.NREG",
+    "country": "Japan",
+    "year": "2021",
+    "value": 37275,
+    "scraped_at": "2026-03-08T20:38:30.164213"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "New Business Registrations",
+    "indicator_code": "IC.BUS.NREG",
+    "country": "Japan",
+    "year": "2020",
+    "value": 33411,
+    "scraped_at": "2026-03-08T20:38:30.164216"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "New Business Registrations",
+    "indicator_code": "IC.BUS.NREG",
+    "country": "Korea, Rep.",
+    "year": "2022",
+    "value": 113180,
+    "scraped_at": "2026-03-08T20:38:30.164219"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "New Business Registrations",
+    "indicator_code": "IC.BUS.NREG",
+    "country": "Korea, Rep.",
+    "year": "2021",
+    "value": 126487,
+    "scraped_at": "2026-03-08T20:38:30.164222"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "New Business Registrations",
+    "indicator_code": "IC.BUS.NREG",
+    "country": "Singapore",
+    "year": "2022",
+    "value": 46617,
+    "scraped_at": "2026-03-08T20:38:30.164225"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "New Business Registrations",
+    "indicator_code": "IC.BUS.NREG",
+    "country": "Singapore",
+    "year": "2021",
+    "value": 45351,
+    "scraped_at": "2026-03-08T20:38:30.164227"
+  },
+  {
+    "source": "worldbank",
+    "indicator": "New Business Registrations",
+    "indicator_code": "IC.BUS.NREG",
+    "country": "Singapore",
+    "year": "2020",
+    "value": 42402,
+    "scraped_at": "2026-03-08T20:38:30.164230"
+  }
+]

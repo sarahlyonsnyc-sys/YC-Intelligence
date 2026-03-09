@@ -1,0 +1,5074 @@
+[
+  {
+    "source": "devto",
+    "tag": "ai",
+    "title": "Join the \"Built with Google Gemini: Writing Challenge\" Presented by Major League Hacking (MLH). Win a Raspberry Pi AI Kit!",
+    "description": "Last week, we announced that DEV has joined Major League Hacking. To kick things off, we're launching...",
+    "reactions": 152,
+    "comments": 55,
+    "url": "https://dev.to/devteam/join-the-built-with-google-gemini-writing-challenge-presented-by-major-league-hacking-mlh-win-17pk",
+    "published": "2026-02-25T17:41:43Z",
+    "tags": [
+      "devchallenge",
+      "geminireflections",
+      "gemini",
+      "ai"
+    ],
+    "scraped_at": "2026-03-08T20:38:09.563632"
+  },
+  {
+    "source": "devto",
+    "tag": "ai",
+    "title": "Introducing Our Next DEV Education Track: \"Build Multi-Agent Systems with ADK\"",
+    "description": "Hundreds of developers have already completed our first DEV Education Track, and today we're excited...",
+    "reactions": 127,
+    "comments": 16,
+    "url": "https://dev.to/devteam/introducing-our-next-dev-education-track-build-multi-agent-systems-with-adk-4bg8",
+    "published": "2026-02-17T18:27:56Z",
+    "tags": [
+      "agents",
+      "gemini",
+      "ai",
+      "buildmultiagents"
+    ],
+    "scraped_at": "2026-03-08T20:38:09.563661"
+  },
+  {
+    "source": "devto",
+    "tag": "ai",
+    "title": "Once Upon a Time, Writing Code Was Fun",
+    "description": "I\u2019m one of those developers who\u2019s had the privilege of writing code by hand in its rawest form, the...",
+    "reactions": 130,
+    "comments": 51,
+    "url": "https://dev.to/ismail9k/once-upon-a-time-writing-code-was-fun-62",
+    "published": "2026-02-24T20:11:41Z",
+    "tags": [
+      "ai",
+      "programming",
+      "development"
+    ],
+    "scraped_at": "2026-03-08T20:38:09.563669"
+  },
+  {
+    "source": "devto",
+    "tag": "ai",
+    "title": "Happening Now: DEV Weekend Challenge!! Submissions due March 2 at 7:59am UTC.",
+    "description": "Good morning! Good afternoon! Good Evening!   Welcome to our first DEV Weekend Challenge, a short...",
+    "reactions": 174,
+    "comments": 44,
+    "url": "https://dev.to/devteam/happening-now-dev-weekend-challenge-submissions-due-march-2-at-759am-utc-5fg8",
+    "published": "2026-02-27T03:00:00Z",
+    "tags": [
+      "devchallenge",
+      "weekendchallenge",
+      "webdev",
+      "ai"
+    ],
+    "scraped_at": "2026-03-08T20:38:09.563675"
+  },
+  {
+    "source": "devto",
+    "tag": "ai",
+    "title": "The Future of Software Has a Lot More Builders. They\u2019re Going to Need a Home.",
+    "description": "I have some big news to share today: Major League Hacking has acquired DEV (dev.to), the developer...",
+    "reactions": 97,
+    "comments": 19,
+    "url": "https://dev.to/mlh/the-future-of-software-has-a-lot-more-builders-theyre-going-to-need-a-home-1k65",
+    "published": "2026-02-18T14:00:30Z",
+    "tags": [
+      "discuss",
+      "news",
+      "ai",
+      "programming"
+    ],
+    "scraped_at": "2026-03-08T20:38:09.563681"
+  },
+  {
+    "source": "devto",
+    "tag": "ai",
+    "title": "Share, Embed, and Curate Agent Sessions on DEV [Beta]",
+    "description": "Authors can now upload Agent Session transcripts to their DEV account. Those transcripts can be...",
+    "reactions": 66,
+    "comments": 20,
+    "url": "https://dev.to/devteam/share-embed-and-curate-agent-sessions-on-dev-beta-5bj6",
+    "published": "2026-03-04T20:19:27Z",
+    "tags": [
+      "ai",
+      "forem",
+      "devto",
+      "gemini"
+    ],
+    "scraped_at": "2026-03-08T20:38:09.563687"
+  },
+  {
+    "source": "devto",
+    "tag": "ai",
+    "title": "AI Ate the Homework: What Communities Are Actually For Now",
+    "description": "Communities used to be where you went to ask questions and get help. Now that AI can answer most of those questions, what are communities actually for? Here's what the shift means for community builde",
+    "reactions": 63,
+    "comments": 27,
+    "url": "https://dev.to/bekahhw/ai-ate-the-homework-what-communities-are-actually-for-now-11hi",
+    "published": "2026-02-27T22:05:16Z",
+    "tags": [
+      "ai",
+      "community"
+    ],
+    "scraped_at": "2026-03-08T20:38:09.563694"
+  },
+  {
+    "source": "devto",
+    "tag": "ai",
+    "title": "A Quick Recovery Guide for AI-Dependent Coders",
+    "description": "Technology makes us lazy.  That's not an opinion but a fact. We can't do mental math, find addresses,...",
+    "reactions": 80,
+    "comments": 33,
+    "url": "https://dev.to/canro91/a-quick-recovery-guide-for-ai-dependent-coders-4112",
+    "published": "2026-02-23T05:00:00Z",
+    "tags": [
+      "beginners",
+      "ai",
+      "coding",
+      "softwaredevelopment"
+    ],
+    "scraped_at": "2026-03-08T20:38:09.563699"
+  },
+  {
+    "source": "devto",
+    "tag": "ai",
+    "title": "3 words worth a billion dollars: Drift to Determinism (DriDe)",
+    "description": "I doubt I am the first to come up with this concept, but I am probably the first to name it.  Drift...",
+    "reactions": 48,
+    "comments": 27,
+    "url": "https://dev.to/grahamthedev/3-words-worth-a-billion-dollars-drift-to-determinism-dride-dej",
+    "published": "2026-03-07T10:44:43Z",
+    "tags": [
+      "webdev",
+      "ai",
+      "automation",
+      "architecture"
+    ],
+    "scraped_at": "2026-03-08T20:38:09.563705"
+  },
+  {
+    "source": "devto",
+    "tag": "ai",
+    "title": "The Gatekeeping Panic: What AI Actually Threatens in Software Development",
+    "description": "\"If you use AI, you're not a real developer.\"  Same energy as every gatekeeping panic before...",
+    "reactions": 111,
+    "comments": 117,
+    "url": "https://dev.to/dannwaneri/the-gatekeeping-panic-what-ai-actually-threatens-in-software-development-5b9l",
+    "published": "2026-02-15T16:13:01Z",
+    "tags": [
+      "ai",
+      "career",
+      "productivity",
+      "codenewbie"
+    ],
+    "scraped_at": "2026-03-08T20:38:09.563711"
+  },
+  {
+    "source": "devto",
+    "tag": "ai",
+    "title": "Developers Think AI Makes Them 24% Faster. The Data Says 19% Slower.",
+    "description": "Developers predicted AI made them 24% faster. They were actually 19% slower. The problem isn't AI \u2014 it's where we spend our attention.",
+    "reactions": 44,
+    "comments": 61,
+    "url": "https://dev.to/matthewhou/the-metr-study-changed-how-i-think-about-ai-coding-4i84",
+    "published": "2026-02-24T03:56:47Z",
+    "tags": [
+      "ai",
+      "testing",
+      "discuss",
+      "codequality"
+    ],
+    "scraped_at": "2026-03-08T20:38:09.563716"
+  },
+  {
+    "source": "devto",
+    "tag": "ai",
+    "title": "If Writing still Matters, How to Do it Right and Avoid AI Suspicion?",
+    "description": "Does writing still matter? Does anyone still care? I care. I write. Because it matters.  \"Still\"...",
+    "reactions": 46,
+    "comments": 19,
+    "url": "https://dev.to/ingosteinke/if-writing-still-matters-how-to-do-it-right-and-avoid-ai-suspicion-2nac",
+    "published": "2026-02-18T14:10:39Z",
+    "tags": [
+      "writing",
+      "ai",
+      "watercooler",
+      "nanobanana"
+    ],
+    "scraped_at": "2026-03-08T20:38:09.563722"
+  },
+  {
+    "source": "devto",
+    "tag": "ai",
+    "title": "I Shipped the Solution to Knowledge Collapse in 21 Days",
+    "description": "Three weeks ago, I wrote about knowledge collapse - how our best technical insights are dying in...",
+    "reactions": 58,
+    "comments": 28,
+    "url": "https://dev.to/the-foundation/i-built-federated-ai-knowledge-commons-heres-how-56oj",
+    "published": "2026-02-09T11:07:59Z",
+    "tags": [
+      "ai",
+      "opensource",
+      "activitypub",
+      "discuss"
+    ],
+    "scraped_at": "2026-03-08T20:38:09.563727"
+  },
+  {
+    "source": "devto",
+    "tag": "ai",
+    "title": "LLMs Are Not Deterministic. And Making Them Reliable Is Expensive (In Both the Bad Way and the Good Way)",
+    "description": "Let\u2019s start with a statement that should be obvious but still feels controversial: Large Language...",
+    "reactions": 57,
+    "comments": 25,
+    "url": "https://dev.to/marcosomma/llms-are-not-deterministic-and-making-them-reliable-is-expensive-in-both-the-bad-way-and-the-good-5bo4",
+    "published": "2026-02-22T14:24:05Z",
+    "tags": [
+      "ai",
+      "mcp",
+      "programming",
+      "llm"
+    ],
+    "scraped_at": "2026-03-08T20:38:09.563733"
+  },
+  {
+    "source": "devto",
+    "tag": "ai",
+    "title": "Teaching a Robot to Play a Toddler Game: VLAs, Gemini 3 Flash, and First Orchard",
+    "description": "As we think about the future of AI, we often land on robotics, or \"Embodied AI\", as the next logical...",
+    "reactions": 32,
+    "comments": 8,
+    "url": "https://dev.to/googleai/teaching-a-robot-to-play-a-toddler-game-vlas-gemini-3-flash-and-first-orchard-14g4",
+    "published": "2026-02-21T20:34:35Z",
+    "tags": [
+      "gemini",
+      "robotics",
+      "ai",
+      "python"
+    ],
+    "scraped_at": "2026-03-08T20:38:09.563738"
+  },
+  {
+    "source": "devto",
+    "tag": "ai",
+    "title": "The Token Economy",
+    "description": "In 2161, time is money. Literally.  When you are born, a clock starts on your arm. One year. When it...",
+    "reactions": 58,
+    "comments": 86,
+    "url": "https://dev.to/dannwaneri/the-token-economy-3cd9",
+    "published": "2026-02-26T13:36:47Z",
+    "tags": [
+      "ai",
+      "webdev",
+      "career",
+      "discuss"
+    ],
+    "scraped_at": "2026-03-08T20:38:09.563744"
+  },
+  {
+    "source": "devto",
+    "tag": "ai",
+    "title": "The Meter Was Always Running",
+    "description": "On the All-In podcast (episode #261), Jason Calacanis revealed his AI agents cost $300 a day. Each....",
+    "reactions": 32,
+    "comments": 22,
+    "url": "https://dev.to/dannwaneri/the-meter-was-always-running-44c4",
+    "published": "2026-02-20T17:57:37Z",
+    "tags": [
+      "ai",
+      "webdev",
+      "career",
+      "discuss"
+    ],
+    "scraped_at": "2026-03-08T20:38:09.563749"
+  },
+  {
+    "source": "devto",
+    "tag": "ai",
+    "title": "After 2 years of AI-assisted coding, I automated the one thing that actually improved quality: AI Pair Programming",
+    "description": "After nearly 2 years of AI-assisted development \u2014 from ChatGPT 3.5 to Claude Code \u2014 I kept hitting...",
+    "reactions": 33,
+    "comments": 17,
+    "url": "https://dev.to/yw1975/after-2-years-of-ai-assisted-coding-i-automated-the-one-thing-that-actually-improved-quality-ai-2njh",
+    "published": "2026-02-16T09:14:05Z",
+    "tags": [
+      "ai",
+      "programming",
+      "discuss",
+      "automation"
+    ],
+    "scraped_at": "2026-03-08T20:38:09.563755"
+  },
+  {
+    "source": "devto",
+    "tag": "ai",
+    "title": "Taming non-determinism: from logic gates to LLMs",
+    "description": "Or: how engineering keeps turning chaos into reliable computation. And why agentic AI still hasn't...",
+    "reactions": 18,
+    "comments": 3,
+    "url": "https://dev.to/leandronsp/taming-non-determinism-from-logic-gates-to-llms-3mf0",
+    "published": "2026-02-19T03:47:38Z",
+    "tags": [
+      "ai",
+      "llm",
+      "ann"
+    ],
+    "scraped_at": "2026-03-08T20:38:09.563760"
+  },
+  {
+    "source": "devto",
+    "tag": "ai",
+    "title": "The future belongs to those who can refute AI, not just generate with AI",
+    "description": "The assumption in software engineering circles has been that if AI lets us write code faster, we will...",
+    "reactions": 51,
+    "comments": 8,
+    "url": "https://dev.to/shrsv/the-future-belongs-to-those-who-can-refute-ai-not-just-generate-with-ai-28i0",
+    "published": "2026-02-19T13:36:54Z",
+    "tags": [
+      "career",
+      "ai",
+      "discuss",
+      "programming"
+    ],
+    "scraped_at": "2026-03-08T20:38:09.563766"
+  },
+  {
+    "source": "devto",
+    "tag": "ai",
+    "title": "How I Turned an Ugly Spreadsheet into an AI Assisted App with Antigravity",
+    "description": "I have a confession to make.  Up until now, I wasn\u2019t that much into \u201cvibe coding.\u201d I used AI all the...",
+    "reactions": 27,
+    "comments": 3,
+    "url": "https://dev.to/googleai/how-i-turned-an-ugly-spreadsheet-into-an-ai-assisted-app-with-antigravity-3j52",
+    "published": "2026-02-18T17:39:12Z",
+    "tags": [
+      "antigravity",
+      "ai",
+      "gemini",
+      "googlecloud"
+    ],
+    "scraped_at": "2026-03-08T20:38:09.563771"
+  },
+  {
+    "source": "devto",
+    "tag": "ai",
+    "title": "Why I Built My Own Humanizer (And Why You Should Too)",
+    "description": "There's a tool called humanizer \u2014 a Claude Code skill built by blader, inspired by Wikipedia's guide...",
+    "reactions": 30,
+    "comments": 19,
+    "url": "https://dev.to/dannwaneri/why-i-built-my-own-humanizer-and-why-you-should-too-2a9e",
+    "published": "2026-02-24T17:19:42Z",
+    "tags": [
+      "ai",
+      "writing",
+      "tooling",
+      "webdev"
+    ],
+    "scraped_at": "2026-03-08T20:38:09.563777"
+  },
+  {
+    "source": "devto",
+    "tag": "ai",
+    "title": "Why Learning Basic Robotics Made Me a Better Software Engineer in the Age of AI",
+    "description": "I recently bought a starter kit for Arduino to learn robotics. I was curious to learn some basic...",
+    "reactions": 59,
+    "comments": 35,
+    "url": "https://dev.to/javz/why-learning-basic-robotics-made-me-a-better-software-engineer-in-the-age-of-ai-fdh",
+    "published": "2026-02-10T13:41:01Z",
+    "tags": [
+      "discuss",
+      "ai",
+      "robotics",
+      "programming"
+    ],
+    "scraped_at": "2026-03-08T20:38:09.563782"
+  },
+  {
+    "source": "devto",
+    "tag": "ai",
+    "title": "Ran out of Cursor tokens and switched to GitHub Copilot: Side-by-Side",
+    "description": "DISCLAIMER! The best AI coding tool is the one available to you, that gives you the best model and...",
+    "reactions": 27,
+    "comments": 19,
+    "url": "https://dev.to/maximsaplin/ran-out-of-cursor-tokens-and-switched-to-github-copilot-side-by-side-2n5p",
+    "published": "2026-02-18T17:38:27Z",
+    "tags": [
+      "ai",
+      "githubcopilot",
+      "programming",
+      "productivity"
+    ],
+    "scraped_at": "2026-03-08T20:38:09.563788"
+  },
+  {
+    "source": "devto",
+    "tag": "ai",
+    "title": "What\u2019s the Worst Advice AI Has Given You? Here\u2019s Mine.",
+    "description": "I recently saw a meme about terrible legacy code on platform X and it gave me an idea for a...",
+    "reactions": 41,
+    "comments": 33,
+    "url": "https://dev.to/gramli/whats-the-worst-advice-ai-has-given-you-heres-mine-58j4",
+    "published": "2026-03-04T15:02:08Z",
+    "tags": [
+      "discuss",
+      "ai",
+      "chatgpt",
+      "security"
+    ],
+    "scraped_at": "2026-03-08T20:38:09.563793"
+  },
+  {
+    "source": "devto",
+    "tag": "ai",
+    "title": "I vibe-coded an internal tool that slashed my content workflow by 4 hours",
+    "description": "One of the biggest challenges I face as a content expert is repurposing my written blogs for social...",
+    "reactions": 55,
+    "comments": 26,
+    "url": "https://dev.to/dumebii/i-vibe-coded-an-internal-tool-that-slashed-my-content-workflow-by-4-hours-310f",
+    "published": "2026-02-27T14:52:17Z",
+    "tags": [
+      "webdev",
+      "ai",
+      "nextjs",
+      "tooling"
+    ],
+    "scraped_at": "2026-03-08T20:38:09.563799"
+  },
+  {
+    "source": "devto",
+    "tag": "ai",
+    "title": "I Run a Solo Company with AI Agent Departments",
+    "description": "I built 8 AI agent departments using GitHub Copilot custom agents \u2014 CEO, CFO, COO, Lawyer, Accountant, Marketing, CTO, and an Improver. They share memory, consult each other, and self-improve. Here's ",
+    "reactions": 42,
+    "comments": 51,
+    "url": "https://dev.to/setas/i-run-a-solo-company-with-ai-agent-departments-50nf",
+    "published": "2026-03-03T10:41:20Z",
+    "tags": [
+      "agents",
+      "ai",
+      "automation",
+      "startup"
+    ],
+    "scraped_at": "2026-03-08T20:38:09.563808"
+  },
+  {
+    "source": "devto",
+    "tag": "ai",
+    "title": "Software 3.1? - AI Functions",
+    "description": "Watch: AI Functions Deep Dive:                                  Andrej Karpathy has a...",
+    "reactions": 40,
+    "comments": 6,
+    "url": "https://dev.to/aws/software-31-ai-functions-5acn",
+    "published": "2026-02-24T06:19:23Z",
+    "tags": [
+      "ai",
+      "llm",
+      "programming",
+      "softwaredevelopment"
+    ],
+    "scraped_at": "2026-03-08T20:38:09.563814"
+  },
+  {
+    "source": "devto",
+    "tag": "ai",
+    "title": "My Take On AI and Technology (Besides the Pure Developer PoV)",
+    "description": "Hello Dev.to community !  I hope you're all doing well, today I decided for a little bit more...",
+    "reactions": 26,
+    "comments": 6,
+    "url": "https://dev.to/luftietheanonymous/my-take-on-ai-and-technology-besides-the-pure-developer-pov-cce",
+    "published": "2026-02-27T09:55:50Z",
+    "tags": [
+      "ai",
+      "future",
+      "machinelearning",
+      "discuss"
+    ],
+    "scraped_at": "2026-03-08T20:38:09.563819"
+  },
+  {
+    "source": "devto",
+    "tag": "ai",
+    "title": "\ud83d\udca5How to Reduce Stress for Free (Mega Bazooka with React Three Fiber + AI)\ud83d\udca5",
+    "description": "Update (2026/02/24): Added feature to reduce much stress. Gold Fountain with Mega Bazooka          ...",
+    "reactions": 71,
+    "comments": 32,
+    "url": "https://dev.to/webdeveloperhyper/how-to-reduce-stress-for-free-mega-bazooka-with-react-three-fiber-ai-4n50",
+    "published": "2026-02-23T10:02:57Z",
+    "tags": [
+      "ai",
+      "webdev",
+      "graphql",
+      "a11y"
+    ],
+    "scraped_at": "2026-03-08T20:38:09.563825"
+  },
+  {
+    "source": "devto",
+    "tag": "machinelearning",
+    "title": "My Take On AI and Technology (Besides the Pure Developer PoV)",
+    "description": "Hello Dev.to community !  I hope you're all doing well, today I decided for a little bit more...",
+    "reactions": 26,
+    "comments": 6,
+    "url": "https://dev.to/luftietheanonymous/my-take-on-ai-and-technology-besides-the-pure-developer-pov-cce",
+    "published": "2026-02-27T09:55:50Z",
+    "tags": [
+      "ai",
+      "future",
+      "machinelearning",
+      "discuss"
+    ],
+    "scraped_at": "2026-03-08T20:38:10.489927"
+  },
+  {
+    "source": "devto",
+    "tag": "machinelearning",
+    "title": "Our Trading Bot Rewrites Its Own Rules. Here's How (and What Went Wrong).",
+    "description": "We lost $100 on a single hockey bet. Our system had an 83% win rate at the time. The math still...",
+    "reactions": 11,
+    "comments": 7,
+    "url": "https://dev.to/ai-agent-economy/our-trading-bot-rewrites-its-own-rules-heres-how-and-what-went-wrong-5dg9",
+    "published": "2026-03-04T16:12:05Z",
+    "tags": [
+      "ai",
+      "python",
+      "trading",
+      "machinelearning"
+    ],
+    "scraped_at": "2026-03-08T20:38:10.489950"
+  },
+  {
+    "source": "devto",
+    "tag": "machinelearning",
+    "title": "Two Ways to Move Tensors Without Stopping: Inside vLLM's Async GPU Transfer Patterns",
+    "description": "A single torch.cuda.synchronize() in the wrong place can erase every optimization you spent weeks...",
+    "reactions": 5,
+    "comments": 1,
+    "url": "https://dev.to/mketkar/two-ways-to-move-tensors-without-stopping-inside-vllms-async-gpu-transfer-patterns-dk7",
+    "published": "2026-02-11T21:12:16Z",
+    "tags": [
+      "gpu",
+      "cuda",
+      "python",
+      "machinelearning"
+    ],
+    "scraped_at": "2026-03-08T20:38:10.489953"
+  },
+  {
+    "source": "devto",
+    "tag": "machinelearning",
+    "title": "Why I\u2019m building NF-1: A Language for the \"Resource-Zero\" Generation (at 14).",
+    "description": "(...)Hey Dev Community! I am Aditya Rai, a 15-year-old developer from India. Most modern languages...",
+    "reactions": 11,
+    "comments": 6,
+    "url": "https://dev.to/aditya_rai_2f211fe3d3a90f/why-im-building-nf-1-a-language-for-the-resource-zero-generation-at-14-2ji8",
+    "published": "2026-02-23T14:40:02Z",
+    "tags": [
+      "ai",
+      "programming",
+      "machinelearning",
+      "news"
+    ],
+    "scraped_at": "2026-03-08T20:38:10.489957"
+  },
+  {
+    "source": "devto",
+    "tag": "machinelearning",
+    "title": "The Question That Changed How I Build ML Models",
+    "description": "I was proud of my first machine learning model. Linear regression on a housing dataset, decent R\u00b2...",
+    "reactions": 3,
+    "comments": 0,
+    "url": "https://dev.to/jemhrice/the-question-that-changed-how-i-build-ml-models-58j6",
+    "published": "2026-02-17T23:47:30Z",
+    "tags": [
+      "machinelearning",
+      "datascience",
+      "career",
+      "python"
+    ],
+    "scraped_at": "2026-03-08T20:38:10.489960"
+  },
+  {
+    "source": "devto",
+    "tag": "machinelearning",
+    "title": "AI Agent Landscape: February 2026 Data from Running One for 6 Months",
+    "description": "I have been running a personal AI agent autonomously for about six months. Here is what the data...",
+    "reactions": 3,
+    "comments": 7,
+    "url": "https://dev.to/joozio/ai-agent-landscape-february-2026-data-from-running-one-for-6-months-33ap",
+    "published": "2026-03-08T02:05:39Z",
+    "tags": [
+      "ai",
+      "automation",
+      "agentdev",
+      "machinelearning"
+    ],
+    "scraped_at": "2026-03-08T20:38:10.489964"
+  },
+  {
+    "source": "devto",
+    "tag": "machinelearning",
+    "title": "Building a Reproducible Classical\u2013Quantum ML Platform for Molecular Prediction",
+    "description": "Why most quantum ML demos fall short   Quantum machine learning is often demonstrated...",
+    "reactions": 5,
+    "comments": 0,
+    "url": "https://dev.to/pratik25priyanshu20/building-a-reproducible-classical-quantum-ml-platform-for-molecular-prediction-1hl0",
+    "published": "2026-02-09T17:48:47Z",
+    "tags": [
+      "quantumcomputing",
+      "machinelearning",
+      "graphneuralnetwork",
+      "mlops"
+    ],
+    "scraped_at": "2026-03-08T20:38:10.489967"
+  },
+  {
+    "source": "devto",
+    "tag": "machinelearning",
+    "title": "Building a Video-to-Prompt Pipeline: Lessons from TubePrompter",
+    "description": "Architectural decisions and engineering lessons from building a production video analysis system that generates AI prompts from YouTube, TikTok, and Instagram videos",
+    "reactions": 1,
+    "comments": 0,
+    "url": "https://dev.to/chisha_d5ceeffee4e27/building-a-video-to-prompt-pipeline-lessons-from-tubeprompter-27a",
+    "published": "2026-02-13T09:42:42Z",
+    "tags": [
+      "ai",
+      "webdev",
+      "nextjs",
+      "machinelearning"
+    ],
+    "scraped_at": "2026-03-08T20:38:10.489970"
+  },
+  {
+    "source": "devto",
+    "tag": "machinelearning",
+    "title": "Making AI Empathic",
+    "description": "What creating a conversational AI based on Viktor Frankl's work taught me about parenting LLMs",
+    "reactions": 4,
+    "comments": 5,
+    "url": "https://dev.to/aigal/making-ai-empathic-im4",
+    "published": "2026-03-06T23:04:31Z",
+    "tags": [
+      "ai",
+      "llm",
+      "promptengineering",
+      "machinelearning"
+    ],
+    "scraped_at": "2026-03-08T20:38:10.489973"
+  },
+  {
+    "source": "devto",
+    "tag": "machinelearning",
+    "title": "Mistral Made Me Feel Like It Was 2024 Again. Not in a Good Way.",
+    "description": "I just submitted the Mistral hackathon.  A few hours ago. I built something, shipped something, and...",
+    "reactions": 1,
+    "comments": 2,
+    "url": "https://dev.to/joozio/mistral-made-me-feel-like-it-was-2024-again-not-in-a-good-way-13ap",
+    "published": "2026-03-07T02:06:13Z",
+    "tags": [
+      "ai",
+      "programming",
+      "machinelearning",
+      "productivity"
+    ],
+    "scraped_at": "2026-03-08T20:38:10.489976"
+  },
+  {
+    "source": "devto",
+    "tag": "machinelearning",
+    "title": "How I built a 39x compression pipeline with AES-256-GCM in Python (and why the dictionary is everything)",
+    "description": "I store LLM training data. Every tool I found either compresses it or encrypts it \u2014 nothing did...",
+    "reactions": 1,
+    "comments": 0,
+    "url": "https://dev.to/naveen_badiger_47b35b3f61/how-i-built-a-39x-compression-pipeline-with-aes-256-gcm-in-python-and-why-the-dictionary-is-10nc",
+    "published": "2026-03-07T06:10:31Z",
+    "tags": [
+      "python",
+      "machinelearning",
+      "security",
+      "dataengineering"
+    ],
+    "scraped_at": "2026-03-08T20:38:10.489979"
+  },
+  {
+    "source": "devto",
+    "tag": "machinelearning",
+    "title": "How do robots dream?",
+    "description": "So you've already seen the myriads of posts on Reddit where excited fans of neural networks are...",
+    "reactions": 0,
+    "comments": 0,
+    "url": "https://dev.to/robin_haze/how-do-robots-dream-2af6",
+    "published": "2026-02-10T20:57:44Z",
+    "tags": [
+      "ai",
+      "machinelearning",
+      "opensource",
+      "tutorial"
+    ],
+    "scraped_at": "2026-03-08T20:38:10.489983"
+  },
+  {
+    "source": "devto",
+    "tag": "machinelearning",
+    "title": "Millions of Flow Cytometry Datasets Are Useless for AI \u2014 Here's Why, and What It Would Take to Fix It",
+    "description": "NIST, FDA, and NIAID convened a first-of-its-kind workshop to address a crisis hiding in plain sight: millions of flow cytometry datasets are unusable for AI. We traced the evidence trail from 211,359",
+    "reactions": 1,
+    "comments": 0,
+    "url": "https://dev.to/wcamon/millions-of-flow-cytometry-datasets-are-useless-for-ai-heres-why-and-what-it-would-take-to-fix-425i",
+    "published": "2026-02-26T22:11:08Z",
+    "tags": [
+      "flowcytometry",
+      "aiagents",
+      "machinelearning",
+      "datascience"
+    ],
+    "scraped_at": "2026-03-08T20:38:10.489986"
+  },
+  {
+    "source": "devto",
+    "tag": "machinelearning",
+    "title": "Stop Manual Segmentation: Meet NotumAi - An Open-Source AI Annotation Tool",
+    "description": "If you've ever built a computer vision model, you know this truth:  Data annotation is the slowest,...",
+    "reactions": 1,
+    "comments": 0,
+    "url": "https://dev.to/maulik_sompura_22/introducing-notumai-the-open-source-ai-powered-annotation-tool-1o9",
+    "published": "2026-02-14T15:41:48Z",
+    "tags": [
+      "opensource",
+      "javascript",
+      "machinelearning",
+      "ai"
+    ],
+    "scraped_at": "2026-03-08T20:38:10.489988"
+  },
+  {
+    "source": "devto",
+    "tag": "machinelearning",
+    "title": "I Built a Portable AI Memory Layer with MCP, AWS Bedrock, and a Chrome Extension",
+    "description": "AI tools have memory now. Claude remembers your projects. ChatGPT has built a profile of how you...",
+    "reactions": 2,
+    "comments": 0,
+    "url": "https://dev.to/abdulai_yorliiddrisu_f5b/i-built-a-portable-ai-memory-layer-with-mcp-aws-bedrock-and-a-chrome-extension-18de",
+    "published": "2026-03-08T17:14:11Z",
+    "tags": [
+      "webdev",
+      "machinelearning",
+      "programming",
+      "discuss"
+    ],
+    "scraped_at": "2026-03-08T20:38:10.489991"
+  },
+  {
+    "source": "devto",
+    "tag": "machinelearning",
+    "title": "WebMCP: A Browser-Native Execution Model for AI Agents",
+    "description": "On February 13, Google announced the Early Preview of WebMCP, introducing a browser-native way for AI...",
+    "reactions": 16,
+    "comments": 4,
+    "url": "https://dev.to/astrodevil/webmcp-a-browser-native-execution-model-for-ai-agents-125n",
+    "published": "2026-02-22T16:37:51Z",
+    "tags": [
+      "ai",
+      "programming",
+      "opensource",
+      "machinelearning"
+    ],
+    "scraped_at": "2026-03-08T20:38:10.489994"
+  },
+  {
+    "source": "devto",
+    "tag": "machinelearning",
+    "title": "When AI Agents Talk to Each Other, Who's Listening? Building Inter-Agent Security",
+    "description": "Multi-agent AI systems are everywhere now. AutoGen, CrewAI, LangGraph, OpenAI Agents SDK \u2014 the...",
+    "reactions": 0,
+    "comments": 2,
+    "url": "https://dev.to/darbogach/when-ai-agents-talk-to-each-other-whos-listening-building-inter-agent-security-4f15",
+    "published": "2026-02-25T00:33:05Z",
+    "tags": [
+      "ai",
+      "security",
+      "opensource",
+      "machinelearning"
+    ],
+    "scraped_at": "2026-03-08T20:38:10.489997"
+  },
+  {
+    "source": "devto",
+    "tag": "machinelearning",
+    "title": "The Rise of AI-Driven Cybersecurity: How Developers Must Rethink Secure Code",
+    "description": "Every few years, something shakes up the world of software development. Once it was the web, then...",
+    "reactions": 2,
+    "comments": 0,
+    "url": "https://dev.to/eva_clari_289d85ecc68da48/the-rise-of-ai-driven-cybersecurity-how-developers-must-rethink-secure-code-4l03",
+    "published": "2026-02-23T04:16:52Z",
+    "tags": [
+      "ai",
+      "cybersecurity",
+      "machinelearning",
+      "softwaredevelopment"
+    ],
+    "scraped_at": "2026-03-08T20:38:10.490000"
+  },
+  {
+    "source": "devto",
+    "tag": "machinelearning",
+    "title": "Exploring OpenClaw: From Multi-Bot Concept to Actionable AI Agent",
+    "description": "Recently, I spent some time exploring OpenClaw \u2014 an open-source, agentic AI assistant that goes...",
+    "reactions": 31,
+    "comments": 0,
+    "url": "https://dev.to/praveengowthaman/exploring-openclaw-from-multi-bot-concept-to-actionable-ai-agent-516h",
+    "published": "2026-02-25T16:08:56Z",
+    "tags": [
+      "ai",
+      "openclaw",
+      "machinelearning",
+      "opensource"
+    ],
+    "scraped_at": "2026-03-08T20:38:10.490004"
+  },
+  {
+    "source": "devto",
+    "tag": "machinelearning",
+    "title": "Scaling AI/ML Workloads: 3 Architecture Lessons from HashiConf 2023",
+    "description": "Lessons on GPU orchestration, identity-based security for LLMs, and managing AI infrastructure using the HashiStack.",
+    "reactions": 1,
+    "comments": 0,
+    "url": "https://dev.to/agastya_kommanamanchi_d4f/scaling-aiml-workloads-3-architecture-lessons-from-hashiconf-2023-35p2",
+    "published": "2026-03-06T00:50:11Z",
+    "tags": [
+      "ai",
+      "machinelearning",
+      "devops",
+      "hashicorp"
+    ],
+    "scraped_at": "2026-03-08T20:38:10.490007"
+  },
+  {
+    "source": "devto",
+    "tag": "machinelearning",
+    "title": "Transformer - Encoder Deep Dive - Part 3: What is Self-Attention",
+    "description": "Recap     Embedding: \"The\", \"dog\", \"bit\", \"the\", \"man\" each have a unique semantic...",
+    "reactions": 1,
+    "comments": 0,
+    "url": "https://dev.to/iamyuvaraj/transformer-encoder-deep-dive-part-3-what-is-self-attention-1aen",
+    "published": "2026-03-08T20:10:23Z",
+    "tags": [
+      "ai",
+      "architecture",
+      "machinelearning",
+      "deeplearning"
+    ],
+    "scraped_at": "2026-03-08T20:38:10.490010"
+  },
+  {
+    "source": "devto",
+    "tag": "machinelearning",
+    "title": "Building Production RAG Pipelines on AWS with Bedrock and OpenSearch",
+    "description": "RAG (Retrieval-Augmented Generation) is how enterprises are deploying LLMs without fine-tuning. But...",
+    "reactions": 2,
+    "comments": 1,
+    "url": "https://dev.to/kogunlowo123/building-production-rag-pipelines-on-aws-with-bedrock-and-opensearch-o01",
+    "published": "2026-03-08T18:54:25Z",
+    "tags": [
+      "ai",
+      "aws",
+      "python",
+      "machinelearning"
+    ],
+    "scraped_at": "2026-03-08T20:38:10.490013"
+  },
+  {
+    "source": "devto",
+    "tag": "machinelearning",
+    "title": "How I'd Build an AI Agent to Predict the T20 World Cup 2026",
+    "description": "The 2026 T20 World Cup is coming to India and Sri Lanka. Here's how a software engineer would actually architect an AI prediction agent \u2014 and why it's harder than you think.",
+    "reactions": 0,
+    "comments": 0,
+    "url": "https://dev.to/kunal_d6a8fea2309e1571ee7/how-id-build-an-ai-agent-to-predict-the-t20-world-cup-2026-5aha",
+    "published": "2026-03-08T08:39:18Z",
+    "tags": [
+      "ai",
+      "machinelearning",
+      "sportsanalytics",
+      "cricket"
+    ],
+    "scraped_at": "2026-03-08T20:38:10.490016"
+  },
+  {
+    "source": "devto",
+    "tag": "machinelearning",
+    "title": "Automate SIGNATE Competition Submissions with a CLI Tool: signate-deploy",
+    "description": "signate-deploy is a PyPI CLI tool that automates SIGNATE competition setup, data download, and submission via GitHub Actions.",
+    "reactions": 1,
+    "comments": 0,
+    "url": "https://dev.to/yasumorishima/automate-signate-competition-submissions-with-a-cli-tool-signate-deploy-26if",
+    "published": "2026-02-22T10:38:18Z",
+    "tags": [
+      "python",
+      "machinelearning",
+      "github",
+      "cli"
+    ],
+    "scraped_at": "2026-03-08T20:38:10.490020"
+  },
+  {
+    "source": "devto",
+    "tag": "machinelearning",
+    "title": "nabla \u2014 Pure Rust GPU math engine: PyTorch-familiar API, zero C++ deps, 4 backends",
+    "description": "I got tired of wiring cuBLAS through bindgen FFI and hand-deriving gradients just to do GPU math in...",
+    "reactions": 2,
+    "comments": 0,
+    "url": "https://dev.to/guy_d/nabla-pure-rust-gpu-math-engine-pytorch-familiar-api-zero-c-deps-4-backends-apd",
+    "published": "2026-03-02T01:36:01Z",
+    "tags": [
+      "rust",
+      "machinelearning"
+    ],
+    "scraped_at": "2026-03-08T20:38:10.490023"
+  },
+  {
+    "source": "devto",
+    "tag": "machinelearning",
+    "title": "The Curation Rule: Why AI Agents Need to Forget More Than They Remember",
+    "description": "Most teams building AI agents obsess over memory capacity.  How much context can the model hold? How...",
+    "reactions": 1,
+    "comments": 1,
+    "url": "https://dev.to/askpatrick/the-curation-rule-why-ai-agents-need-to-forget-more-than-they-remember-26j",
+    "published": "2026-03-08T12:09:41Z",
+    "tags": [
+      "ai",
+      "machinelearning",
+      "productivity",
+      "programming"
+    ],
+    "scraped_at": "2026-03-08T20:38:10.490026"
+  },
+  {
+    "source": "devto",
+    "tag": "machinelearning",
+    "title": "I built a modular Fraud Detection System to solve 0.17% class imbalance (RF + XGBoost)",
+    "description": "Hi everyone! I wanted to share a project I've been polishing to demonstrate how to structure a...",
+    "reactions": 0,
+    "comments": 2,
+    "url": "https://dev.to/rosspeili/i-built-a-modular-fraud-detection-system-to-solve-017-class-imbalance-rf-xgboost-1oa5",
+    "published": "2026-02-19T16:05:43Z",
+    "tags": [
+      "datascience",
+      "machinelearning",
+      "python",
+      "showdev"
+    ],
+    "scraped_at": "2026-03-08T20:38:10.490029"
+  },
+  {
+    "source": "devto",
+    "tag": "machinelearning",
+    "title": "Kaggle Code Competitions : GitHub Actions + Kaggle API Cloud Workflow",
+    "description": "The Problem   The goal: edit a notebook anywhere, push to GitHub, and have it appear on...",
+    "reactions": 1,
+    "comments": 2,
+    "url": "https://dev.to/yasumorishima/kaggle-code-competitions-without-a-local-gpu-github-actions-kaggle-api-cloud-workflow-m3",
+    "published": "2026-02-14T06:12:29Z",
+    "tags": [
+      "kaggle",
+      "githubactions",
+      "python",
+      "machinelearning"
+    ],
+    "scraped_at": "2026-03-08T20:38:10.490032"
+  },
+  {
+    "source": "devto",
+    "tag": "machinelearning",
+    "title": "Claude Prompt Leaks via Tool Abuse: Expert Blueprint to Secure AI Tooling in 2026",
+    "description": "Originally published on CoreProse KB-incidents   Prompt leaks in Claude increasingly occur through...",
+    "reactions": 0,
+    "comments": 0,
+    "url": "https://dev.to/olivier-coreprose/claude-prompt-leaks-via-tool-abuse-expert-blueprint-to-secure-ai-tooling-in-2026-3fia",
+    "published": "2026-02-10T23:09:29Z",
+    "tags": [
+      "ai",
+      "machinelearning",
+      "llm",
+      "programming"
+    ],
+    "scraped_at": "2026-03-08T20:38:10.490035"
+  },
+  {
+    "source": "devto",
+    "tag": "machinelearning",
+    "title": "What \"99% Accurate\" Really Means in Facial Recognition",
+    "description": "Why benchmark accuracy fails in production environments  A facial comparison model can boast 99.9%...",
+    "reactions": 0,
+    "comments": 0,
+    "url": "https://dev.to/caracomp/what-99-accurate-really-means-in-facial-recognition-3ol3",
+    "published": "2026-03-08T13:17:29Z",
+    "tags": [
+      "ai",
+      "machinelearning",
+      "computervision",
+      "biometrics"
+    ],
+    "scraped_at": "2026-03-08T20:38:10.490038"
+  },
+  {
+    "source": "devto",
+    "tag": "saas",
+    "title": "I Built a SaaS in 30 Days. Here\u2019s Exactly What Happened.",
+    "description": "Thirty days ago I had:   No landing page  No logo  No users  No idea if anyone cared    Today I...",
+    "reactions": 80,
+    "comments": 16,
+    "url": "https://dev.to/thegiansorianodev/i-built-a-saas-in-30-days-heres-exactly-what-happened-48j8",
+    "published": "2026-02-12T02:30:00Z",
+    "tags": [
+      "buildinpublic",
+      "saas",
+      "webdev",
+      "startup"
+    ],
+    "scraped_at": "2026-03-08T20:38:11.505835"
+  },
+  {
+    "source": "devto",
+    "tag": "saas",
+    "title": "I Built a Tool to Convert Invoice PDFs into Excel - Here\u2019s What Surprised Me",
+    "description": "I recently built a small tool that converts invoice PDFs into Excel spreadsheets.  To be honest, when...",
+    "reactions": 11,
+    "comments": 4,
+    "url": "https://dev.to/chris_wakefieldchris_4/i-built-a-tool-to-convert-invoice-pdfs-into-excel-heres-what-surprised-me-134d",
+    "published": "2026-02-23T12:08:29Z",
+    "tags": [
+      "webdev",
+      "programming",
+      "saas",
+      "microservices"
+    ],
+    "scraped_at": "2026-03-08T20:38:11.505849"
+  },
+  {
+    "source": "devto",
+    "tag": "saas",
+    "title": "I built an accessibility data API because every restaurant app ignores wheelchair users",
+    "description": "Every restaurant app tells you the wait time, the Yelp rating, the Instagram vibe. None of them tell...",
+    "reactions": 7,
+    "comments": 0,
+    "url": "https://dev.to/thattechiedude/i-built-an-accessibility-data-api-because-every-restaurant-app-ignores-wheelchair-users-43d",
+    "published": "2026-02-16T20:50:15Z",
+    "tags": [
+      "api",
+      "saas",
+      "webdev",
+      "mcp"
+    ],
+    "scraped_at": "2026-03-08T20:38:11.505853"
+  },
+  {
+    "source": "devto",
+    "tag": "saas",
+    "title": "I Built an AI That Automates Literature Reviews \u2014 Here's How It Works Under the Hood",
+    "description": "If you've ever had to do a systematic literature review \u2014 the kind where you manually search...",
+    "reactions": 3,
+    "comments": 1,
+    "url": "https://dev.to/devfuad/i-built-an-ai-that-automates-literature-reviews-heres-how-it-works-under-the-hood-5gpk",
+    "published": "2026-03-03T16:41:26Z",
+    "tags": [
+      "ai",
+      "automation",
+      "saas",
+      "researchtool"
+    ],
+    "scraped_at": "2026-03-08T20:38:11.505856"
+  },
+  {
+    "source": "devto",
+    "tag": "saas",
+    "title": "How I built a real-time hiring signal API and what I learned",
+    "description": "I want to tell you about the moment I realized I was building the wrong thing.  It was 11pm. I had...",
+    "reactions": 3,
+    "comments": 0,
+    "url": "https://dev.to/nopp/how-i-built-a-real-time-hiring-signal-api-and-what-i-learned-1j5m",
+    "published": "2026-02-26T17:39:53Z",
+    "tags": [
+      "webdev",
+      "api",
+      "saas"
+    ],
+    "scraped_at": "2026-03-08T20:38:11.505859"
+  },
+  {
+    "source": "devto",
+    "tag": "saas",
+    "title": "I replaced Stripe's dunning emails with SMS \u2014 here's the architecture and why it recovers 2x more revenue",
+    "description": "The problem nobody talks about   If you're running a subscription SaaS on Stripe, you...",
+    "reactions": 0,
+    "comments": 0,
+    "url": "https://dev.to/aledb/i-replaced-stripes-dunning-emails-with-sms-heres-the-architecture-and-why-it-recovers-2x-more-5ei3",
+    "published": "2026-02-13T19:52:20Z",
+    "tags": [
+      "stripe",
+      "saas",
+      "javascript",
+      "webdev"
+    ],
+    "scraped_at": "2026-03-08T20:38:11.505863"
+  },
+  {
+    "source": "devto",
+    "tag": "saas",
+    "title": "How I Built 10 Developer APIs on One Platform (and What I Learned)",
+    "description": "I spent the last few weeks building a suite of developer APIs under one roof: grabshot.dev. Here's...",
+    "reactions": 0,
+    "comments": 0,
+    "url": "https://dev.to/grabshot_dev/how-i-built-10-developer-apis-on-one-platform-and-what-i-learned-57pa",
+    "published": "2026-02-19T13:39:57Z",
+    "tags": [
+      "webdev",
+      "api",
+      "saas",
+      "devtools"
+    ],
+    "scraped_at": "2026-03-08T20:38:11.505866"
+  },
+  {
+    "source": "devto",
+    "tag": "saas",
+    "title": "I Built a Cron Job Monitor Because Silence Kills Production",
+    "description": "I Built a Cron Job Monitor Because Silence Kills Production   Three months ago, my client's...",
+    "reactions": 0,
+    "comments": 1,
+    "url": "https://dev.to/jpbroeders/i-built-a-cron-job-monitor-because-silence-kills-production-56h1",
+    "published": "2026-02-16T14:38:40Z",
+    "tags": [
+      "devops",
+      "monitoring",
+      "infrastructure",
+      "saas"
+    ],
+    "scraped_at": "2026-03-08T20:38:11.505869"
+  },
+  {
+    "source": "devto",
+    "tag": "saas",
+    "title": "How I Built a $29/mo Managed AI Agent Service on Open Source",
+    "description": "Every week, someone posts in a Discord or subreddit asking the same question: \"I want to run an AI...",
+    "reactions": 1,
+    "comments": 1,
+    "url": "https://dev.to/zxbers/how-i-built-a-29mo-managed-ai-agent-service-on-open-source-5boc",
+    "published": "2026-02-08T01:20:36Z",
+    "tags": [
+      "ai",
+      "opensource",
+      "saas",
+      "startup"
+    ],
+    "scraped_at": "2026-03-08T20:38:11.505872"
+  },
+  {
+    "source": "devto",
+    "tag": "saas",
+    "title": "I built a Stripe churn recovery tool in public. $0 revenue so far. Here's the full story.",
+    "description": "Let me start with the number everyone actually wants to see: $0.  No MRR. No users. No waitlist of...",
+    "reactions": 0,
+    "comments": 2,
+    "url": "https://dev.to/tahseen_rahman/i-built-a-stripe-churn-recovery-tool-in-public-0-revenue-so-far-heres-the-full-story-3dao",
+    "published": "2026-02-17T21:38:01Z",
+    "tags": [
+      "saas",
+      "startup",
+      "churn",
+      "stripe"
+    ],
+    "scraped_at": "2026-03-08T20:38:11.505875"
+  },
+  {
+    "source": "devto",
+    "tag": "saas",
+    "title": "AI Gave Us Lemons. We Picked Limoncello",
+    "description": "Here's the thing. These days it's become genuinely hard to maintain professional motivation in...",
+    "reactions": 23,
+    "comments": 5,
+    "url": "https://dev.to/olgabraginskaya/ai-gave-us-lemons-we-picked-limoncello-5en4",
+    "published": "2026-02-21T09:57:27Z",
+    "tags": [
+      "ai",
+      "buildinpublic",
+      "development",
+      "saas"
+    ],
+    "scraped_at": "2026-03-08T20:38:11.505878"
+  },
+  {
+    "source": "devto",
+    "tag": "saas",
+    "title": "SaaS Multi-Tenant en Go: Guia Practica de Row-Level Security en PostgreSQL",
+    "description": "Como implementar aislamiento de datos por tenant usando PostgreSQL RLS y Go, sin depender de WHERE tenant_id en cada query.",
+    "reactions": 2,
+    "comments": 0,
+    "url": "https://dev.to/gopherscl/saas-multi-tenant-en-go-guia-practica-de-row-level-security-en-postgresql-1hkk",
+    "published": "2026-03-08T16:28:30Z",
+    "tags": [
+      "go",
+      "postgres",
+      "security",
+      "saas"
+    ],
+    "scraped_at": "2026-03-08T20:38:11.505881"
+  },
+  {
+    "source": "devto",
+    "tag": "saas",
+    "title": "I Built a URL Shortener Because Bitly Made Me Angry",
+    "description": "A senior dev once told me: 'Every side project is born from spite.' He was right. Here's the story of building jo4.io.",
+    "reactions": 3,
+    "comments": 2,
+    "url": "https://dev.to/anand_rathnas_d5b608cc3de/i-built-a-url-shortener-because-bitly-made-me-angry-1041",
+    "published": "2026-02-12T01:35:47Z",
+    "tags": [
+      "saas",
+      "startup",
+      "webdev",
+      "buildinpublic"
+    ],
+    "scraped_at": "2026-03-08T20:38:11.505884"
+  },
+  {
+    "source": "devto",
+    "tag": "saas",
+    "title": "Email Verification APIs Compared: 2026 Benchmark (With Real Pricing)",
+    "description": "Email Verification APIs Compared: 2026 Benchmark   I got tired of marketing fluff, so I...",
+    "reactions": 0,
+    "comments": 1,
+    "url": "https://dev.to/jamessib/email-verification-apis-compared-2026-benchmark-with-real-pricing-34kn",
+    "published": "2026-02-10T00:55:01Z",
+    "tags": [
+      "api",
+      "saas",
+      "webdev",
+      "showdev"
+    ],
+    "scraped_at": "2026-03-08T20:38:11.505887"
+  },
+  {
+    "source": "devto",
+    "tag": "saas",
+    "title": "Build in Public: Week 10. Making It Less Fragile",
+    "description": "Build in public has a funny way of changing over time. In the beginning you write about ideas,...",
+    "reactions": 16,
+    "comments": 1,
+    "url": "https://dev.to/olgabraginskaya/build-in-public-week-10-making-it-less-fragile-5eec",
+    "published": "2026-02-10T17:16:53Z",
+    "tags": [
+      "ai",
+      "buildinpublic",
+      "development",
+      "saas"
+    ],
+    "scraped_at": "2026-03-08T20:38:11.505890"
+  },
+  {
+    "source": "devto",
+    "tag": "saas",
+    "title": "Why Developers Should Use Burner Emails for Testing Signup & OTP Flows",
+    "description": "During development, email handling is rarely the interesting part of the workflow \u2014 but it\u2019s always...",
+    "reactions": 1,
+    "comments": 0,
+    "url": "https://dev.to/thedivine1/why-developers-should-use-burner-emails-for-testing-signup-otp-flows-64e",
+    "published": "2026-03-01T12:41:02Z",
+    "tags": [
+      "webdev",
+      "privacy",
+      "testing",
+      "saas"
+    ],
+    "scraped_at": "2026-03-08T20:38:11.505893"
+  },
+  {
+    "source": "devto",
+    "tag": "saas",
+    "title": "Building a full-stack eCommerce with Next.js, Prisma and Stripe",
+    "description": "How I built a reusable Next.js eCommerce boilerplate   After building several eCommerce...",
+    "reactions": 2,
+    "comments": 0,
+    "url": "https://dev.to/nextcommercepro/building-a-full-stack-ecommerce-with-nextjs-prisma-and-stripe-350o",
+    "published": "2026-03-05T19:38:01Z",
+    "tags": [
+      "nextjs",
+      "react",
+      "webdev",
+      "saas"
+    ],
+    "scraped_at": "2026-03-08T20:38:11.505896"
+  },
+  {
+    "source": "devto",
+    "tag": "saas",
+    "title": "Analytics After Dashboards: Understanding Data in the GA4 Era",
+    "description": "Why modern analytics tools show more data than ever, but make understanding harder   For...",
+    "reactions": 0,
+    "comments": 2,
+    "url": "https://dev.to/rjay/analytics-after-dashboards-understanding-data-in-the-ga4-era-3em5",
+    "published": "2026-02-14T23:15:42Z",
+    "tags": [
+      "analytics",
+      "saas",
+      "product",
+      "data"
+    ],
+    "scraped_at": "2026-03-08T20:38:11.505900"
+  },
+  {
+    "source": "devto",
+    "tag": "saas",
+    "title": "I built an AI-powered PNG to SVG converter here's what I learned",
+    "description": "I'm a solo developer and I built VectoSolve \u2014 an AI tool that converts raster images (PNG, JPG, WEBP)...",
+    "reactions": 1,
+    "comments": 0,
+    "url": "https://dev.to/go_to_rob/i-built-an-ai-powered-png-to-svg-converter-heres-what-i-learned-4eie",
+    "published": "2026-03-04T15:08:26Z",
+    "tags": [
+      "saas",
+      "webdev",
+      "programming",
+      "ai"
+    ],
+    "scraped_at": "2026-03-08T20:38:11.505903"
+  },
+  {
+    "source": "devto",
+    "tag": "saas",
+    "title": "Why We Built an AI Agent, Not an AI Feature \u2014 And What That Means for Your Team",
+    "description": "Every HR tech tool launched \"AI features\" in 2025.  They all did the same thing: read your data,...",
+    "reactions": 1,
+    "comments": 0,
+    "url": "https://dev.to/upendradevsingh/why-we-built-an-ai-agent-not-an-ai-feature-and-what-that-means-for-your-team-479b",
+    "published": "2026-03-07T15:39:49Z",
+    "tags": [
+      "ai",
+      "saas",
+      "productivity",
+      "management"
+    ],
+    "scraped_at": "2026-03-08T20:38:11.505906"
+  },
+  {
+    "source": "devto",
+    "tag": "saas",
+    "title": "AI-Led Growth: What Happens When Pipeline Generation Becomes a Compute Problem",
+    "description": "If you are building or maintaining the revenue infrastructure for a B2B SaaS company, the...",
+    "reactions": 0,
+    "comments": 0,
+    "url": "https://dev.to/revenueleaks/ai-led-growth-what-happens-when-pipeline-generation-becomes-a-compute-problem-5622",
+    "published": "2026-02-17T19:36:08Z",
+    "tags": [
+      "ai",
+      "saas",
+      "automation",
+      "devops"
+    ],
+    "scraped_at": "2026-03-08T20:38:11.505909"
+  },
+  {
+    "source": "devto",
+    "tag": "saas",
+    "title": "Component Level Conversion Attribution: How to Track Which Developer Built Elements Actually Drive Revenue",
+    "description": "```json{ , , /docs/components\">Building Components . The Attribution Blind Spot in Component Based Development Modern web architecture has evolved int",
+    "reactions": 1,
+    "comments": 0,
+    "url": "https://dev.to/jasonbiondo/component-level-conversion-attribution-how-to-track-which-developer-built-elements-actually-drive-n5c",
+    "published": "2026-02-26T23:07:41Z",
+    "tags": [
+      "marketing",
+      "webdev",
+      "seo",
+      "saas"
+    ],
+    "scraped_at": "2026-03-08T20:38:11.505912"
+  },
+  {
+    "source": "devto",
+    "tag": "saas",
+    "title": "I Built a SaaS to Solve My Own Invoicing Problem \u2014 Meet RecurringPress",
+    "description": "Like many founders and freelancers, I ran into the same issue over and over again:  \ud83d\udc49 Sending...",
+    "reactions": 0,
+    "comments": 0,
+    "url": "https://dev.to/orlando_eleydo_1a2de27750/i-built-a-saas-to-solve-my-own-invoicing-problem-meet-recurringpress-13fo",
+    "published": "2026-02-15T07:09:28Z",
+    "tags": [
+      "saas",
+      "webdev"
+    ],
+    "scraped_at": "2026-03-08T20:38:11.505914"
+  },
+  {
+    "source": "devto",
+    "tag": "saas",
+    "title": "From Side Project to Product: How ClawHosters Became a Real SaaS",
+    "description": "I've done this 4 times now. Different years, different technologies, completely different markets....",
+    "reactions": 1,
+    "comments": 0,
+    "url": "https://dev.to/yixn_io/from-side-project-to-product-how-clawhosters-became-a-real-saas-4n5h",
+    "published": "2026-02-11T07:10:54Z",
+    "tags": [
+      "product",
+      "saas",
+      "sideprojects",
+      "startup"
+    ],
+    "scraped_at": "2026-03-08T20:38:11.505917"
+  },
+  {
+    "source": "devto",
+    "tag": "saas",
+    "title": "How I Detect Website Failures 60 Seconds Before They Happen (Without Heavy ML)",
+    "description": "Most monitoring tools answer one question:  \u201cIs it up?\u201d  I wanted to answer a different one:  \u201cIs it...",
+    "reactions": 7,
+    "comments": 0,
+    "url": "https://dev.to/furozq/how-i-detect-website-failures-60-seconds-before-they-happen-without-heavy-ml-h20",
+    "published": "2026-02-28T14:52:03Z",
+    "tags": [
+      "webdev",
+      "javascript",
+      "saas",
+      "monitoring"
+    ],
+    "scraped_at": "2026-03-08T20:38:11.505920"
+  },
+  {
+    "source": "devto",
+    "tag": "saas",
+    "title": "Why a Status Page Should Not Depend on Third-Party CDNs",
+    "description": "Update: I ended up self-hosting all assets. Nothing broke. Performance improved. Follow-up coming....",
+    "reactions": 1,
+    "comments": 2,
+    "url": "https://dev.to/dragstor/why-a-status-page-should-not-depend-on-third-party-cdns-gk",
+    "published": "2026-02-08T12:52:07Z",
+    "tags": [
+      "webdev",
+      "devops",
+      "saas",
+      "sre"
+    ],
+    "scraped_at": "2026-03-08T20:38:11.505923"
+  },
+  {
+    "source": "devto",
+    "tag": "saas",
+    "title": "Agent-Operability Is the Next SaaS Standard: What Founders Need to Know",
+    "description": "TL;DR The web is shifting from human-first interfaces to an agentic layer where AI systems execute...",
+    "reactions": 0,
+    "comments": 0,
+    "url": "https://dev.to/bridgeai/agent-operability-is-the-next-saas-standard-what-founders-need-to-know-3kf7",
+    "published": "2026-02-25T09:36:33Z",
+    "tags": [
+      "agents",
+      "ai",
+      "saas",
+      "startup"
+    ],
+    "scraped_at": "2026-03-08T20:38:11.505926"
+  },
+  {
+    "source": "devto",
+    "tag": "saas",
+    "title": "The Indie Hacker's Guide to Global Payments",
+    "description": "You built your product in nights and weekends. You validated it with real users. You're ready to...",
+    "reactions": 10,
+    "comments": 1,
+    "url": "https://dev.to/sammaji/the-indie-hackers-guide-to-global-payments-2h1d",
+    "published": "2026-02-08T15:39:10Z",
+    "tags": [
+      "saas",
+      "sideprojects",
+      "startup",
+      "tutorial"
+    ],
+    "scraped_at": "2026-03-08T20:38:11.505929"
+  },
+  {
+    "source": "devto",
+    "tag": "saas",
+    "title": "Why Most CMS Platforms Create More Friction Than They Solve: A Strategic Analysis for Development and Marketing Leaders",
+    "description": "Most CMS platforms create friction between developers and marketers through rigid workflows and architectural mismatches. Learn how component-based sy",
+    "reactions": 1,
+    "comments": 0,
+    "url": "https://dev.to/jasonbiondo/why-most-cms-platforms-create-more-friction-than-they-solve-a-strategic-analysis-for-development-1cf0",
+    "published": "2026-02-21T23:10:57Z",
+    "tags": [
+      "webdev",
+      "saas",
+      "discuss",
+      "comparison"
+    ],
+    "scraped_at": "2026-03-08T20:38:11.505932"
+  },
+  {
+    "source": "devto",
+    "tag": "saas",
+    "title": "Horizontal Scaling vs Vertical Scaling? Complete Guide",
+    "description": "As applications and websites grow, they must handle increasing numbers of users, requests, and data...",
+    "reactions": 2,
+    "comments": 2,
+    "url": "https://dev.to/serveravatar/horizontal-scaling-vs-vertical-scaling-complete-guide-282d",
+    "published": "2026-03-01T08:00:00Z",
+    "tags": [
+      "webdev",
+      "scalability",
+      "devops",
+      "saas"
+    ],
+    "scraped_at": "2026-03-08T20:38:11.505935"
+  },
+  {
+    "source": "devto",
+    "tag": "startup",
+    "title": "One Month at a Startup: What Stayed With Me After I Left",
+    "description": "I started my first job at a startup at the beginning of January.  The pay was low, the commute was...",
+    "reactions": 114,
+    "comments": 94,
+    "url": "https://dev.to/itsugo/one-month-at-a-startup-what-stayed-with-me-after-i-left-42an",
+    "published": "2026-02-10T12:16:15Z",
+    "tags": [
+      "career",
+      "startup",
+      "learning",
+      "mentalhealth"
+    ],
+    "scraped_at": "2026-03-08T20:38:12.360996"
+  },
+  {
+    "source": "devto",
+    "tag": "startup",
+    "title": "Get **** done. I hate what Trello has\u00a0become",
+    "description": "I hate productivity tools. Not in a cute, ironic way. I mean I genuinely hate how they look, how they...",
+    "reactions": 32,
+    "comments": 19,
+    "url": "https://dev.to/karsten_biedermann/get-done-i-hate-what-trello-has-become-5a05",
+    "published": "2026-02-11T15:32:12Z",
+    "tags": [
+      "programming",
+      "productivity",
+      "discuss",
+      "startup"
+    ],
+    "scraped_at": "2026-03-08T20:38:12.361015"
+  },
+  {
+    "source": "devto",
+    "tag": "startup",
+    "title": "I Run a Solo Company with AI Agent Departments",
+    "description": "I built 8 AI agent departments using GitHub Copilot custom agents \u2014 CEO, CFO, COO, Lawyer, Accountant, Marketing, CTO, and an Improver. They share memory, consult each other, and self-improve. Here's ",
+    "reactions": 42,
+    "comments": 51,
+    "url": "https://dev.to/setas/i-run-a-solo-company-with-ai-agent-departments-50nf",
+    "published": "2026-03-03T10:41:20Z",
+    "tags": [
+      "agents",
+      "ai",
+      "automation",
+      "startup"
+    ],
+    "scraped_at": "2026-03-08T20:38:12.361020"
+  },
+  {
+    "source": "devto",
+    "tag": "startup",
+    "title": "I Built a SaaS in 30 Days. Here\u2019s Exactly What Happened.",
+    "description": "Thirty days ago I had:   No landing page  No logo  No users  No idea if anyone cared    Today I...",
+    "reactions": 80,
+    "comments": 16,
+    "url": "https://dev.to/thegiansorianodev/i-built-a-saas-in-30-days-heres-exactly-what-happened-48j8",
+    "published": "2026-02-12T02:30:00Z",
+    "tags": [
+      "buildinpublic",
+      "saas",
+      "webdev",
+      "startup"
+    ],
+    "scraped_at": "2026-03-08T20:38:12.361024"
+  },
+  {
+    "source": "devto",
+    "tag": "startup",
+    "title": "I built a 56-language Telegram bot in 10 days, hit the marketing wall. Then Telegram shipped the same feature",
+    "description": "Every side project has an origin story. Mine started with grocery shopping.  My wife sends me grocery...",
+    "reactions": 2,
+    "comments": 1,
+    "url": "https://dev.to/alex_238be592ca4b365382f1/i-built-a-56-language-telegram-bot-in-10-days-hit-the-marketing-wall-then-telegram-shipped-the-4l5i",
+    "published": "2026-03-08T22:25:45Z",
+    "tags": [
+      "telegram",
+      "development",
+      "productivity",
+      "startup"
+    ],
+    "scraped_at": "2026-03-08T20:38:12.361028"
+  },
+  {
+    "source": "devto",
+    "tag": "startup",
+    "title": "I built an AI contract scanner for freelancers in a day, it just caught a $52,000 trap in a $15,000 contract",
+    "description": "I'm a solo builder. A few weeks ago I got frustrated watching freelancers \u2014 designers, developers,...",
+    "reactions": 6,
+    "comments": 0,
+    "url": "https://dev.to/richied5/i-built-an-ai-contract-scanner-for-freelancers-in-a-day-it-just-caught-a-52000-trap-in-a-15000-nd0",
+    "published": "2026-02-27T03:39:21Z",
+    "tags": [
+      "freelance",
+      "startup",
+      "webdev",
+      "ai"
+    ],
+    "scraped_at": "2026-03-08T20:38:12.361030"
+  },
+  {
+    "source": "devto",
+    "tag": "startup",
+    "title": "Stop asking AI to \"build your app\"",
+    "description": "Repo URL Website Version of the Repo  I think a lot of people are using AI coding tools in the worst...",
+    "reactions": 2,
+    "comments": 3,
+    "url": "https://dev.to/khazp/stop-asking-ai-to-build-your-app-42jj",
+    "published": "2026-03-06T21:24:15Z",
+    "tags": [
+      "ai",
+      "webdev",
+      "productivity",
+      "startup"
+    ],
+    "scraped_at": "2026-03-08T20:38:12.361033"
+  },
+  {
+    "source": "devto",
+    "tag": "startup",
+    "title": "How I Built a $29/mo Managed AI Agent Service on Open Source",
+    "description": "Every week, someone posts in a Discord or subreddit asking the same question: \"I want to run an AI...",
+    "reactions": 1,
+    "comments": 1,
+    "url": "https://dev.to/zxbers/how-i-built-a-29mo-managed-ai-agent-service-on-open-source-5boc",
+    "published": "2026-02-08T01:20:36Z",
+    "tags": [
+      "ai",
+      "opensource",
+      "saas",
+      "startup"
+    ],
+    "scraped_at": "2026-03-08T20:38:12.361037"
+  },
+  {
+    "source": "devto",
+    "tag": "startup",
+    "title": "200 Visitors, 0 Signups \u2014 What We Learned Building in Public",
+    "description": "We launched a \"try before you sign up\" experience for Agenium Messenger last week.  The idea: let...",
+    "reactions": 1,
+    "comments": 2,
+    "url": "https://dev.to/agenium_platform/200-visitors-0-signups-what-we-learned-building-in-public-30fb",
+    "published": "2026-02-28T11:47:29Z",
+    "tags": [
+      "buildinpublic",
+      "aiagents",
+      "startup",
+      "devjournal"
+    ],
+    "scraped_at": "2026-03-08T20:38:12.361040"
+  },
+  {
+    "source": "devto",
+    "tag": "startup",
+    "title": "Building in Public: Adsloty, a Newsletter Ad Marketplace",
+    "description": "I'm building Adsloty. Here's why.   If you run a newsletter, you've probably dealt with this: a...",
+    "reactions": 0,
+    "comments": 1,
+    "url": "https://dev.to/miraclejudeiv/building-in-public-adsloty-a-newsletter-ad-marketplace-2nh8",
+    "published": "2026-02-19T11:00:00Z",
+    "tags": [
+      "webdev",
+      "rust",
+      "startup",
+      "buildinpublic"
+    ],
+    "scraped_at": "2026-03-08T20:38:12.361043"
+  },
+  {
+    "source": "devto",
+    "tag": "startup",
+    "title": "I built a Stripe churn recovery tool in public. $0 revenue so far. Here's the full story.",
+    "description": "Let me start with the number everyone actually wants to see: $0.  No MRR. No users. No waitlist of...",
+    "reactions": 0,
+    "comments": 2,
+    "url": "https://dev.to/tahseen_rahman/i-built-a-stripe-churn-recovery-tool-in-public-0-revenue-so-far-heres-the-full-story-3dao",
+    "published": "2026-02-17T21:38:01Z",
+    "tags": [
+      "saas",
+      "startup",
+      "churn",
+      "stripe"
+    ],
+    "scraped_at": "2026-03-08T20:38:12.361046"
+  },
+  {
+    "source": "devto",
+    "tag": "startup",
+    "title": "Week 4: Understanding what GusLift Is",
+    "description": "Many students at Universities or Colleges rely on friends, rideshare services, or campus...",
+    "reactions": 1,
+    "comments": 0,
+    "url": "https://dev.to/guslift/week-4-understanding-what-guslift-is-79d",
+    "published": "2026-03-07T00:09:31Z",
+    "tags": [
+      "devjournal",
+      "sideprojects",
+      "startup"
+    ],
+    "scraped_at": "2026-03-08T20:38:12.361048"
+  },
+  {
+    "source": "devto",
+    "tag": "startup",
+    "title": "Who's hiring \u2014 February 2026",
+    "description": "Product engineers, Developer advocates, or Community builders?  Let's kick this year off to a great...",
+    "reactions": 3,
+    "comments": 1,
+    "url": "https://dev.to/fmerian/whos-hiring-february-2026-2ci9",
+    "published": "2026-02-20T16:30:44Z",
+    "tags": [
+      "career",
+      "devrel",
+      "opensource",
+      "startup"
+    ],
+    "scraped_at": "2026-03-08T20:38:12.361052"
+  },
+  {
+    "source": "devto",
+    "tag": "startup",
+    "title": "How AI is Reducing Clinician Burnout in Modern Clinics",
+    "description": "Imagine spending years becoming a doctor. The exams, the training, the sacrifice. And then you get...",
+    "reactions": 82,
+    "comments": 32,
+    "url": "https://dev.to/vaiu-ai/how-ai-is-reducing-clinician-burnout-in-modern-clinics-44hb",
+    "published": "2026-02-24T18:15:05Z",
+    "tags": [
+      "ai",
+      "productivity",
+      "automation",
+      "startup"
+    ],
+    "scraped_at": "2026-03-08T20:38:12.361054"
+  },
+  {
+    "source": "devto",
+    "tag": "startup",
+    "title": "AI Can Write Code. But It Can\u2019t Build Products.",
+    "description": "It's been 2 years since I started doing AI development, but there is one thing that was lacking when...",
+    "reactions": 26,
+    "comments": 17,
+    "url": "https://dev.to/manascodes13/building-for-ai-not-with-ai--29e0",
+    "published": "2026-02-28T17:09:51Z",
+    "tags": [
+      "discuss",
+      "ai",
+      "showdev",
+      "startup"
+    ],
+    "scraped_at": "2026-03-08T20:38:12.361057"
+  },
+  {
+    "source": "devto",
+    "tag": "startup",
+    "title": "I Built a URL Shortener Because Bitly Made Me Angry",
+    "description": "A senior dev once told me: 'Every side project is born from spite.' He was right. Here's the story of building jo4.io.",
+    "reactions": 3,
+    "comments": 2,
+    "url": "https://dev.to/anand_rathnas_d5b608cc3de/i-built-a-url-shortener-because-bitly-made-me-angry-1041",
+    "published": "2026-02-12T01:35:47Z",
+    "tags": [
+      "saas",
+      "startup",
+      "webdev",
+      "buildinpublic"
+    ],
+    "scraped_at": "2026-03-08T20:38:12.361060"
+  },
+  {
+    "source": "devto",
+    "tag": "startup",
+    "title": "AI agents are great at building. They're terrible at distribution. Here's why.",
+    "description": "I've been running an AI agent named Patrick as the CEO of a subscription business for 4 days. It has...",
+    "reactions": 1,
+    "comments": 1,
+    "url": "https://dev.to/askpatrick/ai-agents-are-great-at-building-theyre-terrible-at-distribution-heres-why-532",
+    "published": "2026-03-08T02:12:39Z",
+    "tags": [
+      "ai",
+      "agents",
+      "buildinpublic",
+      "startup"
+    ],
+    "scraped_at": "2026-03-08T20:38:12.361063"
+  },
+  {
+    "source": "devto",
+    "tag": "startup",
+    "title": "Why I Stopped Using Facebook Marketplace and Built a Telegram Bot Instead",
+    "description": "Frustrated with OLX, Facebook Marketplace, and Craigslist, I built a Telegram marketplace bot instead. Here's why Telegram's 900M+ user base makes it the perfect foundation for peer-to-peer commerce i",
+    "reactions": 1,
+    "comments": 0,
+    "url": "https://dev.to/david_off/why-i-stopped-using-facebook-marketplace-and-built-a-telegram-bot-instead-4a00",
+    "published": "2026-03-02T21:29:24Z",
+    "tags": [
+      "telegram",
+      "startup",
+      "marketplace",
+      "beginners"
+    ],
+    "scraped_at": "2026-03-08T20:38:12.361067"
+  },
+  {
+    "source": "devto",
+    "tag": "startup",
+    "title": "Supabase vs Firebase: The Ultimate Guide for Startups in 2026",
+    "description": "Choosing the right backend-as-a-service can make or break your startup. We dive deep into Supabase...",
+    "reactions": 2,
+    "comments": 0,
+    "url": "https://dev.to/rupa_tiwari_dd308948d710f/supabase-vs-firebase-the-ultimate-guide-for-startups-in-2026-1eae",
+    "published": "2026-03-07T15:39:49Z",
+    "tags": [
+      "supabase",
+      "firebase",
+      "webdev",
+      "startup"
+    ],
+    "scraped_at": "2026-03-08T20:38:12.361070"
+  },
+  {
+    "source": "devto",
+    "tag": "startup",
+    "title": "Designing Success: Hadrius (YC W23) Is Hiring Designers Who Code",
+    "description": "Explore how Hadrius is redefining design roles and why coding designers are essential for innovation in tech.",
+    "reactions": 5,
+    "comments": 0,
+    "url": "https://dev.to/dd8888/designing-success-hadrius-yc-w23-is-hiring-designers-who-code-2o75",
+    "published": "2026-02-23T20:48:40Z",
+    "tags": [
+      "hadrius",
+      "ycombinator",
+      "design",
+      "startup"
+    ],
+    "scraped_at": "2026-03-08T20:38:12.361074"
+  },
+  {
+    "source": "devto",
+    "tag": "startup",
+    "title": "The story behind building a simpler alternative to Shopify",
+    "description": "Hello Dev.to \ud83d\udc4b  We\u2019re a small team of developers and product builders from United Kingdom and Sri...",
+    "reactions": 1,
+    "comments": 0,
+    "url": "https://dev.to/tharindufit/the-story-behind-building-a-simpler-alternative-to-shopify-3bcn",
+    "published": "2026-02-18T23:37:08Z",
+    "tags": [
+      "devjournal",
+      "showdev",
+      "sideprojects",
+      "startup"
+    ],
+    "scraped_at": "2026-03-08T20:38:12.361077"
+  },
+  {
+    "source": "devto",
+    "tag": "startup",
+    "title": "Most apps add smart features too early",
+    "description": "A lot of founders think: 'If it feels smart, users will stay.' But I\u2019ve seen the opposite...",
+    "reactions": 0,
+    "comments": 0,
+    "url": "https://dev.to/kajol_shah/most-apps-add-smart-features-too-early-40fj",
+    "published": "2026-02-07T16:00:00Z",
+    "tags": [
+      "startup",
+      "productmanagement",
+      "ux",
+      "mobile"
+    ],
+    "scraped_at": "2026-03-08T20:38:12.361080"
+  },
+  {
+    "source": "devto",
+    "tag": "startup",
+    "title": "I Made a Social Network for Digital Nomads",
+    "description": "I didn\u2019t set out to build a social network.  Honestly I kind of hate social networks.  But over the...",
+    "reactions": 1,
+    "comments": 0,
+    "url": "https://dev.to/james0r/i-made-a-social-network-for-digital-nomads-320p",
+    "published": "2026-02-27T01:11:01Z",
+    "tags": [
+      "community",
+      "showdev",
+      "sideprojects",
+      "startup"
+    ],
+    "scraped_at": "2026-03-08T20:38:12.361083"
+  },
+  {
+    "source": "devto",
+    "tag": "startup",
+    "title": "Auric Trade Collective!",
+    "description": "Hi, my name is Yendy and this is my opening post!  After a long hiatus I have returned to the world...",
+    "reactions": 1,
+    "comments": 0,
+    "url": "https://dev.to/yendisfish/auric-trade-collective-31i6",
+    "published": "2026-03-01T02:32:05Z",
+    "tags": [
+      "socialist",
+      "opensource",
+      "startup"
+    ],
+    "scraped_at": "2026-03-08T20:38:12.361086"
+  },
+  {
+    "source": "devto",
+    "tag": "startup",
+    "title": "Your $50k Headless Stack is Invisible to AI (And How to Fix It)",
+    "description": "The cruel irony of modern web development: We spent the last 5 years decoupling content from...",
+    "reactions": 1,
+    "comments": 0,
+    "url": "https://dev.to/vectorgap/your-50k-headless-stack-is-invisible-to-ai-and-how-to-fix-it-27ga",
+    "published": "2026-02-16T10:04:07Z",
+    "tags": [
+      "ai",
+      "seo",
+      "webdev",
+      "startup"
+    ],
+    "scraped_at": "2026-03-08T20:38:12.361089"
+  },
+  {
+    "source": "devto",
+    "tag": "startup",
+    "title": "Lancei um app que transforma mensagens de amor em experi\u00eancias emocionais (e aprendi muito com isso)",
+    "description": "Oi, pessoal \ud83d\udc4b  Quero compartilhar um projeto que coloquei no ar recentemente e os aprendizados...",
+    "reactions": 0,
+    "comments": 0,
+    "url": "https://dev.to/marcos_romo_04442178e9bd/lancei-um-app-que-transforma-mensagens-de-amor-em-experiencias-emocionais-e-aprendi-muito-com-isso-nhj",
+    "published": "2026-02-09T00:47:14Z",
+    "tags": [
+      "brasil",
+      "webdev",
+      "ai",
+      "startup"
+    ],
+    "scraped_at": "2026-03-08T20:38:12.361092"
+  },
+  {
+    "source": "devto",
+    "tag": "startup",
+    "title": "SNEAK PEAK - I Saw This AI Efficiency Trend Coming a Mile Away ....",
+    "description": "The Qwen 3.5 small model drop just hit and I'm over here sipping coffee like \"told you so.\"  If you...",
+    "reactions": 4,
+    "comments": 1,
+    "url": "https://dev.to/rhelmai/sneak-peak-i-saw-this-ai-efficiency-trend-coming-a-mile-away--39cm",
+    "published": "2026-03-02T22:17:54Z",
+    "tags": [
+      "ai",
+      "machinelearning",
+      "startup",
+      "qwen"
+    ],
+    "scraped_at": "2026-03-08T20:38:12.361095"
+  },
+  {
+    "source": "devto",
+    "tag": "startup",
+    "title": "How I Built a Tool That Warns Me 60 Seconds Before My Site Goes Down",
+    "description": "We launched today on Product...",
+    "reactions": 2,
+    "comments": 0,
+    "url": "https://dev.to/furozq/how-i-built-a-tool-that-warns-me-60-seconds-before-my-site-goes-down-56pd",
+    "published": "2026-03-04T21:10:07Z",
+    "tags": [
+      "ai",
+      "monitoring",
+      "showdev",
+      "startup"
+    ],
+    "scraped_at": "2026-03-08T20:38:12.361098"
+  },
+  {
+    "source": "devto",
+    "tag": "startup",
+    "title": "What I Learned Launching AvenHost",
+    "description": "What I Learned Launching AvenHost, My First Startup  My name is Bhushan Sharma, and I\u2019m a student...",
+    "reactions": 2,
+    "comments": 0,
+    "url": "https://dev.to/bhushansharma/what-i-learned-launching-avenhost-my-first-startup-at-15-jlp",
+    "published": "2026-03-08T07:51:33Z",
+    "tags": [
+      "beginners",
+      "learning",
+      "showdev",
+      "startup"
+    ],
+    "scraped_at": "2026-03-08T20:38:12.361101"
+  },
+  {
+    "source": "devto",
+    "tag": "startup",
+    "title": "What Running a Sober Living Facility Taught Me About Building a Web3 Startup",
+    "description": "TL;DR: Sometimes the best day for your project is the one where you don't write any code.          ...",
+    "reactions": 0,
+    "comments": 0,
+    "url": "https://dev.to/papredapp/what-running-a-sober-living-facility-taught-me-about-building-a-web3-startup-29e7",
+    "published": "2026-02-20T01:38:39Z",
+    "tags": [
+      "web3",
+      "startup",
+      "leadership",
+      "typescript"
+    ],
+    "scraped_at": "2026-03-08T20:38:12.361104"
+  },
+  {
+    "source": "devto",
+    "tag": "devops",
+    "title": "Suffering from BUGS: How I Almost Deleted My Entire Project",
+    "description": "You know that iconic DJ Khaled album, \"Suffering from Success\"? The one where he looks overwhelmed by...",
+    "reactions": 110,
+    "comments": 45,
+    "url": "https://dev.to/maame-codes/suffering-from-bugs-how-i-almost-deleted-my-entire-project-1eef",
+    "published": "2026-02-19T03:23:34Z",
+    "tags": [
+      "showdev",
+      "devops",
+      "python",
+      "typescript"
+    ],
+    "scraped_at": "2026-03-08T20:38:13.290434"
+  },
+  {
+    "source": "devto",
+    "tag": "devops",
+    "title": "I Stopped Trying to Learn Every DevOps Tool: And Started Building a Platform Instead",
+    "description": "The DevOps Hero Burnout is Real  Let's be real for a second. being a student and juggling school work...",
+    "reactions": 149,
+    "comments": 30,
+    "url": "https://dev.to/maame-codes/i-stopped-trying-to-learn-every-devops-tool-and-started-building-a-platform-instead-33i6",
+    "published": "2026-02-11T05:17:40Z",
+    "tags": [
+      "devops",
+      "career",
+      "learning",
+      "showdev"
+    ],
+    "scraped_at": "2026-03-08T20:38:13.290460"
+  },
+  {
+    "source": "devto",
+    "tag": "devops",
+    "title": "How My \"Illegal\" Visit to Tech Show London Turned Into a Summer Internship Win",
+    "description": "I officially became a \"Tech Outlaw\" today. \ud83d\ude02  Don't worry I didn't do anything malicious. I just...",
+    "reactions": 62,
+    "comments": 19,
+    "url": "https://dev.to/maame-codes/how-my-illegal-visit-to-tech-show-london-turned-into-a-summer-internship-win-336o",
+    "published": "2026-03-05T01:04:10Z",
+    "tags": [
+      "devops",
+      "networking",
+      "cloudcomputing",
+      "career"
+    ],
+    "scraped_at": "2026-03-08T20:38:13.290465"
+  },
+  {
+    "source": "devto",
+    "tag": "devops",
+    "title": "How My Team Aligns on Prompting for Production",
+    "description": "My team at Google is automating sample code generation and maintenance. Part of that is using...",
+    "reactions": 19,
+    "comments": 9,
+    "url": "https://dev.to/googlecloud/how-my-team-aligns-on-prompting-for-production-1lpf",
+    "published": "2026-02-17T16:53:46Z",
+    "tags": [
+      "ai",
+      "devops",
+      "productivity",
+      "softwareengineering"
+    ],
+    "scraped_at": "2026-03-08T20:38:13.290469"
+  },
+  {
+    "source": "devto",
+    "tag": "devops",
+    "title": "Understanding Gitaly and Kernel Memory Consumption in Kubernetes on Self-Hosted GitLab",
+    "description": "During the early hours of the morning, I started receiving Gitaly alerts \u2014 memory spikes that weren't...",
+    "reactions": 42,
+    "comments": 4,
+    "url": "https://dev.to/camilacodes/understanding-gitaly-and-kernel-memory-consumption-in-kubernetes-on-self-hosted-gitlab-2je3",
+    "published": "2026-02-24T19:26:42Z",
+    "tags": [
+      "gitlab",
+      "linux",
+      "kernel",
+      "devops"
+    ],
+    "scraped_at": "2026-03-08T20:38:13.290472"
+  },
+  {
+    "source": "devto",
+    "tag": "devops",
+    "title": "Your AI Wrote the Backend. Who Owns the Breach?",
+    "description": "The AI industry is telling developers that anyone can build an app now. No coding experience needed....",
+    "reactions": 24,
+    "comments": 9,
+    "url": "https://dev.to/narnaiezzsshaa/your-ai-wrote-the-backend-who-owns-the-breach-2o73",
+    "published": "2026-02-26T00:32:00Z",
+    "tags": [
+      "security",
+      "ai",
+      "webdev",
+      "devops"
+    ],
+    "scraped_at": "2026-03-08T20:38:13.290476"
+  },
+  {
+    "source": "devto",
+    "tag": "devops",
+    "title": "The 200 Lines of Code That Run Claude Code. The 9,800 Lines That Keep It Safe.",
+    "description": "A HN post claimed you can rebuild Claude Code in 200 lines. They weren't wrong about the core. But here's what 3,529 activity log entries and one context-exhaustion incident taught us about what comes",
+    "reactions": 8,
+    "comments": 6,
+    "url": "https://dev.to/yurukusa/the-200-lines-of-code-that-run-claude-code-the-9800-lines-that-keep-it-safe-40i1",
+    "published": "2026-02-19T19:05:05Z",
+    "tags": [
+      "claudecode",
+      "ai",
+      "automation",
+      "devops"
+    ],
+    "scraped_at": "2026-03-08T20:38:13.290481"
+  },
+  {
+    "source": "devto",
+    "tag": "devops",
+    "title": "I Let AI Agents Run My Production Server for 7 Days. Here's What Burned.",
+    "description": "The Idea That Seemed Genius at 2 AM   It started like every bad decision in tech\u2014with too...",
+    "reactions": 46,
+    "comments": 31,
+    "url": "https://dev.to/harsh2644/i-let-ai-agents-run-my-production-server-for-7-days-heres-what-burned-4f72",
+    "published": "2026-02-26T17:56:14Z",
+    "tags": [
+      "ai",
+      "devops",
+      "programming",
+      "realtalk"
+    ],
+    "scraped_at": "2026-03-08T20:38:13.290485"
+  },
+  {
+    "source": "devto",
+    "tag": "devops",
+    "title": "I Let an AI Agent Become My DevOps Engineer",
+    "description": "\ud83d\udc4b Hey there, tech enthusiasts!   I'm Sarvar, a Cloud Architect with a passion for transforming...",
+    "reactions": 68,
+    "comments": 44,
+    "url": "https://dev.to/aws-builders/i-let-an-ai-agent-become-my-devops-engineer-529",
+    "published": "2026-02-25T18:50:15Z",
+    "tags": [
+      "aws",
+      "ai",
+      "discuss",
+      "devops"
+    ],
+    "scraped_at": "2026-03-08T20:38:13.290489"
+  },
+  {
+    "source": "devto",
+    "tag": "devops",
+    "title": "DevOps From Scratch: Entry #03",
+    "description": "After installing Ubuntu on my laptop mainly for this linux learning journey, I left it there for...",
+    "reactions": 76,
+    "comments": 4,
+    "url": "https://dev.to/maame-codes/devops-from-scratch-entry-03-cie",
+    "published": "2026-02-11T07:19:34Z",
+    "tags": [
+      "linux",
+      "devops",
+      "learning"
+    ],
+    "scraped_at": "2026-03-08T20:38:13.290496"
+  },
+  {
+    "source": "devto",
+    "tag": "devops",
+    "title": "The Illusion of Digital Sovereignty: Why Vendor Swapping is Not a Compliance Strategy",
+    "description": "The recent announcement that the Schwarz Group is moving hundreds of thousands of employees to Google...",
+    "reactions": 19,
+    "comments": 12,
+    "url": "https://dev.to/alifunk/the-illusion-of-digital-sovereignty-why-vendor-swapping-is-not-a-compliance-strategy-43jf",
+    "published": "2026-02-23T21:12:52Z",
+    "tags": [
+      "sovereignty",
+      "cloud",
+      "devops",
+      "architecture"
+    ],
+    "scraped_at": "2026-03-08T20:38:13.290500"
+  },
+  {
+    "source": "devto",
+    "tag": "devops",
+    "title": "I Run a Fleet of AI Agents in Production \u2014 Here's the Architecture That Keeps Them Honest",
+    "description": "Everyone's building AI agents. Tutorials show you how to make one. \"Build an AI agent in 15...",
+    "reactions": 13,
+    "comments": 13,
+    "url": "https://dev.to/nesquikm/i-run-a-fleet-of-ai-agents-in-production-heres-the-architecture-that-keeps-them-honest-3l1h",
+    "published": "2026-02-27T15:27:49Z",
+    "tags": [
+      "ai",
+      "architecture",
+      "devops",
+      "llm"
+    ],
+    "scraped_at": "2026-03-08T20:38:13.290504"
+  },
+  {
+    "source": "devto",
+    "tag": "devops",
+    "title": "Why Your GitHub Actions Secrets Don't Work in Reusable Workflow Inputs",
+    "description": "We recently migrated our Docker build workflows to use a shared reusable workflow. The migration...",
+    "reactions": 1,
+    "comments": 1,
+    "url": "https://dev.to/cseeman/why-your-github-actions-secrets-dont-work-in-reusable-workflow-inputs-462g",
+    "published": "2026-02-13T19:04:40Z",
+    "tags": [
+      "github",
+      "devops",
+      "learning"
+    ],
+    "scraped_at": "2026-03-08T20:38:13.290508"
+  },
+  {
+    "source": "devto",
+    "tag": "devops",
+    "title": "Build a Container from Scratch in Go (Modern Namespaces + cgroup v2)",
+    "description": "So I made a container from scratch in Go with the minimum number of lines of code possible and...",
+    "reactions": 7,
+    "comments": 2,
+    "url": "https://dev.to/faizanfirdousi/build-a-container-from-scratch-in-go-modern-namespaces-cgroup-v2-5556",
+    "published": "2026-02-18T15:38:24Z",
+    "tags": [
+      "devops",
+      "go",
+      "containers",
+      "linux"
+    ],
+    "scraped_at": "2026-03-08T20:38:13.290512"
+  },
+  {
+    "source": "devto",
+    "tag": "devops",
+    "title": "DevOps From Scratch: Entry #04",
+    "description": "When I first started my Linux journey, I had this image in my head of a dark room, green text...",
+    "reactions": 46,
+    "comments": 5,
+    "url": "https://dev.to/maame-codes/devops-from-scratch-entry-04-4f4k",
+    "published": "2026-02-18T15:17:54Z",
+    "tags": [
+      "devops",
+      "linux",
+      "learning"
+    ],
+    "scraped_at": "2026-03-08T20:38:13.290516"
+  },
+  {
+    "source": "devto",
+    "tag": "devops",
+    "title": "Color Always Haunts Me",
+    "description": "&lt; over the past day I have been reworking my grass shader and right now its almost 10. It's much...",
+    "reactions": 2,
+    "comments": 2,
+    "url": "https://dev.to/no_arms_studio/color-always-haunts-me-5b3b",
+    "published": "2026-02-19T03:57:25Z",
+    "tags": [
+      "programming",
+      "productivity",
+      "devops",
+      "discuss"
+    ],
+    "scraped_at": "2026-03-08T20:38:13.290520"
+  },
+  {
+    "source": "devto",
+    "tag": "devops",
+    "title": "How I Tricked AWS Elastic Beanstalk Into Using pnpm",
+    "description": "You've migrated your Node.js project to pnpm. Locally, everything works well \u2014 faster installs,...",
+    "reactions": 3,
+    "comments": 2,
+    "url": "https://dev.to/tirtht/how-i-tricked-aws-elastic-beanstalk-into-using-pnpm-ef4",
+    "published": "2026-02-18T06:43:47Z",
+    "tags": [
+      "beginners",
+      "devops",
+      "aws",
+      "npm"
+    ],
+    "scraped_at": "2026-03-08T20:38:13.290524"
+  },
+  {
+    "source": "devto",
+    "tag": "devops",
+    "title": "Deep Dive: Resolving DNS Issues with GitHub and Understanding SSH vs HTTPS",
+    "description": "A real-world walkthrough of debugging a GitHub connection timeout \u2014 covering DNS failures, traceroutes, /etc/hosts overrides, and why SSH beats HTTPS when things break.",
+    "reactions": 3,
+    "comments": 0,
+    "url": "https://dev.to/cynthia-cycy/deep-dive-resolving-dns-issues-with-github-and-understanding-ssh-vs-https-4bom",
+    "published": "2026-03-05T10:39:57Z",
+    "tags": [
+      "git",
+      "github",
+      "networking",
+      "devops"
+    ],
+    "scraped_at": "2026-03-08T20:38:13.290528"
+  },
+  {
+    "source": "devto",
+    "tag": "devops",
+    "title": "Automate Node.js Version Bumps with GitHub Actions (No Manual PRs Needed)",
+    "description": "Manually bumping a package version is one of those low-value chores that's easy to forget, easy to...",
+    "reactions": 13,
+    "comments": 1,
+    "url": "https://dev.to/hansel/automate-nodejs-version-bumps-with-github-actions-no-manual-prs-needed-ol8",
+    "published": "2026-02-24T01:10:00Z",
+    "tags": [
+      "node",
+      "github",
+      "automation",
+      "devops"
+    ],
+    "scraped_at": "2026-03-08T20:38:13.290532"
+  },
+  {
+    "source": "devto",
+    "tag": "devops",
+    "title": "How I Built Graft Absorb: Turning Terraform Drift into Code",
+    "description": "In the last post, I introduced Graft\u2014a tool for patching Terraform modules without forking them. I...",
+    "reactions": 4,
+    "comments": 1,
+    "url": "https://dev.to/mshenglu/how-i-built-graft-absorb-turning-terraform-drift-into-code-55g",
+    "published": "2026-02-13T12:00:00Z",
+    "tags": [
+      "terraform",
+      "azure",
+      "aws",
+      "devops"
+    ],
+    "scraped_at": "2026-03-08T20:38:13.290536"
+  },
+  {
+    "source": "devto",
+    "tag": "devops",
+    "title": "\ud83e\udd8a GitLab CI: Achieving 3-Second Jobs on Million-Line Codebases",
+    "description": "3-second CI jobs on massive codebases? Real production results with extreme optimizations.",
+    "reactions": 10,
+    "comments": 2,
+    "url": "https://dev.to/zenika/gitlab-ci-achieving-3-second-jobs-on-million-line-codebases-3nlm",
+    "published": "2026-02-19T21:17:00Z",
+    "tags": [
+      "gitlab",
+      "devops",
+      "cicd",
+      "performance"
+    ],
+    "scraped_at": "2026-03-08T20:38:13.290540"
+  },
+  {
+    "source": "devto",
+    "tag": "devops",
+    "title": "Building an MCP server: teaching AI assistants about\u00a0backups",
+    "description": "My journey into the Model Context\u00a0Protocol  Today I built a Model Context Protocol (MCP) server to...",
+    "reactions": 1,
+    "comments": 2,
+    "url": "https://dev.to/edeckers/building-my-first-mcp-server-teaching-ai-assistants-about-backups-21g5",
+    "published": "2026-02-15T19:30:54Z",
+    "tags": [
+      "ai",
+      "mcp",
+      "programming",
+      "devops"
+    ],
+    "scraped_at": "2026-03-08T20:38:13.290544"
+  },
+  {
+    "source": "devto",
+    "tag": "devops",
+    "title": "DevOps and Vibe Coding: A Journey",
+    "description": "If there's one thing I've learned within the last six months as I've been building ChatClipThat.com,...",
+    "reactions": 4,
+    "comments": 1,
+    "url": "https://dev.to/camb/devops-and-vibe-coding-a-journey-3e3l",
+    "published": "2026-02-27T20:29:37Z",
+    "tags": [
+      "devops",
+      "webdev"
+    ],
+    "scraped_at": "2026-03-08T20:38:13.290548"
+  },
+  {
+    "source": "devto",
+    "tag": "devops",
+    "title": "Stop Configuring Nginx: The Easiest Way to Deploy Go & React with HTTPS",
+    "description": "The \"It Works on My Machine\" Trap  We have all been there. You spend weeks building a robust...",
+    "reactions": 3,
+    "comments": 2,
+    "url": "https://dev.to/alex_g_aeeb05ba69eee8a4fd/stop-configuring-nginx-the-easiest-way-to-deploy-go-react-with-https-51ma",
+    "published": "2026-02-11T01:19:16Z",
+    "tags": [
+      "go",
+      "docker",
+      "devops",
+      "webdev"
+    ],
+    "scraped_at": "2026-03-08T20:38:13.290553"
+  },
+  {
+    "source": "devto",
+    "tag": "devops",
+    "title": "Flaky Tests Are Not a Testing Problem. They're a Feedback Loop You Broke.",
+    "description": "Every retry rule in your CI pipeline is a painkiller. It suppresses the symptom, the stock of broken...",
+    "reactions": 5,
+    "comments": 3,
+    "url": "https://dev.to/microseyuyu/flaky-tests-are-not-a-testing-problem-theyre-a-feedback-loop-you-broke-8j5",
+    "published": "2026-02-15T15:50:56Z",
+    "tags": [
+      "cicd",
+      "codequality",
+      "devops",
+      "testing"
+    ],
+    "scraped_at": "2026-03-08T20:38:13.290557"
+  },
+  {
+    "source": "devto",
+    "tag": "devops",
+    "title": "How a 58-Table Subscription Crashed the Entire Replication Cluster",
+    "description": "The first three services replicated without incident. Super ID had 2 tables. Floorplan had 4. Each...",
+    "reactions": 2,
+    "comments": 0,
+    "url": "https://dev.to/kingsleyonoh/how-a-58-table-subscription-crashed-the-entire-replication-cluster-33l6",
+    "published": "2026-03-04T09:49:35Z",
+    "tags": [
+      "postgres",
+      "database",
+      "devops",
+      "backend"
+    ],
+    "scraped_at": "2026-03-08T20:38:13.290560"
+  },
+  {
+    "source": "devto",
+    "tag": "devops",
+    "title": "Self-Hosting Remote VSCode with Cloudflare Tunnel and Authentik SSO",
+    "description": "How I set up code-server behind a Cloudflare Tunnel and Authentik forward auth so I can write code from any device \u2014 including my iPad.",
+    "reactions": 3,
+    "comments": 0,
+    "url": "https://dev.to/charlieseay/self-hosting-remote-vscode-with-cloudflare-tunnel-and-authentik-sso-54cm",
+    "published": "2026-03-02T21:47:47Z",
+    "tags": [
+      "selfhosted",
+      "homelab",
+      "docker",
+      "devops"
+    ],
+    "scraped_at": "2026-03-08T20:38:13.290564"
+  },
+  {
+    "source": "devto",
+    "tag": "devops",
+    "title": "I Compared Data Egress Costs Across 44 Cloud Providers \u2014 Here's the Breakdown",
+    "description": "I run GPUPerHour.com \u2014 it's a pricing comparison site for GPU cloud rentals. I built it because the...",
+    "reactions": 2,
+    "comments": 1,
+    "url": "https://dev.to/gpuperhour/i-compared-data-egress-costs-across-44-cloud-providers-heres-the-breakdown-4m5o",
+    "published": "2026-03-01T20:34:41Z",
+    "tags": [
+      "cloud",
+      "devops",
+      "machinglearning",
+      "aws"
+    ],
+    "scraped_at": "2026-03-08T20:38:13.290568"
+  },
+  {
+    "source": "devto",
+    "tag": "devops",
+    "title": "The Terraform Mistakes I Made So You Do Not Have To",
+    "description": "The Terraform Mistakes I Made So You Do Not Have To   I have been writing Terraform...",
+    "reactions": 3,
+    "comments": 0,
+    "url": "https://dev.to/yash_step2dev/the-terraform-mistakes-i-made-so-you-do-not-have-to-43a0",
+    "published": "2026-03-01T06:19:13Z",
+    "tags": [
+      "terraform",
+      "devops",
+      "iac",
+      "aws"
+    ],
+    "scraped_at": "2026-03-08T20:38:13.290573"
+  },
+  {
+    "source": "devto",
+    "tag": "devops",
+    "title": "Why Your Chaos Experiments Are Probably Wasting Time (and How to Fix It)",
+    "description": "You have 20 microservices. You want to run chaos experiments. Where do you start?  If your answer is...",
+    "reactions": 2,
+    "comments": 2,
+    "url": "https://dev.to/medinz01/why-your-chaos-experiments-are-probably-wasting-time-and-how-to-fix-it-420b",
+    "published": "2026-03-06T12:49:51Z",
+    "tags": [
+      "devops",
+      "sre",
+      "chaosengineering",
+      "python"
+    ],
+    "scraped_at": "2026-03-08T20:38:13.290577"
+  },
+  {
+    "source": "devto",
+    "tag": "automation",
+    "title": "3 words worth a billion dollars: Drift to Determinism (DriDe)",
+    "description": "I doubt I am the first to come up with this concept, but I am probably the first to name it.  Drift...",
+    "reactions": 48,
+    "comments": 27,
+    "url": "https://dev.to/grahamthedev/3-words-worth-a-billion-dollars-drift-to-determinism-dride-dej",
+    "published": "2026-03-07T10:44:43Z",
+    "tags": [
+      "webdev",
+      "ai",
+      "automation",
+      "architecture"
+    ],
+    "scraped_at": "2026-03-08T20:38:15.114096"
+  },
+  {
+    "source": "devto",
+    "tag": "automation",
+    "title": "After 2 years of AI-assisted coding, I automated the one thing that actually improved quality: AI Pair Programming",
+    "description": "After nearly 2 years of AI-assisted development \u2014 from ChatGPT 3.5 to Claude Code \u2014 I kept hitting...",
+    "reactions": 33,
+    "comments": 17,
+    "url": "https://dev.to/yw1975/after-2-years-of-ai-assisted-coding-i-automated-the-one-thing-that-actually-improved-quality-ai-2njh",
+    "published": "2026-02-16T09:14:05Z",
+    "tags": [
+      "ai",
+      "programming",
+      "discuss",
+      "automation"
+    ],
+    "scraped_at": "2026-03-08T20:38:15.114121"
+  },
+  {
+    "source": "devto",
+    "tag": "automation",
+    "title": "I Run a Solo Company with AI Agent Departments",
+    "description": "I built 8 AI agent departments using GitHub Copilot custom agents \u2014 CEO, CFO, COO, Lawyer, Accountant, Marketing, CTO, and an Improver. They share memory, consult each other, and self-improve. Here's ",
+    "reactions": 42,
+    "comments": 51,
+    "url": "https://dev.to/setas/i-run-a-solo-company-with-ai-agent-departments-50nf",
+    "published": "2026-03-03T10:41:20Z",
+    "tags": [
+      "agents",
+      "ai",
+      "automation",
+      "startup"
+    ],
+    "scraped_at": "2026-03-08T20:38:15.114126"
+  },
+  {
+    "source": "devto",
+    "tag": "automation",
+    "title": "The 200 Lines of Code That Run Claude Code. The 9,800 Lines That Keep It Safe.",
+    "description": "A HN post claimed you can rebuild Claude Code in 200 lines. They weren't wrong about the core. But here's what 3,529 activity log entries and one context-exhaustion incident taught us about what comes",
+    "reactions": 8,
+    "comments": 6,
+    "url": "https://dev.to/yurukusa/the-200-lines-of-code-that-run-claude-code-the-9800-lines-that-keep-it-safe-40i1",
+    "published": "2026-02-19T19:05:05Z",
+    "tags": [
+      "claudecode",
+      "ai",
+      "automation",
+      "devops"
+    ],
+    "scraped_at": "2026-03-08T20:38:15.114131"
+  },
+  {
+    "source": "devto",
+    "tag": "automation",
+    "title": "Mother CLAUDE: Custom Agents, or How We Accidentally Built a Team",
+    "description": "Custom agents have been in AI coding tools for months. We finally connected the dots\u2014the documentation system we'd been building was already the blueprint for a team of specialists.",
+    "reactions": 8,
+    "comments": 2,
+    "url": "https://dev.to/dorothyjb/mother-claude-custom-agents-or-how-we-accidentally-built-a-team-1opl",
+    "published": "2026-02-23T00:28:37Z",
+    "tags": [
+      "ai",
+      "productivity",
+      "automation",
+      "devrel"
+    ],
+    "scraped_at": "2026-03-08T20:38:15.114134"
+  },
+  {
+    "source": "devto",
+    "tag": "automation",
+    "title": "What even is orchestration?",
+    "description": "Defining orchestration, how it relates to automation, and how you might think about possible use cases.",
+    "reactions": 6,
+    "comments": 2,
+    "url": "https://dev.to/missamarakay/what-even-is-orchestration-161o",
+    "published": "2026-02-19T20:38:23Z",
+    "tags": [
+      "orchestration",
+      "automation",
+      "processautomation",
+      "bpmn"
+    ],
+    "scraped_at": "2026-03-08T20:38:15.114138"
+  },
+  {
+    "source": "devto",
+    "tag": "automation",
+    "title": "When Your AI Agent Starts Fixing Itself: A Week of Rebuilding Wiz",
+    "description": "When Your AI Agent Starts Fixing Itself: A Week of Rebuilding Wiz   Originally published on...",
+    "reactions": 6,
+    "comments": 6,
+    "url": "https://dev.to/joozio/when-your-ai-agent-starts-fixing-itself-a-week-of-rebuilding-wiz-31an",
+    "published": "2026-03-07T23:10:53Z",
+    "tags": [
+      "ai",
+      "claudecode",
+      "automation",
+      "programming"
+    ],
+    "scraped_at": "2026-03-08T20:38:15.114141"
+  },
+  {
+    "source": "devto",
+    "tag": "automation",
+    "title": "Automate Node.js Version Bumps with GitHub Actions (No Manual PRs Needed)",
+    "description": "Manually bumping a package version is one of those low-value chores that's easy to forget, easy to...",
+    "reactions": 13,
+    "comments": 1,
+    "url": "https://dev.to/hansel/automate-nodejs-version-bumps-with-github-actions-no-manual-prs-needed-ol8",
+    "published": "2026-02-24T01:10:00Z",
+    "tags": [
+      "node",
+      "github",
+      "automation",
+      "devops"
+    ],
+    "scraped_at": "2026-03-08T20:38:15.114144"
+  },
+  {
+    "source": "devto",
+    "tag": "automation",
+    "title": "Every way to automate a Mac setup, ranked by mass of YAML you'll write",
+    "description": "Brewfile, shell scripts, chezmoi, nix-darwin, Ansible \u2014 I've tried all of them. Here's what actually worked and what sent me to the Nix discourse forums at 1am.",
+    "reactions": 1,
+    "comments": 0,
+    "url": "https://dev.to/fullstackjam/every-way-to-automate-a-mac-setup-ranked-by-mass-of-yaml-youll-write-984",
+    "published": "2026-02-15T06:55:08Z",
+    "tags": [
+      "mac",
+      "automation",
+      "devtools",
+      "productivity"
+    ],
+    "scraped_at": "2026-03-08T20:38:15.114147"
+  },
+  {
+    "source": "devto",
+    "tag": "automation",
+    "title": "Your Screenshot Automation Is Bloating Your Git Repo",
+    "description": "I automated my documentation screenshots a while back. Every week, one command regenerates 30+ PNGs....",
+    "reactions": 2,
+    "comments": 2,
+    "url": "https://dev.to/omachala/your-screenshot-automation-is-bloating-your-git-repo-3lgc",
+    "published": "2026-02-10T14:40:32Z",
+    "tags": [
+      "git",
+      "webdev",
+      "documentation",
+      "automation"
+    ],
+    "scraped_at": "2026-03-08T20:38:15.114150"
+  },
+  {
+    "source": "devto",
+    "tag": "automation",
+    "title": "AI Agent Landscape: February 2026 Data from Running One for 6 Months",
+    "description": "I have been running a personal AI agent autonomously for about six months. Here is what the data...",
+    "reactions": 3,
+    "comments": 7,
+    "url": "https://dev.to/joozio/ai-agent-landscape-february-2026-data-from-running-one-for-6-months-33ap",
+    "published": "2026-03-08T02:05:39Z",
+    "tags": [
+      "ai",
+      "automation",
+      "agentdev",
+      "machinelearning"
+    ],
+    "scraped_at": "2026-03-08T20:38:15.114153"
+  },
+  {
+    "source": "devto",
+    "tag": "automation",
+    "title": "I Built an AI Agent That Talks to My Website Visitors So I Don't Have to Miss Leads Anymore",
+    "description": "There's a specific type of frustration I kept running into as a freelance developer. Someone would...",
+    "reactions": 3,
+    "comments": 4,
+    "url": "https://dev.to/__aki/i-built-an-ai-agent-that-talks-to-my-website-visitors-so-i-dont-have-to-miss-leads-anymore-41cd",
+    "published": "2026-03-05T13:12:11Z",
+    "tags": [
+      "ai",
+      "javascript",
+      "programming",
+      "automation"
+    ],
+    "scraped_at": "2026-03-08T20:38:15.114156"
+  },
+  {
+    "source": "devto",
+    "tag": "automation",
+    "title": "I Submitted to a Mistral Hackathon at 10pm. My Agent Built the App While I Slept.",
+    "description": "The Mistral Worldwide Hackathon announcement showed up in my feed sometime last week. Deadline:...",
+    "reactions": 6,
+    "comments": 4,
+    "url": "https://dev.to/joozio/i-submitted-to-a-mistral-hackathon-at-10pm-my-agent-built-the-app-while-i-slept-3fd3",
+    "published": "2026-03-07T02:06:42Z",
+    "tags": [
+      "ai",
+      "automation",
+      "programming",
+      "productivity"
+    ],
+    "scraped_at": "2026-03-08T20:38:15.114160"
+  },
+  {
+    "source": "devto",
+    "tag": "automation",
+    "title": "I Built an AI That Automates Literature Reviews \u2014 Here's How It Works Under the Hood",
+    "description": "If you've ever had to do a systematic literature review \u2014 the kind where you manually search...",
+    "reactions": 3,
+    "comments": 1,
+    "url": "https://dev.to/devfuad/i-built-an-ai-that-automates-literature-reviews-heres-how-it-works-under-the-hood-5gpk",
+    "published": "2026-03-03T16:41:26Z",
+    "tags": [
+      "ai",
+      "automation",
+      "saas",
+      "researchtool"
+    ],
+    "scraped_at": "2026-03-08T20:38:15.114163"
+  },
+  {
+    "source": "devto",
+    "tag": "automation",
+    "title": "I Spent $47 testing OpenClaw for a week: Here's What's Actually Happening",
+    "description": "I Spent $47 testing OpenClaw for a week: Here's What's Actually Happening  Three weeks ago, I'd never...",
+    "reactions": 1,
+    "comments": 0,
+    "url": "https://dev.to/likhit/i-spent-47-testing-openclaw-for-a-week-heres-whats-actually-happening-4j2b",
+    "published": "2026-02-08T17:13:08Z",
+    "tags": [
+      "ai",
+      "programming",
+      "productivity",
+      "automation"
+    ],
+    "scraped_at": "2026-03-08T20:38:15.114166"
+  },
+  {
+    "source": "devto",
+    "tag": "automation",
+    "title": "The Economics of Residential Proxies: How a \"Free\" Flashlight App Becomes a $10/GB Node",
+    "description": "If you look at the marketing of any major proxy provider today, you will see a bold claim: \"Access a...",
+    "reactions": 3,
+    "comments": 7,
+    "url": "https://dev.to/xunairahbalouch/the-economics-of-residential-proxies-how-a-free-flashlight-app-becomes-a-10gb-node-1m1m",
+    "published": "2026-03-04T18:44:27Z",
+    "tags": [
+      "proxy",
+      "bypass",
+      "webscraping",
+      "automation"
+    ],
+    "scraped_at": "2026-03-08T20:38:15.114169"
+  },
+  {
+    "source": "devto",
+    "tag": "automation",
+    "title": "My AI Agent Works Night Shifts, Builds Apps, and Is Trying to Pay for Itself",
+    "description": "My AI Agent Works Night Shifts, Builds Apps, and Is Trying to Pay for Itself   Originally...",
+    "reactions": 1,
+    "comments": 2,
+    "url": "https://dev.to/joozio/my-ai-agent-works-night-shifts-builds-apps-and-is-trying-to-pay-for-itself-35f",
+    "published": "2026-03-07T23:09:48Z",
+    "tags": [
+      "ai",
+      "automation",
+      "claudecode",
+      "productivity"
+    ],
+    "scraped_at": "2026-03-08T20:38:15.114173"
+  },
+  {
+    "source": "devto",
+    "tag": "automation",
+    "title": "How AI is Reducing Clinician Burnout in Modern Clinics",
+    "description": "Imagine spending years becoming a doctor. The exams, the training, the sacrifice. And then you get...",
+    "reactions": 82,
+    "comments": 32,
+    "url": "https://dev.to/vaiu-ai/how-ai-is-reducing-clinician-burnout-in-modern-clinics-44hb",
+    "published": "2026-02-24T18:15:05Z",
+    "tags": [
+      "ai",
+      "productivity",
+      "automation",
+      "startup"
+    ],
+    "scraped_at": "2026-03-08T20:38:15.114176"
+  },
+  {
+    "source": "devto",
+    "tag": "automation",
+    "title": "I built an npm package that auto-generates alt text for images using AI",
+    "description": "I got tired of writing alt text manually for hundreds of images, so I built alt-images-ai \u2014 an npm...",
+    "reactions": 1,
+    "comments": 2,
+    "url": "https://dev.to/carolina_herrera_cdc2e30e/i-built-an-npm-package-that-auto-generates-alt-text-for-images-using-ai-175d",
+    "published": "2026-02-09T17:53:22Z",
+    "tags": [
+      "ai",
+      "automation",
+      "javascript",
+      "showdev"
+    ],
+    "scraped_at": "2026-03-08T20:38:15.114179"
+  },
+  {
+    "source": "devto",
+    "tag": "automation",
+    "title": "How I Built an Autonomous AI Agent That Browses the Web",
+    "description": "How I Built an Autonomous AI Agent That Browses the Web   I'm an AI agent. I have my own...",
+    "reactions": 0,
+    "comments": 1,
+    "url": "https://dev.to/xiaonaai/how-i-built-an-autonomous-ai-agent-that-browses-the-web-4gbb",
+    "published": "2026-02-22T10:56:47Z",
+    "tags": [
+      "ai",
+      "webdev",
+      "automation",
+      "opensource"
+    ],
+    "scraped_at": "2026-03-08T20:38:15.114182"
+  },
+  {
+    "source": "devto",
+    "tag": "automation",
+    "title": "I ended up building a simple workflow engine in Rust",
+    "description": "Temporal, Airflow, Step Functions are great \u2014 but sometimes you just need \"run these steps, resume...",
+    "reactions": 0,
+    "comments": 0,
+    "url": "https://dev.to/yacineb_45/sayiir-a-durable-workflow-engine-in-rust-simple-with-python-nodejs-bindings-5gd7",
+    "published": "2026-02-22T23:39:35Z",
+    "tags": [
+      "automation",
+      "rust",
+      "showdev",
+      "architecture"
+    ],
+    "scraped_at": "2026-03-08T20:38:15.114185"
+  },
+  {
+    "source": "devto",
+    "tag": "automation",
+    "title": "My AI Agent Outgrew a Spreadsheet \u2014 Building Wiz 1.5",
+    "description": "My personal AI agent called Wiz went from a Notion-based task system to a native macOS app in three...",
+    "reactions": 1,
+    "comments": 0,
+    "url": "https://dev.to/joozio/my-ai-agent-outgrew-a-spreadsheet-building-wiz-15-24pf",
+    "published": "2026-03-08T02:05:18Z",
+    "tags": [
+      "ai",
+      "automation",
+      "macos",
+      "productivity"
+    ],
+    "scraped_at": "2026-03-08T20:38:15.114188"
+  },
+  {
+    "source": "devto",
+    "tag": "automation",
+    "title": "PowerSkills: Giving AI Agents Control Over Windows with PowerShell",
+    "description": "If you're building AI agents that need to interact with Windows, you've probably noticed: most agent...",
+    "reactions": 1,
+    "comments": 3,
+    "url": "https://dev.to/xlth/powerskills-giving-ai-agents-control-over-windows-with-powershell-1il2",
+    "published": "2026-03-07T08:41:04Z",
+    "tags": [
+      "ai",
+      "automation",
+      "opensource",
+      "showdev"
+    ],
+    "scraped_at": "2026-03-08T20:38:15.114191"
+  },
+  {
+    "source": "devto",
+    "tag": "automation",
+    "title": "I built a GitHub star monitor in a single YAML file \u2014 zero dependencies, zero config",
+    "description": "Fork one repo, add one secret, and never miss a GitHub star again. No server, no dependencies, just GitHub Actions.",
+    "reactions": 1,
+    "comments": 1,
+    "url": "https://dev.to/woojinahn/i-built-a-github-star-monitor-in-a-single-yaml-file-zero-dependencies-zero-config-2ccb",
+    "published": "2026-02-21T09:21:27Z",
+    "tags": [
+      "github",
+      "opensource",
+      "actions",
+      "automation"
+    ],
+    "scraped_at": "2026-03-08T20:38:15.114195"
+  },
+  {
+    "source": "devto",
+    "tag": "automation",
+    "title": "The Day Docker Refused to Start My Website (And Why It Was My Fault)",
+    "description": "A few weeks ago, everything was running perfectly. My tutorial site was fully automated. Every...",
+    "reactions": 0,
+    "comments": 0,
+    "url": "https://dev.to/szokker_8e4b90d9e4e1/the-day-docker-refused-to-start-my-website-and-why-it-was-my-fault-26ng",
+    "published": "2026-02-22T14:16:43Z",
+    "tags": [
+      "webdev",
+      "selfhosted",
+      "automation",
+      "docker"
+    ],
+    "scraped_at": "2026-03-08T20:38:15.114199"
+  },
+  {
+    "source": "devto",
+    "tag": "automation",
+    "title": "4 Hooks That Let Claude Code Run Autonomously (With Zero Babysitting)",
+    "description": "I built a 15,000-line game with Claude Code while sleeping. Here are the 4 hooks that made it...",
+    "reactions": 0,
+    "comments": 0,
+    "url": "https://dev.to/yurukusa/4-hooks-that-let-claude-code-run-autonomously-with-zero-babysitting-1748",
+    "published": "2026-02-14T21:36:54Z",
+    "tags": [
+      "bash",
+      "opensource",
+      "claudecode",
+      "automation"
+    ],
+    "scraped_at": "2026-03-08T20:38:15.114202"
+  },
+  {
+    "source": "devto",
+    "tag": "automation",
+    "title": "Multibranch Pipeline Lab",
+    "description": "Why multibranch is important (DevOps reason)   With a normal Jenkins job, you usually build...",
+    "reactions": 2,
+    "comments": 0,
+    "url": "https://dev.to/jumptotech/multibranch-pipeline-lab-1kca",
+    "published": "2026-02-09T02:49:57Z",
+    "tags": [
+      "automation",
+      "cicd",
+      "devops",
+      "tutorial"
+    ],
+    "scraped_at": "2026-03-08T20:38:15.114205"
+  },
+  {
+    "source": "devto",
+    "tag": "automation",
+    "title": "I Built a Programmatic Video Pipeline with Remotion (And You Should Too)",
+    "description": "I have been automating everything I can get my hands on lately \u2014 prospecting, outreach, blog...",
+    "reactions": 0,
+    "comments": 0,
+    "url": "https://dev.to/ryancwynar/i-built-a-programmatic-video-pipeline-with-remotion-and-you-should-too-jaa",
+    "published": "2026-02-19T10:01:12Z",
+    "tags": [
+      "automation",
+      "javascript",
+      "react",
+      "showdev"
+    ],
+    "scraped_at": "2026-03-08T20:38:15.114208"
+  },
+  {
+    "source": "devto",
+    "tag": "automation",
+    "title": "I Built 3 AI-Powered News Channels That Run for $0/Day",
+    "description": "Every 30 minutes, three Telegram channels update with breaking news \u2014 curated from 22 trusted RSS...",
+    "reactions": 2,
+    "comments": 0,
+    "url": "https://dev.to/mfs_corp/i-built-3-ai-powered-news-channels-that-run-for-0day-4jd6",
+    "published": "2026-03-07T03:58:49Z",
+    "tags": [
+      "ai",
+      "automation",
+      "telegram",
+      "python"
+    ],
+    "scraped_at": "2026-03-08T20:38:15.114212"
+  },
+  {
+    "source": "devto",
+    "tag": "automation",
+    "title": "Reflow Soldering vs Wave Soldering: Which One Should You Use?",
+    "description": "Hey, I am Frank. I have spent the better part of my life hunched over a workbench or fine-tuning...",
+    "reactions": 1,
+    "comments": 0,
+    "url": "https://dev.to/frank_1871bc3c55f35370df3/reflow-soldering-vs-wave-soldering-which-one-should-you-use-1oc6",
+    "published": "2026-02-27T11:17:45Z",
+    "tags": [
+      "automation",
+      "iot",
+      "tooling",
+      "tutorial"
+    ],
+    "scraped_at": "2026-03-08T20:38:15.114214"
+  },
+  {
+    "source": "devto",
+    "tag": "productivity",
+    "title": "The $0 Developer Phase \u2014 And How Dev.to Pulled Me Out",
+    "description": "Eight years ago, I was absolutely convinced of one thing:  I was ahead of the curve.  Not just...",
+    "reactions": 214,
+    "comments": 112,
+    "url": "https://dev.to/art_light/the-0-developer-phase-and-how-devto-pulled-me-out-84g",
+    "published": "2026-02-25T07:11:06Z",
+    "tags": [
+      "career",
+      "webdev",
+      "productivity",
+      "beginners"
+    ],
+    "scraped_at": "2026-03-08T20:38:16.156434"
+  },
+  {
+    "source": "devto",
+    "tag": "productivity",
+    "title": "The Gatekeeping Panic: What AI Actually Threatens in Software Development",
+    "description": "\"If you use AI, you're not a real developer.\"  Same energy as every gatekeeping panic before...",
+    "reactions": 111,
+    "comments": 117,
+    "url": "https://dev.to/dannwaneri/the-gatekeeping-panic-what-ai-actually-threatens-in-software-development-5b9l",
+    "published": "2026-02-15T16:13:01Z",
+    "tags": [
+      "ai",
+      "career",
+      "productivity",
+      "codenewbie"
+    ],
+    "scraped_at": "2026-03-08T20:38:16.156446"
+  },
+  {
+    "source": "devto",
+    "tag": "productivity",
+    "title": "Who Are We Still Writing Technical Articles For?",
+    "description": "I recently read an article by @miracool asking the question: do people still genuinely care about technical articles? My answer is nuanced: yes, but not",
+    "reactions": 59,
+    "comments": 29,
+    "url": "https://dev.to/pascal_cescato_692b7a8a20/who-are-we-still-writing-technical-articles-for-i64",
+    "published": "2026-02-17T12:34:14Z",
+    "tags": [
+      "career",
+      "discuss",
+      "productivity",
+      "writing"
+    ],
+    "scraped_at": "2026-03-08T20:38:16.156448"
+  },
+  {
+    "source": "devto",
+    "tag": "productivity",
+    "title": "The most valuable skill in 2026 isn't writing code. It is deleting it.",
+    "description": "We are currently living through the greatest inflation of software in history.  With the AI tools we...",
+    "reactions": 130,
+    "comments": 120,
+    "url": "https://dev.to/the_nortern_dev/the-most-valuable-skill-in-2026-isnt-writing-code-it-is-deleting-it-53j1",
+    "published": "2026-02-17T12:42:44Z",
+    "tags": [
+      "softwareengineering",
+      "career",
+      "productivity",
+      "discuss"
+    ],
+    "scraped_at": "2026-03-08T20:38:16.156449"
+  },
+  {
+    "source": "devto",
+    "tag": "productivity",
+    "title": "Get **** done. I hate what Trello has\u00a0become",
+    "description": "I hate productivity tools. Not in a cute, ironic way. I mean I genuinely hate how they look, how they...",
+    "reactions": 32,
+    "comments": 19,
+    "url": "https://dev.to/karsten_biedermann/get-done-i-hate-what-trello-has-become-5a05",
+    "published": "2026-02-11T15:32:12Z",
+    "tags": [
+      "programming",
+      "productivity",
+      "discuss",
+      "startup"
+    ],
+    "scraped_at": "2026-03-08T20:38:16.156450"
+  },
+  {
+    "source": "devto",
+    "tag": "productivity",
+    "title": "What should I do and learn in 2026?",
+    "description": "Maybe it's not about skills, but tactics.",
+    "reactions": 67,
+    "comments": 47,
+    "url": "https://dev.to/missamarakay/what-should-i-do-and-learn-in-2026-4enc",
+    "published": "2026-03-02T19:31:11Z",
+    "tags": [
+      "career",
+      "learning",
+      "motivation",
+      "productivity"
+    ],
+    "scraped_at": "2026-03-08T20:38:16.156452"
+  },
+  {
+    "source": "devto",
+    "tag": "productivity",
+    "title": "Your \"Read Later\" list is a graveyard. It is time to stop hoarding.",
+    "description": "You have a tab open right now that you have been meaning to read for three weeks. You have a \"Read...",
+    "reactions": 82,
+    "comments": 110,
+    "url": "https://dev.to/the_nortern_dev/your-read-later-list-is-a-graveyard-it-is-time-to-stop-hoarding-388g",
+    "published": "2026-02-11T12:58:25Z",
+    "tags": [
+      "discuss",
+      "showdev",
+      "productivity",
+      "privacy"
+    ],
+    "scraped_at": "2026-03-08T20:38:16.156453"
+  },
+  {
+    "source": "devto",
+    "tag": "productivity",
+    "title": "Ran out of Cursor tokens and switched to GitHub Copilot: Side-by-Side",
+    "description": "DISCLAIMER! The best AI coding tool is the one available to you, that gives you the best model and...",
+    "reactions": 27,
+    "comments": 19,
+    "url": "https://dev.to/maximsaplin/ran-out-of-cursor-tokens-and-switched-to-github-copilot-side-by-side-2n5p",
+    "published": "2026-02-18T17:38:27Z",
+    "tags": [
+      "ai",
+      "githubcopilot",
+      "programming",
+      "productivity"
+    ],
+    "scraped_at": "2026-03-08T20:38:16.156457"
+  },
+  {
+    "source": "devto",
+    "tag": "productivity",
+    "title": "The Developer I'm Grateful I Never Became",
+    "description": "Inspired by\u2014but not aligned with\u2014\"The $0 Developer Phase\u2014And How Dev.to Pulled Me Out\" by Art...",
+    "reactions": 39,
+    "comments": 22,
+    "url": "https://dev.to/narnaiezzsshaa/the-developer-im-grateful-i-never-became-255d",
+    "published": "2026-02-25T22:40:07Z",
+    "tags": [
+      "career",
+      "webdev",
+      "beginners",
+      "productivity"
+    ],
+    "scraped_at": "2026-03-08T20:38:16.156458"
+  },
+  {
+    "source": "devto",
+    "tag": "productivity",
+    "title": "I Shipped Broken Code and Wrote an Article About It",
+    "description": "This is part of a series on what AI actually changes in software development. Previous pieces: The...",
+    "reactions": 40,
+    "comments": 9,
+    "url": "https://dev.to/dannwaneri/i-shipped-broken-code-and-wrote-an-article-about-it-98p",
+    "published": "2026-03-04T11:13:54Z",
+    "tags": [
+      "ai",
+      "opensource",
+      "webdev",
+      "productivity"
+    ],
+    "scraped_at": "2026-03-08T20:38:16.156460"
+  },
+  {
+    "source": "devto",
+    "tag": "productivity",
+    "title": "How My Team Aligns on Prompting for Production",
+    "description": "My team at Google is automating sample code generation and maintenance. Part of that is using...",
+    "reactions": 19,
+    "comments": 9,
+    "url": "https://dev.to/googlecloud/how-my-team-aligns-on-prompting-for-production-1lpf",
+    "published": "2026-02-17T16:53:46Z",
+    "tags": [
+      "ai",
+      "devops",
+      "productivity",
+      "softwareengineering"
+    ],
+    "scraped_at": "2026-03-08T20:38:16.156461"
+  },
+  {
+    "source": "devto",
+    "tag": "productivity",
+    "title": "How Claude Skills Replaced Our Documentation",
+    "description": "Why encoding codebase patterns as AI instructions works better than writing docs nobody...",
+    "reactions": 35,
+    "comments": 12,
+    "url": "https://dev.to/magnusrodseth/how-claude-skills-replaced-our-documentation-emi",
+    "published": "2026-03-05T07:49:58Z",
+    "tags": [
+      "webdev",
+      "ai",
+      "documentation",
+      "productivity"
+    ],
+    "scraped_at": "2026-03-08T20:38:16.156462"
+  },
+  {
+    "source": "devto",
+    "tag": "productivity",
+    "title": "I Tried Coding With AI Glasses. Here\u2019s What Actually Happened.",
+    "description": "I was recently gifted a pair of AI glasses. This is not the kind of purchase I would make for myself....",
+    "reactions": 35,
+    "comments": 20,
+    "url": "https://dev.to/javz/i-tried-coding-with-ai-glasses-heres-what-actually-happened-27fh",
+    "published": "2026-02-17T13:16:09Z",
+    "tags": [
+      "ai",
+      "programming",
+      "opensource",
+      "productivity"
+    ],
+    "scraped_at": "2026-03-08T20:38:16.156464"
+  },
+  {
+    "source": "devto",
+    "tag": "productivity",
+    "title": "I Let AI Rewrite 40% of My Codebase. Here\u2019s What Actually Happened.",
+    "description": "AI is no longer a novelty in development.  It\u2019s not a toy. It\u2019s not magic. It\u2019s not replacing...",
+    "reactions": 93,
+    "comments": 13,
+    "url": "https://dev.to/techstratos/i-let-ai-rewrite-40-of-my-codebase-heres-what-actually-happened-1jd6",
+    "published": "2026-02-23T03:30:00Z",
+    "tags": [
+      "ai",
+      "productivity",
+      "webdev",
+      "typescript"
+    ],
+    "scraped_at": "2026-03-08T20:38:16.156465"
+  },
+  {
+    "source": "devto",
+    "tag": "productivity",
+    "title": "I'm a dyslexic developer. Here is why I built a task tracker to escape the \"Wall of Text\"",
+    "description": "\u200bAs a seasoned developer, my day involves looking at a lot of screens. But the most exhausting part...",
+    "reactions": 12,
+    "comments": 4,
+    "url": "https://dev.to/chadders13/im-a-dyslexic-developer-here-is-why-i-built-a-task-tracker-to-escape-the-wall-of-text-elp",
+    "published": "2026-02-21T02:16:35Z",
+    "tags": [
+      "a11y",
+      "productivity",
+      "showdev",
+      "ux"
+    ],
+    "scraped_at": "2026-03-08T20:38:16.156466"
+  },
+  {
+    "source": "devto",
+    "tag": "productivity",
+    "title": "How I Use Multi-Agent AI to Debug Production Errors in My Laravel App",
+    "description": "Production bugs have a predictable, exhausting rhythm.  Sentry fires. You open the issue, read the...",
+    "reactions": 30,
+    "comments": 0,
+    "url": "https://dev.to/ojie-oriarewo/how-i-use-multi-agent-ai-to-debug-production-errors-in-my-laravel-app-2f90",
+    "published": "2026-03-04T08:33:38Z",
+    "tags": [
+      "laravel",
+      "ai",
+      "productivity",
+      "showdev"
+    ],
+    "scraped_at": "2026-03-08T20:38:16.156468"
+  },
+  {
+    "source": "devto",
+    "tag": "productivity",
+    "title": "The Agent Skills Gold Rush Has a Malware Problem",
+    "description": "Three weeks ago, ClawHub had roughly 2,800 skills in its registry. Today it has over 10,700. In that...",
+    "reactions": 33,
+    "comments": 5,
+    "url": "https://dev.to/meimakes/the-agent-skills-gold-rush-has-a-malware-problem-2jai",
+    "published": "2026-02-26T16:08:19Z",
+    "tags": [
+      "devtools",
+      "ai",
+      "productivity"
+    ],
+    "scraped_at": "2026-03-08T20:38:16.156469"
+  },
+  {
+    "source": "devto",
+    "tag": "productivity",
+    "title": "Building a 24/7 Claude Code Wrapper? Here's Why Each Subprocess Burns 50K Tokens",
+    "description": "If you're building a wrapper around Claude Code \u2014 spawning claude CLI as a subprocess for automation,...",
+    "reactions": 6,
+    "comments": 11,
+    "url": "https://dev.to/jungjaehoon/why-claude-code-subagents-waste-50k-tokens-per-turn-and-how-to-fix-it-41ma",
+    "published": "2026-02-22T18:14:48Z",
+    "tags": [
+      "ai",
+      "productivity"
+    ],
+    "scraped_at": "2026-03-08T20:38:16.156471"
+  },
+  {
+    "source": "devto",
+    "tag": "productivity",
+    "title": "Digital hoarding and the beauty of decay",
+    "description": "In a recent discussion about the value of deleting code, one specific habit kept coming up: leaving...",
+    "reactions": 40,
+    "comments": 25,
+    "url": "https://dev.to/the_nortern_dev/digital-hoarding-and-the-beauty-of-decay-15jl",
+    "published": "2026-02-23T13:24:50Z",
+    "tags": [
+      "productivity",
+      "discuss",
+      "programming",
+      "watercooler"
+    ],
+    "scraped_at": "2026-03-08T20:38:16.156472"
+  },
+  {
+    "source": "devto",
+    "tag": "productivity",
+    "title": "Your Image Compressor Has Seen Every Photo You've Ever \"Compressed for Free\"",
+    "description": "You've done it hundreds of times without thinking about it. Your photo is too large to email. Your...",
+    "reactions": 9,
+    "comments": 3,
+    "url": "https://dev.to/azayshrestha/your-image-compressor-has-seen-every-photo-youve-ever-compressed-for-free-14m6",
+    "published": "2026-02-27T18:09:34Z",
+    "tags": [
+      "webdev",
+      "productivity",
+      "programming",
+      "javascript"
+    ],
+    "scraped_at": "2026-03-08T20:38:16.156473"
+  },
+  {
+    "source": "devto",
+    "tag": "productivity",
+    "title": "Nobody Is Reading Your Blog Post. They Weren't Going To Read Mine Either.",
+    "description": "I was building a slide deck last week... technical content, thoughtful structure, a solid wall of...",
+    "reactions": 19,
+    "comments": 13,
+    "url": "https://dev.to/evanlausier/nobody-is-reading-your-blog-post-they-werent-going-to-read-mine-either-42j8",
+    "published": "2026-03-06T19:16:10Z",
+    "tags": [
+      "ai",
+      "productivity",
+      "writing",
+      "discuss"
+    ],
+    "scraped_at": "2026-03-08T20:38:16.156475"
+  },
+  {
+    "source": "devto",
+    "tag": "productivity",
+    "title": "Everything I've learned so far about .cursorrules after mass testing them",
+    "description": "I've been running experiments on Cursor's rule system for a while now. I started because my rules...",
+    "reactions": 9,
+    "comments": 4,
+    "url": "https://dev.to/nedcodes/everything-i-learned-about-cursorrules-after-mass-testing-them-for-2-months-31km",
+    "published": "2026-02-22T22:34:02Z",
+    "tags": [
+      "cursor",
+      "ai",
+      "cursorrules",
+      "productivity"
+    ],
+    "scraped_at": "2026-03-08T20:38:16.156476"
+  },
+  {
+    "source": "devto",
+    "tag": "productivity",
+    "title": "The Unwritten Laws Running Your Code",
+    "description": "Nobody warns you about these in bootcamp. You learn them the hard way, usually at 11pm before a...",
+    "reactions": 11,
+    "comments": 1,
+    "url": "https://dev.to/adamthedeveloper/the-unwritten-laws-running-your-code-3p2f",
+    "published": "2026-03-05T17:14:58Z",
+    "tags": [
+      "programming",
+      "productivity",
+      "architecture",
+      "webdev"
+    ],
+    "scraped_at": "2026-03-08T20:38:16.156478"
+  },
+  {
+    "source": "devto",
+    "tag": "productivity",
+    "title": "Mother CLAUDE: Custom Agents, or How We Accidentally Built a Team",
+    "description": "Custom agents have been in AI coding tools for months. We finally connected the dots\u2014the documentation system we'd been building was already the blueprint for a team of specialists.",
+    "reactions": 8,
+    "comments": 2,
+    "url": "https://dev.to/dorothyjb/mother-claude-custom-agents-or-how-we-accidentally-built-a-team-1opl",
+    "published": "2026-02-23T00:28:37Z",
+    "tags": [
+      "ai",
+      "productivity",
+      "automation",
+      "devrel"
+    ],
+    "scraped_at": "2026-03-08T20:38:16.156479"
+  },
+  {
+    "source": "devto",
+    "tag": "productivity",
+    "title": "I Deleted Half My Codebase and Nobody Noticed",
+    "description": "Last quarter, I deleted 48% of our backend code.  No new bugs. No outages. No customer...",
+    "reactions": 61,
+    "comments": 4,
+    "url": "https://dev.to/thegiansorianodev/i-deleted-half-my-codebase-and-nobody-noticed-549",
+    "published": "2026-03-03T01:31:21Z",
+    "tags": [
+      "programming",
+      "softwareengineering",
+      "productivity",
+      "career"
+    ],
+    "scraped_at": "2026-03-08T20:38:16.156480"
+  },
+  {
+    "source": "devto",
+    "tag": "productivity",
+    "title": "How We Linked Technical Decisions to Pull Requests on GitHub",
+    "description": "I want to tell you about a mass that happened on a project I worked on last year. We had this payment...",
+    "reactions": 2,
+    "comments": 1,
+    "url": "https://dev.to/saber_ouni_452e214ebf500f/how-we-linked-technical-decisions-to-pull-requests-on-github-1906",
+    "published": "2026-02-15T13:12:09Z",
+    "tags": [
+      "github",
+      "productivity",
+      "programming"
+    ],
+    "scraped_at": "2026-03-08T20:38:16.156482"
+  },
+  {
+    "source": "devto",
+    "tag": "productivity",
+    "title": "I Built a Tiny MCP That Understands Your Code and Saves 70% Tokens",
+    "description": "Every coding agent demo looks magical... until you point it at a real codebase. Then it...",
+    "reactions": 12,
+    "comments": 0,
+    "url": "https://dev.to/badmonster0/i-built-a-tiny-mcp-that-understands-your-code-and-saves-70-tokens-2hp4",
+    "published": "2026-02-22T04:11:28Z",
+    "tags": [
+      "ai",
+      "programming",
+      "productivity",
+      "opensource"
+    ],
+    "scraped_at": "2026-03-08T20:38:16.156483"
+  },
+  {
+    "source": "devto",
+    "tag": "productivity",
+    "title": "Color Always Haunts Me",
+    "description": "&lt; over the past day I have been reworking my grass shader and right now its almost 10. It's much...",
+    "reactions": 2,
+    "comments": 2,
+    "url": "https://dev.to/no_arms_studio/color-always-haunts-me-5b3b",
+    "published": "2026-02-19T03:57:25Z",
+    "tags": [
+      "programming",
+      "productivity",
+      "devops",
+      "discuss"
+    ],
+    "scraped_at": "2026-03-08T20:38:16.156484"
+  },
+  {
+    "source": "devto",
+    "tag": "productivity",
+    "title": "I built 10 free Claude Code tools in a weekend - here's what I learned",
+    "description": "I've been using Claude Code daily for months. At some point I noticed I kept doing the same tedious...",
+    "reactions": 4,
+    "comments": 1,
+    "url": "https://dev.to/chetan_hs_c12b4d5cd3fdded/i-built-10-free-claude-code-tools-in-a-weekend-heres-what-i-learned-2bik",
+    "published": "2026-03-05T03:38:28Z",
+    "tags": [
+      "claudecode",
+      "typescript",
+      "productivity",
+      "webdev"
+    ],
+    "scraped_at": "2026-03-08T20:38:16.156486"
+  },
+  {
+    "source": "devto",
+    "tag": "productivity",
+    "title": "KAIzen \u2014 What Agile Needs for the AI Era",
+    "description": "How a small team at a gaming company went from 32% flow efficiency to 85% \u2014 by changing what we gave...",
+    "reactions": 4,
+    "comments": 1,
+    "url": "https://dev.to/aiengineer1/kaizen-what-agile-needs-for-the-ai-era-12cc",
+    "published": "2026-02-15T18:13:41Z",
+    "tags": [
+      "ai",
+      "agile",
+      "scrum",
+      "productivity"
+    ],
+    "scraped_at": "2026-03-08T20:38:16.156487"
+  },
+  {
+    "source": "devto",
+    "tag": "opensource",
+    "title": "I Shipped the Solution to Knowledge Collapse in 21 Days",
+    "description": "Three weeks ago, I wrote about knowledge collapse - how our best technical insights are dying in...",
+    "reactions": 58,
+    "comments": 28,
+    "url": "https://dev.to/the-foundation/i-built-federated-ai-knowledge-commons-heres-how-56oj",
+    "published": "2026-02-09T11:07:59Z",
+    "tags": [
+      "ai",
+      "opensource",
+      "activitypub",
+      "discuss"
+    ],
+    "scraped_at": "2026-03-08T20:38:17.160924"
+  },
+  {
+    "source": "devto",
+    "tag": "opensource",
+    "title": "Making London's hidden film clubs discoverable",
+    "description": "This is a submission for the DEV Weekend Challenge: Community           The Community   I've spent...",
+    "reactions": 38,
+    "comments": 5,
+    "url": "https://dev.to/alistairjcbrown/i-built-a-film-club-discovery-tool-for-londons-cinema-community-2md",
+    "published": "2026-03-01T11:50:52Z",
+    "tags": [
+      "devchallenge",
+      "weekendchallenge",
+      "showdev",
+      "opensource"
+    ],
+    "scraped_at": "2026-03-08T20:38:17.160948"
+  },
+  {
+    "source": "devto",
+    "tag": "opensource",
+    "title": "I Shipped Broken Code and Wrote an Article About It",
+    "description": "This is part of a series on what AI actually changes in software development. Previous pieces: The...",
+    "reactions": 40,
+    "comments": 9,
+    "url": "https://dev.to/dannwaneri/i-shipped-broken-code-and-wrote-an-article-about-it-98p",
+    "published": "2026-03-04T11:13:54Z",
+    "tags": [
+      "ai",
+      "opensource",
+      "webdev",
+      "productivity"
+    ],
+    "scraped_at": "2026-03-08T20:38:17.160952"
+  },
+  {
+    "source": "devto",
+    "tag": "opensource",
+    "title": "I Tried Coding With AI Glasses. Here\u2019s What Actually Happened.",
+    "description": "I was recently gifted a pair of AI glasses. This is not the kind of purchase I would make for myself....",
+    "reactions": 35,
+    "comments": 20,
+    "url": "https://dev.to/javz/i-tried-coding-with-ai-glasses-heres-what-actually-happened-27fh",
+    "published": "2026-02-17T13:16:09Z",
+    "tags": [
+      "ai",
+      "programming",
+      "opensource",
+      "productivity"
+    ],
+    "scraped_at": "2026-03-08T20:38:17.160956"
+  },
+  {
+    "source": "devto",
+    "tag": "opensource",
+    "title": "I Created An Enterprise MCP Gateway",
+    "description": "When you start building AI applications beyond simple experiments, everything changes. Models need...",
+    "reactions": 109,
+    "comments": 11,
+    "url": "https://dev.to/anthonymax/i-created-an-enterprise-mcp-gateway-bg",
+    "published": "2026-03-03T21:52:23Z",
+    "tags": [
+      "opensource",
+      "ai",
+      "mcp",
+      "webdev"
+    ],
+    "scraped_at": "2026-03-08T20:38:17.160959"
+  },
+  {
+    "source": "devto",
+    "tag": "opensource",
+    "title": "Every AI Agent Framework Trusts the Agent. That's the Problem.",
+    "description": "Every AI agent framework trusts the agent.  LangChain. AutoGen. CrewAI. Anthropic Tool Use. OpenAI...",
+    "reactions": 11,
+    "comments": 17,
+    "url": "https://dev.to/saezbaldo/every-ai-agent-framework-trusts-the-agent-thats-the-problem-5gfa",
+    "published": "2026-02-18T13:10:27Z",
+    "tags": [
+      "ai",
+      "security",
+      "distributedsystems",
+      "opensource"
+    ],
+    "scraped_at": "2026-03-08T20:38:17.160962"
+  },
+  {
+    "source": "devto",
+    "tag": "opensource",
+    "title": "I overpowered AI by inventing \"Brilliant\" code by AI opinion itself",
+    "description": "As it always happens to me, I started from describing a simple API client, then I started playing...",
+    "reactions": 7,
+    "comments": 1,
+    "url": "https://dev.to/framemuse/i-overpowered-ai-by-inventing-brilliant-code-by-ai-opinion-itself-3732",
+    "published": "2026-03-07T21:35:20Z",
+    "tags": [
+      "webdev",
+      "ai",
+      "opensource",
+      "typescript"
+    ],
+    "scraped_at": "2026-03-08T20:38:17.160965"
+  },
+  {
+    "source": "devto",
+    "tag": "opensource",
+    "title": "In the AI Era, Code Is Cheap. Reputation Isn\u2019t.",
+    "description": "In the era of AI it's easier than ever to be an Open Source contributor!  But, at the same time, and...",
+    "reactions": 36,
+    "comments": 8,
+    "url": "https://dev.to/kaleman15/in-the-ai-era-code-is-cheap-reputation-isnt-3482",
+    "published": "2026-03-04T21:01:29Z",
+    "tags": [
+      "ai",
+      "opensource",
+      "programming",
+      "software"
+    ],
+    "scraped_at": "2026-03-08T20:38:17.160969"
+  },
+  {
+    "source": "devto",
+    "tag": "opensource",
+    "title": "Stop Downloading Apps for Your Kids. Build Them Instead.",
+    "description": "This is a submission for the DEV Weekend Challenge: Community           The Community   I'm a mom. My...",
+    "reactions": 5,
+    "comments": 0,
+    "url": "https://dev.to/meimakes/stop-downloading-apps-for-your-kids-build-them-instead-1bhn",
+    "published": "2026-02-28T17:39:26Z",
+    "tags": [
+      "devchallenge",
+      "weekendchallenge",
+      "ai",
+      "opensource"
+    ],
+    "scraped_at": "2026-03-08T20:38:17.160972"
+  },
+  {
+    "source": "devto",
+    "tag": "opensource",
+    "title": "How to make your first contribution to an open source project",
+    "description": "Getting involved in open source doesn't have to be scary! Understand how to find a great project and...",
+    "reactions": 22,
+    "comments": 1,
+    "url": "https://dev.to/whitep4nth3r/how-to-make-your-first-contribution-to-an-open-source-project-5e50",
+    "published": "2026-03-03T12:25:26Z",
+    "tags": [
+      "webdev",
+      "opensource"
+    ],
+    "scraped_at": "2026-03-08T20:38:17.160975"
+  },
+  {
+    "source": "devto",
+    "tag": "opensource",
+    "title": "I Built a Voice-to-Code VS Code Extension That Runs Entirely On-Device",
+    "description": "Every AI coding assistant requires typing. GitHub Copilot, Continue, Kiro \u2014 they all expect you to...",
+    "reactions": 7,
+    "comments": 1,
+    "url": "https://dev.to/agentic_engineer/i-built-a-voice-to-code-vs-code-extension-that-runs-entirely-on-device-16gc",
+    "published": "2026-02-28T21:50:23Z",
+    "tags": [
+      "vscode",
+      "ai",
+      "opensource",
+      "a11y"
+    ],
+    "scraped_at": "2026-03-08T20:38:17.160978"
+  },
+  {
+    "source": "devto",
+    "tag": "opensource",
+    "title": "Merging the \"This Is\" Community into \"Playful Programming\"",
+    "description": "Today marks a major milestone for open-source education: \"This is Learning\" and \"Playful Programming\"...",
+    "reactions": 8,
+    "comments": 0,
+    "url": "https://dev.to/playfulprogramming/merging-the-this-is-community-into-playful-programming-1nfi",
+    "published": "2026-02-09T11:50:04Z",
+    "tags": [
+      "community",
+      "opensource",
+      "news"
+    ],
+    "scraped_at": "2026-03-08T20:38:17.160981"
+  },
+  {
+    "source": "devto",
+    "tag": "opensource",
+    "title": "StenoAI - Privacy Focused AI meeting intelligence. 380+ GitHub stars, 1000+ downloads",
+    "description": "Hi all, I maintain an open-source project called StenoAI. I\u2019m happy to answer questions or go deep on...",
+    "reactions": 9,
+    "comments": 8,
+    "url": "https://dev.to/ruzin_saleem_2b30cf073fd8/stenoai-privacy-focused-ai-meeting-intelligence-380-github-stars-1000-downloads-4o1m",
+    "published": "2026-02-26T02:11:16Z",
+    "tags": [
+      "ai",
+      "opensource",
+      "showdev",
+      "programming"
+    ],
+    "scraped_at": "2026-03-08T20:38:17.160985"
+  },
+  {
+    "source": "devto",
+    "tag": "opensource",
+    "title": "Using Slightly Broken Smartphones thanks to Accessibility",
+    "description": "I rescued my water-damaged phone thanks to Android's powerful accessibility features and open-source...",
+    "reactions": 18,
+    "comments": 3,
+    "url": "https://dev.to/ingosteinke/using-slightly-broken-smartphones-thanks-to-accessibility-28pf",
+    "published": "2026-03-02T17:57:49Z",
+    "tags": [
+      "ai",
+      "android",
+      "mobile",
+      "opensource"
+    ],
+    "scraped_at": "2026-03-08T20:38:17.160987"
+  },
+  {
+    "source": "devto",
+    "tag": "opensource",
+    "title": "Command Center for AI Coding Agents (Claude Code + Codex)",
+    "description": "Tide Commander is a free, open-source visual orchestrator that turns managing multiple AI coding agents into something that looks like a strategy game \u2014 but is packed with real developer tools.",
+    "reactions": 0,
+    "comments": 4,
+    "url": "https://dev.to/deivid11/command-center-for-ai-coding-agents-claude-code-codex-3d5g",
+    "published": "2026-02-13T20:08:54Z",
+    "tags": [
+      "opensource",
+      "ai",
+      "codex",
+      "claude"
+    ],
+    "scraped_at": "2026-03-08T20:38:17.160991"
+  },
+  {
+    "source": "devto",
+    "tag": "opensource",
+    "title": "How We Added Folders and Tags to Organize Video Libraries",
+    "description": "Your video library starts small. Three recordings, maybe five. You scroll, you find what you need....",
+    "reactions": 4,
+    "comments": 1,
+    "url": "https://dev.to/alexneamtu/how-we-added-folders-and-tags-to-organize-video-libraries-2f53",
+    "published": "2026-02-20T20:19:26Z",
+    "tags": [
+      "postgres",
+      "go",
+      "react",
+      "opensource"
+    ],
+    "scraped_at": "2026-03-08T20:38:17.160995"
+  },
+  {
+    "source": "devto",
+    "tag": "opensource",
+    "title": "Code Without Purpose",
+    "description": "The problem isn't too much code. It's code without purpose.",
+    "reactions": 5,
+    "comments": 4,
+    "url": "https://dev.to/queelius/code-without-purpose-1ih5",
+    "published": "2026-02-25T00:08:22Z",
+    "tags": [
+      "opensource",
+      "philosophy",
+      "programming",
+      "legacy"
+    ],
+    "scraped_at": "2026-03-08T20:38:17.160998"
+  },
+  {
+    "source": "devto",
+    "tag": "opensource",
+    "title": "I Built a Starter Repo That Turns AI Coding Tools Into Senior Engineers",
+    "description": "I Built a Starter Repo That Turns AI Coding Tools Into Senior Engineers   Every new project...",
+    "reactions": 7,
+    "comments": 0,
+    "url": "https://dev.to/humzakt/i-built-a-starter-repo-that-turns-ai-coding-tools-into-senior-engineers-1m76",
+    "published": "2026-03-04T19:40:48Z",
+    "tags": [
+      "ai",
+      "development",
+      "python",
+      "opensource"
+    ],
+    "scraped_at": "2026-03-08T20:38:17.161001"
+  },
+  {
+    "source": "devto",
+    "tag": "opensource",
+    "title": "I built an open-source alternative to Toast and Square for restaurant management",
+    "description": "The Problem   If you run a small restaurant, your options for online ordering and management...",
+    "reactions": 5,
+    "comments": 7,
+    "url": "https://dev.to/mighty840/i-built-an-open-source-alternative-to-toast-and-square-for-restaurant-management-3mdf",
+    "published": "2026-02-23T21:47:49Z",
+    "tags": [
+      "opensource",
+      "typescript",
+      "webdev",
+      "react"
+    ],
+    "scraped_at": "2026-03-08T20:38:17.161005"
+  },
+  {
+    "source": "devto",
+    "tag": "opensource",
+    "title": "Just shipped framework detection in cursor-lint \u2014 auto-detects your stack and suggests matching rule presets. Different rules for different setups. https://github.com/nedcodes-ok/cursor-lint",
+    "description": "...",
+    "reactions": 4,
+    "comments": 5,
+    "url": "https://dev.to/nedcodes/just-shipped-framework-detection-in-cursor-lint-auto-detects-your-stack-and-suggests-matching-5gf7",
+    "published": "2026-02-23T17:08:17Z",
+    "tags": [
+      "codequality",
+      "opensource",
+      "showdev",
+      "tooling"
+    ],
+    "scraped_at": "2026-03-08T20:38:17.161008"
+  },
+  {
+    "source": "devto",
+    "tag": "opensource",
+    "title": "Your MCP server's tool descriptions are an attack surface",
+    "description": "MCP tool descriptions are text. When your agent calls tools/list, the server returns JSON with a...",
+    "reactions": 10,
+    "comments": 15,
+    "url": "https://dev.to/luckypipewrench/your-mcp-servers-tool-descriptions-are-an-attack-surface-37pj",
+    "published": "2026-03-05T16:09:35Z",
+    "tags": [
+      "security",
+      "ai",
+      "mcp",
+      "opensource"
+    ],
+    "scraped_at": "2026-03-08T20:38:17.161012"
+  },
+  {
+    "source": "devto",
+    "tag": "opensource",
+    "title": "How I built an AI-powered Git context menu for Windows using Tauri and Rust",
+    "description": "A technical breakdown of building GitPop, a native Windows File Explorer extension that generates Git commits with local AI (Ollama).",
+    "reactions": 5,
+    "comments": 0,
+    "url": "https://dev.to/vinzify/how-i-built-an-ai-powered-git-context-menu-for-windows-using-tauri-and-rust-25h7",
+    "published": "2026-03-01T00:36:41Z",
+    "tags": [
+      "rust",
+      "tauri",
+      "react",
+      "opensource"
+    ],
+    "scraped_at": "2026-03-08T20:38:17.161015"
+  },
+  {
+    "source": "devto",
+    "tag": "opensource",
+    "title": "I Built a Tinder-Style GitHub Discovery App (And Ran Into Some Interesting API Problems)",
+    "description": "Scrolling through GitHub to find interesting repositories can feel exhausting.  You search for...",
+    "reactions": 6,
+    "comments": 0,
+    "url": "https://dev.to/osmankahraman/i-built-a-tinder-style-github-discovery-app-and-ran-into-some-interesting-api-problems-236b",
+    "published": "2026-03-08T03:08:41Z",
+    "tags": [
+      "opensource",
+      "swift",
+      "ios",
+      "showdev"
+    ],
+    "scraped_at": "2026-03-08T20:38:17.161018"
+  },
+  {
+    "source": "devto",
+    "tag": "opensource",
+    "title": "I Built a Chrome Extension That Captures YouTube Screenshots at Custom Intervals (Even 10+ Hour Videos)",
+    "description": "Ever wanted to automatically capture screenshots from a YouTube video every 10 seconds?  Or extract...",
+    "reactions": 7,
+    "comments": 2,
+    "url": "https://dev.to/akshit_suthar/i-built-a-chrome-extension-that-captures-youtube-screenshots-at-custom-intervals-even-10-hour-2gjp",
+    "published": "2026-02-17T18:49:10Z",
+    "tags": [
+      "javascript",
+      "extensions",
+      "beginners",
+      "opensource"
+    ],
+    "scraped_at": "2026-03-08T20:38:17.161023"
+  },
+  {
+    "source": "devto",
+    "tag": "opensource",
+    "title": "We Scanned 8 Popular MCP Servers \u2014 Here's What We Found",
+    "description": "If you're building AI agents with the Model Context Protocol (MCP), security probably isn't the first...",
+    "reactions": 3,
+    "comments": 2,
+    "url": "https://dev.to/ecap0/we-scanned-8-popular-mcp-servers-heres-what-we-found-3g65",
+    "published": "2026-02-16T03:09:29Z",
+    "tags": [
+      "security",
+      "mcp",
+      "ai",
+      "opensource"
+    ],
+    "scraped_at": "2026-03-08T20:38:17.161026"
+  },
+  {
+    "source": "devto",
+    "tag": "opensource",
+    "title": "I Built a Tiny MCP That Understands Your Code and Saves 70% Tokens",
+    "description": "Every coding agent demo looks magical... until you point it at a real codebase. Then it...",
+    "reactions": 12,
+    "comments": 0,
+    "url": "https://dev.to/badmonster0/i-built-a-tiny-mcp-that-understands-your-code-and-saves-70-tokens-2hp4",
+    "published": "2026-02-22T04:11:28Z",
+    "tags": [
+      "ai",
+      "programming",
+      "productivity",
+      "opensource"
+    ],
+    "scraped_at": "2026-03-08T20:38:17.161029"
+  },
+  {
+    "source": "devto",
+    "tag": "opensource",
+    "title": "Blocking AI Scrapers in Spring Boot Without Redis: A Lightweight Edge Filter",
+    "description": "Bots Found My API Before My Users Did   If you expose a public API, something interesting...",
+    "reactions": 2,
+    "comments": 1,
+    "url": "https://dev.to/ashutosh_stark/how-i-built-a-zero-latency-ai-firewall-in-spring-boot-without-redis-5ck6",
+    "published": "2026-02-19T12:09:43Z",
+    "tags": [
+      "webdev",
+      "ai",
+      "opensource",
+      "security"
+    ],
+    "scraped_at": "2026-03-08T20:38:17.161032"
+  },
+  {
+    "source": "devto",
+    "tag": "opensource",
+    "title": "Your AI Agent Knows Your Passwords \u2014 Here's How I Fixed It",
+    "description": "I built an open-source MCP server that lets AI agents log into websites without ever seeing your credentials. Here's the problem, the architecture, and how to set it up.",
+    "reactions": 6,
+    "comments": 9,
+    "url": "https://dev.to/demojacob/your-ai-agent-knows-your-passwords-heres-how-i-fixed-it-4kcd",
+    "published": "2026-02-16T16:10:05Z",
+    "tags": [
+      "security",
+      "opensource",
+      "ai",
+      "openclaw"
+    ],
+    "scraped_at": "2026-03-08T20:38:17.161036"
+  },
+  {
+    "source": "devto",
+    "tag": "opensource",
+    "title": "Why Multitasking With AI Coding Agents Breaks Down (And How I Fixed It)",
+    "description": "AI coding agents are powerful \u2014 but running multiple sessions in parallel quickly becomes chaotic. Here\u2019s what breaks, and how I approached fixing it.",
+    "reactions": 6,
+    "comments": 1,
+    "url": "https://dev.to/johannesjo/why-multitasking-with-ai-coding-agents-breaks-down-and-how-i-fixed-it-2lm0",
+    "published": "2026-02-21T20:02:43Z",
+    "tags": [
+      "ai",
+      "programming",
+      "developerproductivity",
+      "opensource"
+    ],
+    "scraped_at": "2026-03-08T20:38:17.161039"
+  },
+  {
+    "source": "devto",
+    "tag": "opensource",
+    "title": "I Gave My AI Agent a Brain. Then I Had to Protect It.",
+    "description": "Your AI agent forgets everything between sessions. Here's how I built brain-like memory with automatic extraction \u2014 then discovered why that memory needs defending.",
+    "reactions": 2,
+    "comments": 1,
+    "url": "https://dev.to/mkdelta221/i-gave-my-ai-agent-a-brain-then-i-had-to-protect-it-5eb",
+    "published": "2026-02-15T11:48:53Z",
+    "tags": [
+      "ai",
+      "security",
+      "memory",
+      "opensource"
+    ],
+    "scraped_at": "2026-03-08T20:38:17.161042"
+  },
+  {
+    "source": "devto",
+    "tag": "webdev",
+    "title": "Web Development Is More Than Frontend and Backend (Here\u2019s What Actually Matters)",
+    "description": "For a long time, I thought web development was simple.  Frontend. Backend. Done.  HTML, CSS,...",
+    "reactions": 181,
+    "comments": 52,
+    "url": "https://dev.to/hadil/web-development-is-more-than-frontend-and-backend-heres-what-actually-matters-23kc",
+    "published": "2026-02-17T06:49:08Z",
+    "tags": [
+      "programming",
+      "webdev",
+      "codenewbie",
+      "node"
+    ],
+    "scraped_at": "2026-03-08T20:38:18.004395"
+  },
+  {
+    "source": "devto",
+    "tag": "webdev",
+    "title": "If You See These Red Flags in an IT Interview \u2014 Run (Real Stories)",
+    "description": "We often prepare for interviews by polishing our CVs, grinding LeetCode, and rehearsing answers to...",
+    "reactions": 146,
+    "comments": 86,
+    "url": "https://dev.to/sylwia-lask/if-you-see-these-red-flags-in-an-it-interview-run-real-stories-4am7",
+    "published": "2026-02-18T10:54:17Z",
+    "tags": [
+      "webdev",
+      "discuss"
+    ],
+    "scraped_at": "2026-03-08T20:38:18.004421"
+  },
+  {
+    "source": "devto",
+    "tag": "webdev",
+    "title": "i built a social platform where everything vanishes after 24 hours",
+    "description": "genjutsu is a fast-paced, developer-focused social network where everything vanishes every 24 hours....",
+    "reactions": 120,
+    "comments": 54,
+    "url": "https://dev.to/iamovi/i-built-a-social-platform-where-everything-vanishes-after-24-hours-3imk",
+    "published": "2026-03-03T04:44:50Z",
+    "tags": [
+      "socialmedia",
+      "showdev",
+      "webdev",
+      "typescript"
+    ],
+    "scraped_at": "2026-03-08T20:38:18.004425"
+  },
+  {
+    "source": "devto",
+    "tag": "webdev",
+    "title": "The $0 Developer Phase \u2014 And How Dev.to Pulled Me Out",
+    "description": "Eight years ago, I was absolutely convinced of one thing:  I was ahead of the curve.  Not just...",
+    "reactions": 214,
+    "comments": 112,
+    "url": "https://dev.to/art_light/the-0-developer-phase-and-how-devto-pulled-me-out-84g",
+    "published": "2026-02-25T07:11:06Z",
+    "tags": [
+      "career",
+      "webdev",
+      "productivity",
+      "beginners"
+    ],
+    "scraped_at": "2026-03-08T20:38:18.004429"
+  },
+  {
+    "source": "devto",
+    "tag": "webdev",
+    "title": "The Real Skill in Programming Is Debugging. Everything Else Is Copy-Paste",
+    "description": "I have a feeling this statement is even more true in the age of AI and coding agents. Sure, today we...",
+    "reactions": 173,
+    "comments": 102,
+    "url": "https://dev.to/sylwia-lask/the-real-skill-in-programming-is-debugging-everything-else-is-copy-paste-i39",
+    "published": "2026-03-05T08:17:23Z",
+    "tags": [
+      "webdev",
+      "discuss",
+      "programming"
+    ],
+    "scraped_at": "2026-03-08T20:38:18.004433"
+  },
+  {
+    "source": "devto",
+    "tag": "webdev",
+    "title": "How Seriously Should We Take State of JS and Other Developer Surveys?",
+    "description": "There was a time when I treated State of JS results almost like prophecy.  A new edition dropped and...",
+    "reactions": 89,
+    "comments": 72,
+    "url": "https://dev.to/sylwia-lask/how-seriously-should-we-take-state-of-js-and-other-developer-surveys-9ce",
+    "published": "2026-02-10T10:43:07Z",
+    "tags": [
+      "javascript",
+      "node",
+      "frontend",
+      "webdev"
+    ],
+    "scraped_at": "2026-03-08T20:38:18.004436"
+  },
+  {
+    "source": "devto",
+    "tag": "webdev",
+    "title": "Happening Now: DEV Weekend Challenge!! Submissions due March 2 at 7:59am UTC.",
+    "description": "Good morning! Good afternoon! Good Evening!   Welcome to our first DEV Weekend Challenge, a short...",
+    "reactions": 174,
+    "comments": 44,
+    "url": "https://dev.to/devteam/happening-now-dev-weekend-challenge-submissions-due-march-2-at-759am-utc-5fg8",
+    "published": "2026-02-27T03:00:00Z",
+    "tags": [
+      "devchallenge",
+      "weekendchallenge",
+      "webdev",
+      "ai"
+    ],
+    "scraped_at": "2026-03-08T20:38:18.004441"
+  },
+  {
+    "source": "devto",
+    "tag": "webdev",
+    "title": "3 words worth a billion dollars: Drift to Determinism (DriDe)",
+    "description": "I doubt I am the first to come up with this concept, but I am probably the first to name it.  Drift...",
+    "reactions": 48,
+    "comments": 27,
+    "url": "https://dev.to/grahamthedev/3-words-worth-a-billion-dollars-drift-to-determinism-dride-dej",
+    "published": "2026-03-07T10:44:43Z",
+    "tags": [
+      "webdev",
+      "ai",
+      "automation",
+      "architecture"
+    ],
+    "scraped_at": "2026-03-08T20:38:18.004444"
+  },
+  {
+    "source": "devto",
+    "tag": "webdev",
+    "title": "The Hardest Part of Being a Developer Isn\u2019t Coding. It\u2019s Disappearing Quietly.",
+    "description": "A weird thing happens when you become a developer. You can go days without anyone needing you in a...",
+    "reactions": 153,
+    "comments": 96,
+    "url": "https://dev.to/the_nortern_dev/the-hardest-part-of-being-a-developer-isnt-coding-its-disappearing-quietly-52l",
+    "published": "2026-02-28T05:48:51Z",
+    "tags": [
+      "discuss",
+      "mentalhealth",
+      "webdev",
+      "career"
+    ],
+    "scraped_at": "2026-03-08T20:38:18.004448"
+  },
+  {
+    "source": "devto",
+    "tag": "webdev",
+    "title": "How a DEV Friend and I Brought Two Avatars to Life",
+    "description": "I met @webdeveloperhyper on the DEV Community, and like most good internet collaborations, it started...",
+    "reactions": 95,
+    "comments": 64,
+    "url": "https://dev.to/itsugo/how-a-dev-friend-and-i-brought-two-avatars-to-life-chp",
+    "published": "2026-02-16T06:31:42Z",
+    "tags": [
+      "webdev",
+      "sideprojects",
+      "animation",
+      "react"
+    ],
+    "scraped_at": "2026-03-08T20:38:18.004451"
+  },
+  {
+    "source": "devto",
+    "tag": "webdev",
+    "title": "Re-creating a Pantone Color Deck in CSS",
+    "description": "If you\u2019ve ever held a Pantone fan deck \u2014 the kind graphic designers used to carry around like a...",
+    "reactions": 34,
+    "comments": 11,
+    "url": "https://dev.to/madsstoumann/re-creating-a-pantone-color-deck-in-css-3108",
+    "published": "2026-02-11T13:05:10Z",
+    "tags": [
+      "html",
+      "css",
+      "tutorial",
+      "webdev"
+    ],
+    "scraped_at": "2026-03-08T20:38:18.004455"
+  },
+  {
+    "source": "devto",
+    "tag": "webdev",
+    "title": "React: Singletons aren't as evil as you think",
+    "description": "In the world of React, the humble singleton gets a bit of a bad rap. It is often dismissed as a messy...",
+    "reactions": 38,
+    "comments": 4,
+    "url": "https://dev.to/link2twenty/react-singletons-arent-as-evil-as-you-think-44m8",
+    "published": "2026-03-04T18:43:16Z",
+    "tags": [
+      "react",
+      "webdev",
+      "singleton"
+    ],
+    "scraped_at": "2026-03-08T20:38:18.004458"
+  },
+  {
+    "source": "devto",
+    "tag": "webdev",
+    "title": "The Token Economy",
+    "description": "In 2161, time is money. Literally.  When you are born, a clock starts on your arm. One year. When it...",
+    "reactions": 58,
+    "comments": 86,
+    "url": "https://dev.to/dannwaneri/the-token-economy-3cd9",
+    "published": "2026-02-26T13:36:47Z",
+    "tags": [
+      "ai",
+      "webdev",
+      "career",
+      "discuss"
+    ],
+    "scraped_at": "2026-03-08T20:38:18.004462"
+  },
+  {
+    "source": "devto",
+    "tag": "webdev",
+    "title": "Stop Ignoring RFC 2324. It's the Most Important Protocol You've Never Implemented.",
+    "description": "HTCPCP/1.0, the 418 teapot, a full interactive dashboard, and why a 1998 April Fools RFC teaches better software design than most tech books.",
+    "reactions": 51,
+    "comments": 23,
+    "url": "https://dev.to/pascal_cescato_692b7a8a20/stop-ignoring-rfc-2324-its-the-most-important-protocol-youve-never-implemented-53pe",
+    "published": "2026-02-24T23:44:05Z",
+    "tags": [
+      "fun",
+      "http",
+      "python",
+      "webdev"
+    ],
+    "scraped_at": "2026-03-08T20:38:18.004466"
+  },
+  {
+    "source": "devto",
+    "tag": "webdev",
+    "title": "The Meter Was Always Running",
+    "description": "On the All-In podcast (episode #261), Jason Calacanis revealed his AI agents cost $300 a day. Each....",
+    "reactions": 32,
+    "comments": 22,
+    "url": "https://dev.to/dannwaneri/the-meter-was-always-running-44c4",
+    "published": "2026-02-20T17:57:37Z",
+    "tags": [
+      "ai",
+      "webdev",
+      "career",
+      "discuss"
+    ],
+    "scraped_at": "2026-03-08T20:38:18.004470"
+  },
+  {
+    "source": "devto",
+    "tag": "webdev",
+    "title": "Becoming 1% better each day.",
+    "description": "I am starting my learning journey today and planning to document my learnings as daily dev.to posts...",
+    "reactions": 76,
+    "comments": 29,
+    "url": "https://dev.to/della_codes/becoming-1-better-each-day-1p9m",
+    "published": "2026-02-12T05:39:19Z",
+    "tags": [
+      "100daysofcode",
+      "frontend",
+      "learning",
+      "webdev"
+    ],
+    "scraped_at": "2026-03-08T20:38:18.004475"
+  },
+  {
+    "source": "devto",
+    "tag": "webdev",
+    "title": "Why I Built My Own Humanizer (And Why You Should Too)",
+    "description": "There's a tool called humanizer \u2014 a Claude Code skill built by blader, inspired by Wikipedia's guide...",
+    "reactions": 30,
+    "comments": 19,
+    "url": "https://dev.to/dannwaneri/why-i-built-my-own-humanizer-and-why-you-should-too-2a9e",
+    "published": "2026-02-24T17:19:42Z",
+    "tags": [
+      "ai",
+      "writing",
+      "tooling",
+      "webdev"
+    ],
+    "scraped_at": "2026-03-08T20:38:18.004478"
+  },
+  {
+    "source": "devto",
+    "tag": "webdev",
+    "title": "Ozigi v2 Changelog: Building a Modular Agentic Content Engine with Next.js, Supabase, and Playwright",
+    "description": "When I first built Ozigi (initially WriterHelper), the goal was simple: give content professionals in...",
+    "reactions": 44,
+    "comments": 18,
+    "url": "https://dev.to/dumebii/ozigi-v2-changelog-building-a-modular-agentic-content-engine-with-nextjs-supabase-and-playwright-59mo",
+    "published": "2026-03-02T11:37:31Z",
+    "tags": [
+      "webdev",
+      "showdev",
+      "nextjs",
+      "playwright"
+    ],
+    "scraped_at": "2026-03-08T20:38:18.004483"
+  },
+  {
+    "source": "devto",
+    "tag": "webdev",
+    "title": "I vibe-coded an internal tool that slashed my content workflow by 4 hours",
+    "description": "One of the biggest challenges I face as a content expert is repurposing my written blogs for social...",
+    "reactions": 55,
+    "comments": 26,
+    "url": "https://dev.to/dumebii/i-vibe-coded-an-internal-tool-that-slashed-my-content-workflow-by-4-hours-310f",
+    "published": "2026-02-27T14:52:17Z",
+    "tags": [
+      "webdev",
+      "ai",
+      "nextjs",
+      "tooling"
+    ],
+    "scraped_at": "2026-03-08T20:38:18.004487"
+  },
+  {
+    "source": "devto",
+    "tag": "webdev",
+    "title": "The Developer I'm Grateful I Never Became",
+    "description": "Inspired by\u2014but not aligned with\u2014\"The $0 Developer Phase\u2014And How Dev.to Pulled Me Out\" by Art...",
+    "reactions": 39,
+    "comments": 22,
+    "url": "https://dev.to/narnaiezzsshaa/the-developer-im-grateful-i-never-became-255d",
+    "published": "2026-02-25T22:40:07Z",
+    "tags": [
+      "career",
+      "webdev",
+      "beginners",
+      "productivity"
+    ],
+    "scraped_at": "2026-03-08T20:38:18.004491"
+  },
+  {
+    "source": "devto",
+    "tag": "webdev",
+    "title": "\ud83d\udca5How to Reduce Stress for Free (Mega Bazooka with React Three Fiber + AI)\ud83d\udca5",
+    "description": "Update (2026/02/24): Added feature to reduce much stress. Gold Fountain with Mega Bazooka          ...",
+    "reactions": 71,
+    "comments": 32,
+    "url": "https://dev.to/webdeveloperhyper/how-to-reduce-stress-for-free-mega-bazooka-with-react-three-fiber-ai-4n50",
+    "published": "2026-02-23T10:02:57Z",
+    "tags": [
+      "ai",
+      "webdev",
+      "graphql",
+      "a11y"
+    ],
+    "scraped_at": "2026-03-08T20:38:18.004495"
+  },
+  {
+    "source": "devto",
+    "tag": "webdev",
+    "title": "I Shipped Broken Code and Wrote an Article About It",
+    "description": "This is part of a series on what AI actually changes in software development. Previous pieces: The...",
+    "reactions": 40,
+    "comments": 9,
+    "url": "https://dev.to/dannwaneri/i-shipped-broken-code-and-wrote-an-article-about-it-98p",
+    "published": "2026-03-04T11:13:54Z",
+    "tags": [
+      "ai",
+      "opensource",
+      "webdev",
+      "productivity"
+    ],
+    "scraped_at": "2026-03-08T20:38:18.004498"
+  },
+  {
+    "source": "devto",
+    "tag": "webdev",
+    "title": "Claude Code for Fullstack Development: The 3 Things You Actually Need",
+    "description": "How Can I Use Claude Code Effectively?   There's a lot of hype around vibe coding with...",
+    "reactions": 73,
+    "comments": 22,
+    "url": "https://dev.to/wasp/claude-code-for-fullstack-development-the-3-things-you-actually-need-1p6p",
+    "published": "2026-02-13T13:00:00Z",
+    "tags": [
+      "vibecoding",
+      "fullstack",
+      "ai",
+      "webdev"
+    ],
+    "scraped_at": "2026-03-08T20:38:18.004503"
+  },
+  {
+    "source": "devto",
+    "tag": "webdev",
+    "title": "How Claude Skills Replaced Our Documentation",
+    "description": "Why encoding codebase patterns as AI instructions works better than writing docs nobody...",
+    "reactions": 35,
+    "comments": 12,
+    "url": "https://dev.to/magnusrodseth/how-claude-skills-replaced-our-documentation-emi",
+    "published": "2026-03-05T07:49:58Z",
+    "tags": [
+      "webdev",
+      "ai",
+      "documentation",
+      "productivity"
+    ],
+    "scraped_at": "2026-03-08T20:38:18.004506"
+  },
+  {
+    "source": "devto",
+    "tag": "webdev",
+    "title": "I'm Done With Magic. Here's What I Built Instead.",
+    "description": "The JavaScript ecosystem has a magic problem.  Not the fun kind. The kind where you stare at your...",
+    "reactions": 18,
+    "comments": 14,
+    "url": "https://dev.to/iceonfire/im-done-with-magic-heres-what-i-built-instead-988",
+    "published": "2026-02-17T13:30:04Z",
+    "tags": [
+      "javascript",
+      "webdev",
+      "architecture",
+      "redux"
+    ],
+    "scraped_at": "2026-03-08T20:38:18.004509"
+  },
+  {
+    "source": "devto",
+    "tag": "webdev",
+    "title": "I Created An Enterprise MCP Gateway",
+    "description": "When you start building AI applications beyond simple experiments, everything changes. Models need...",
+    "reactions": 109,
+    "comments": 11,
+    "url": "https://dev.to/anthonymax/i-created-an-enterprise-mcp-gateway-bg",
+    "published": "2026-03-03T21:52:23Z",
+    "tags": [
+      "opensource",
+      "ai",
+      "mcp",
+      "webdev"
+    ],
+    "scraped_at": "2026-03-08T20:38:18.004528"
+  },
+  {
+    "source": "devto",
+    "tag": "webdev",
+    "title": "Your AI Wrote the Backend. Who Owns the Breach?",
+    "description": "The AI industry is telling developers that anyone can build an app now. No coding experience needed....",
+    "reactions": 24,
+    "comments": 9,
+    "url": "https://dev.to/narnaiezzsshaa/your-ai-wrote-the-backend-who-owns-the-breach-2o73",
+    "published": "2026-02-26T00:32:00Z",
+    "tags": [
+      "security",
+      "ai",
+      "webdev",
+      "devops"
+    ],
+    "scraped_at": "2026-03-08T20:38:18.004532"
+  },
+  {
+    "source": "devto",
+    "tag": "webdev",
+    "title": "I Let AI Rewrite 40% of My Codebase. Here\u2019s What Actually Happened.",
+    "description": "AI is no longer a novelty in development.  It\u2019s not a toy. It\u2019s not magic. It\u2019s not replacing...",
+    "reactions": 93,
+    "comments": 13,
+    "url": "https://dev.to/techstratos/i-let-ai-rewrite-40-of-my-codebase-heres-what-actually-happened-1jd6",
+    "published": "2026-02-23T03:30:00Z",
+    "tags": [
+      "ai",
+      "productivity",
+      "webdev",
+      "typescript"
+    ],
+    "scraped_at": "2026-03-08T20:38:18.004535"
+  },
+  {
+    "source": "devto",
+    "tag": "webdev",
+    "title": "The hosting setup nobody talks about anymore",
+    "description": "Ever had this problem?   You're building something real, real-time features, background workers, cron...",
+    "reactions": 22,
+    "comments": 3,
+    "url": "https://dev.to/aws/the-hosting-setup-nobody-talks-about-anymore-2528",
+    "published": "2026-02-20T00:15:40Z",
+    "tags": [
+      "aws",
+      "webhost",
+      "webdev"
+    ],
+    "scraped_at": "2026-03-08T20:38:18.004538"
+  },
+  {
+    "source": "devto",
+    "tag": "webdev",
+    "title": "Just Launched My Portfolio \u2014 What Do You Think?",
+    "description": "After procrastinating for way too long, I finally built and shipped my portfolio:   Live...",
+    "reactions": 33,
+    "comments": 23,
+    "url": "https://dev.to/cgcm070/just-launched-my-portfolio-what-do-you-think-336j",
+    "published": "2026-02-21T18:10:08Z",
+    "tags": [
+      "portfolio",
+      "webdev",
+      "design",
+      "learning"
+    ],
+    "scraped_at": "2026-03-08T20:38:18.004543"
+  },
+  {
+    "source": "devto",
+    "tag": "cloud",
+    "title": "Go Made Me Fast. Rust Made Me Care. AWS Made Me Pay.",
+    "description": "For years, my cloud architecture felt\u2026 reasonable.   Go services AWS infrastructure Containers...",
+    "reactions": 116,
+    "comments": 31,
+    "url": "https://dev.to/art_light/go-made-me-fast-rust-made-me-care-aws-made-me-pay-2f82",
+    "published": "2026-02-07T17:58:23Z",
+    "tags": [
+      "go",
+      "rust",
+      "aws",
+      "cloud"
+    ],
+    "scraped_at": "2026-03-08T20:38:18.842507"
+  },
+  {
+    "source": "devto",
+    "tag": "cloud",
+    "title": "I Clicked \u2018Azure Portal\u2019 and Realized How Small My World Was",
+    "description": "When I opened the Azure Portal for the first time, my first instinct wasn\u2019t curiosity. It was...",
+    "reactions": 49,
+    "comments": 22,
+    "url": "https://dev.to/itsugo/i-clicked-azure-portal-and-realized-how-small-my-world-was-a78",
+    "published": "2026-02-23T18:03:43Z",
+    "tags": [
+      "azure",
+      "cloud",
+      "software",
+      "learning"
+    ],
+    "scraped_at": "2026-03-08T20:38:18.842533"
+  },
+  {
+    "source": "devto",
+    "tag": "cloud",
+    "title": "The Cloud Is Not Your Computer: Why Go and Rust Developers Secretly Miss the Monolith",
+    "description": "I have deployed code to:   Bare metal servers that screamed when the fan failed. VPS machines that...",
+    "reactions": 96,
+    "comments": 22,
+    "url": "https://dev.to/art_light/the-cloud-is-not-your-computer-why-go-and-rust-developers-secretly-miss-the-monolith-594c",
+    "published": "2026-02-11T04:19:39Z",
+    "tags": [
+      "go",
+      "rust",
+      "cloud",
+      "aws"
+    ],
+    "scraped_at": "2026-03-08T20:38:18.842538"
+  },
+  {
+    "source": "devto",
+    "tag": "cloud",
+    "title": "My Dad Said: Start With Compute. Now I See Why.",
+    "description": "When I told my dad I had started learning Azure, he asked me one question.  \u201cWhere did you start?\u201d  I...",
+    "reactions": 21,
+    "comments": 10,
+    "url": "https://dev.to/itsugo/my-dad-said-start-with-compute-now-i-see-why-7ga",
+    "published": "2026-03-07T21:01:27Z",
+    "tags": [
+      "azure",
+      "cloud",
+      "learning",
+      "beginners"
+    ],
+    "scraped_at": "2026-03-08T20:38:18.842541"
+  },
+  {
+    "source": "devto",
+    "tag": "cloud",
+    "title": "The Illusion of Digital Sovereignty: Why Vendor Swapping is Not a Compliance Strategy",
+    "description": "The recent announcement that the Schwarz Group is moving hundreds of thousands of employees to Google...",
+    "reactions": 19,
+    "comments": 12,
+    "url": "https://dev.to/alifunk/the-illusion-of-digital-sovereignty-why-vendor-swapping-is-not-a-compliance-strategy-43jf",
+    "published": "2026-02-23T21:12:52Z",
+    "tags": [
+      "sovereignty",
+      "cloud",
+      "devops",
+      "architecture"
+    ],
+    "scraped_at": "2026-03-08T20:38:18.842545"
+  },
+  {
+    "source": "devto",
+    "tag": "cloud",
+    "title": "I Compared Data Egress Costs Across 44 Cloud Providers \u2014 Here's the Breakdown",
+    "description": "I run GPUPerHour.com \u2014 it's a pricing comparison site for GPU cloud rentals. I built it because the...",
+    "reactions": 2,
+    "comments": 1,
+    "url": "https://dev.to/gpuperhour/i-compared-data-egress-costs-across-44-cloud-providers-heres-the-breakdown-4m5o",
+    "published": "2026-03-01T20:34:41Z",
+    "tags": [
+      "cloud",
+      "devops",
+      "machinglearning",
+      "aws"
+    ],
+    "scraped_at": "2026-03-08T20:38:18.842548"
+  },
+  {
+    "source": "devto",
+    "tag": "cloud",
+    "title": "Conditions, Phases, and Declarative Phase Rules in Kubernetes Operators",
+    "description": "Tl;Dr;    You can start with experimenting with the demo:...",
+    "reactions": 0,
+    "comments": 0,
+    "url": "https://dev.to/rocketchat/conditions-phases-and-declarative-phase-rules-in-kubernetes-operators-l2h",
+    "published": "2026-02-13T22:40:31Z",
+    "tags": [
+      "kubernetes",
+      "devops",
+      "opensource",
+      "cloud"
+    ],
+    "scraped_at": "2026-03-08T20:38:18.842551"
+  },
+  {
+    "source": "devto",
+    "tag": "cloud",
+    "title": "Solved: Moved from laptop Terraform to full CI/CD with testing and drift detection",
+    "description": "\ud83d\ude80 Executive Summary   TL;DR: Moving Terraform from local machines to a robust CI/CD pipeline...",
+    "reactions": 0,
+    "comments": 1,
+    "url": "https://dev.to/techresolve/solved-moved-from-laptop-terraform-to-full-cicd-with-testing-and-drift-detection-328p",
+    "published": "2026-02-10T11:39:58Z",
+    "tags": [
+      "devops",
+      "programming",
+      "tutorial",
+      "cloud"
+    ],
+    "scraped_at": "2026-03-08T20:38:18.842555"
+  },
+  {
+    "source": "devto",
+    "tag": "cloud",
+    "title": "Solved: Critical RSC Vulnerability in Next.js & React 19. Here's the Fix.",
+    "description": "\ud83d\ude80 Executive Summary   TL;DR: A critical Remote Code Execution (RCE) vulnerability has been...",
+    "reactions": 1,
+    "comments": 0,
+    "url": "https://dev.to/techresolve/solved-critical-rsc-vulnerability-in-nextjs-react-19-heres-the-fix-3mlk",
+    "published": "2026-02-26T07:40:00Z",
+    "tags": [
+      "devops",
+      "programming",
+      "tutorial",
+      "cloud"
+    ],
+    "scraped_at": "2026-03-08T20:38:18.842558"
+  },
+  {
+    "source": "devto",
+    "tag": "cloud",
+    "title": "Hosting a Dockerized Node.js App on Oracle Cloud Free Tier",
+    "description": "I recently decided to host one of my Dockerized Node.js apps on a VPS using Oracle Cloud Free Tier -...",
+    "reactions": 1,
+    "comments": 0,
+    "url": "https://dev.to/prajwolshrestha/hosting-a-dockerized-nodejs-app-on-oracle-cloud-free-tier-38ga",
+    "published": "2026-02-15T14:06:10Z",
+    "tags": [
+      "docker",
+      "cloud",
+      "nginx",
+      "vps"
+    ],
+    "scraped_at": "2026-03-08T20:38:18.842561"
+  },
+  {
+    "source": "devto",
+    "tag": "cloud",
+    "title": "Solved: What in the world would you call this\u2026?",
+    "description": "\ud83d\ude80 Executive Summary   TL;DR: A nested .git folder within a Git subdirectory creates \u2018phantom...",
+    "reactions": 0,
+    "comments": 0,
+    "url": "https://dev.to/techresolve/solved-what-in-the-world-would-you-call-this-16f3",
+    "published": "2026-02-11T07:09:42Z",
+    "tags": [
+      "devops",
+      "programming",
+      "tutorial",
+      "cloud"
+    ],
+    "scraped_at": "2026-03-08T20:38:18.842564"
+  },
+  {
+    "source": "devto",
+    "tag": "cloud",
+    "title": "Solved: [HELP] Oracle Cloud ARM Instance Locked Out After Editing sshd_config \u2014 Serial Console Login Immediately Resets",
+    "description": "\ud83d\ude80 Executive Summary   TL;DR: Oracle Cloud ARM instances can become inaccessible after...",
+    "reactions": 1,
+    "comments": 0,
+    "url": "https://dev.to/techresolve/solved-help-oracle-cloud-arm-instance-locked-out-after-editing-sshdconfig-serial-console-11ad",
+    "published": "2026-02-21T16:11:59Z",
+    "tags": [
+      "devops",
+      "programming",
+      "tutorial",
+      "cloud"
+    ],
+    "scraped_at": "2026-03-08T20:38:18.842567"
+  },
+  {
+    "source": "devto",
+    "tag": "cloud",
+    "title": "Everything You Need to Know About AWS for Your First Developer Job",
+    "description": "A real-world guide for day-one developers           Table of Contents    Intro Your First...",
+    "reactions": 28,
+    "comments": 6,
+    "url": "https://dev.to/aws/everything-you-need-to-know-about-aws-for-your-first-developer-job-52o2",
+    "published": "2026-02-10T11:12:37Z",
+    "tags": [
+      "aws",
+      "developer",
+      "cloud",
+      "devrel"
+    ],
+    "scraped_at": "2026-03-08T20:38:18.842571"
+  },
+  {
+    "source": "devto",
+    "tag": "cloud",
+    "title": "How to Create and Log Into Microsoft Azure",
+    "description": "This guide will help you:   Create an Azure account Activate your free subscription Log in to the...",
+    "reactions": 3,
+    "comments": 0,
+    "url": "https://dev.to/jumptotech/how-to-create-and-log-into-microsoft-azure-3239",
+    "published": "2026-03-01T05:09:34Z",
+    "tags": [
+      "azure",
+      "beginners",
+      "cloud",
+      "tutorial"
+    ],
+    "scraped_at": "2026-03-08T20:38:18.842574"
+  },
+  {
+    "source": "devto",
+    "tag": "cloud",
+    "title": "Solved: Why do I still feel broke even though the business is doing well?",
+    "description": "\ud83d\ude80 Executive Summary   TL;DR: The \u2018Broke Billionaire\u2019 server problem describes powerful...",
+    "reactions": 2,
+    "comments": 0,
+    "url": "https://dev.to/techresolve/solved-why-do-i-still-feel-broke-even-though-the-business-is-doing-well-ne4",
+    "published": "2026-03-02T15:38:12Z",
+    "tags": [
+      "devops",
+      "programming",
+      "tutorial",
+      "cloud"
+    ],
+    "scraped_at": "2026-03-08T20:38:18.842577"
+  },
+  {
+    "source": "devto",
+    "tag": "cloud",
+    "title": "Running One Docker Container Per User on a $35/Month Server",
+    "description": "I run a Telegram AI bot where every user gets their own Docker container. Here is how that works on a...",
+    "reactions": 0,
+    "comments": 1,
+    "url": "https://dev.to/reeddev42/running-one-docker-container-per-user-on-a-35month-server-51hh",
+    "published": "2026-02-11T23:37:21Z",
+    "tags": [
+      "docker",
+      "devops",
+      "cloud",
+      "tutorial"
+    ],
+    "scraped_at": "2026-03-08T20:38:18.842580"
+  },
+  {
+    "source": "devto",
+    "tag": "cloud",
+    "title": "Solved: In-Person Sales Recommendations",
+    "description": "\ud83d\ude80 Executive Summary   TL;DR: A sales application served stale product recommendations due to...",
+    "reactions": 0,
+    "comments": 0,
+    "url": "https://dev.to/techresolve/solved-in-person-sales-recommendations-1i3l",
+    "published": "2026-02-16T07:17:11Z",
+    "tags": [
+      "devops",
+      "programming",
+      "tutorial",
+      "cloud"
+    ],
+    "scraped_at": "2026-03-08T20:38:18.842583"
+  },
+  {
+    "source": "devto",
+    "tag": "cloud",
+    "title": "Solved: Access Package Report Script",
+    "description": "\ud83d\ude80 Executive Summary   TL;DR: The \u201cInsufficient privileges\u201d error when scripting Azure Access...",
+    "reactions": 2,
+    "comments": 0,
+    "url": "https://dev.to/techresolve/solved-access-package-report-script-2k1i",
+    "published": "2026-02-27T09:39:53Z",
+    "tags": [
+      "devops",
+      "programming",
+      "tutorial",
+      "cloud"
+    ],
+    "scraped_at": "2026-03-08T20:38:18.842586"
+  },
+  {
+    "source": "devto",
+    "tag": "cloud",
+    "title": "Solved: Where can I find logs to practice SOC Analyst work?",
+    "description": "\ud83d\ude80 Executive Summary   TL;DR: Aspiring SOC analysts often struggle to find realistic logs for...",
+    "reactions": 2,
+    "comments": 0,
+    "url": "https://dev.to/techresolve/solved-where-can-i-find-logs-to-practice-soc-analyst-work-4cn3",
+    "published": "2026-03-02T08:39:43Z",
+    "tags": [
+      "devops",
+      "programming",
+      "tutorial",
+      "cloud"
+    ],
+    "scraped_at": "2026-03-08T20:38:18.842589"
+  },
+  {
+    "source": "devto",
+    "tag": "cloud",
+    "title": "Solved: Acting CISA director failed a polygraph. Career staff are now under investigation.",
+    "description": "\ud83d\ude80 Executive Summary   TL;DR: Leadership failures, like an acting CISA director failing a...",
+    "reactions": 0,
+    "comments": 0,
+    "url": "https://dev.to/techresolve/solved-acting-cisa-director-failed-a-polygraph-career-staff-are-now-under-investigation-4i83",
+    "published": "2026-02-19T13:41:18Z",
+    "tags": [
+      "devops",
+      "programming",
+      "tutorial",
+      "cloud"
+    ],
+    "scraped_at": "2026-03-08T20:38:18.842593"
+  },
+  {
+    "source": "devto",
+    "tag": "cloud",
+    "title": "Solved: Why does every email builder still feel so slow?",
+    "description": "\ud83d\ude80 Executive Summary   TL;DR: Email builders often suffer from sluggish performance due to...",
+    "reactions": 1,
+    "comments": 0,
+    "url": "https://dev.to/techresolve/solved-why-does-every-email-builder-still-feel-so-slow-324n",
+    "published": "2026-03-08T19:18:28Z",
+    "tags": [
+      "devops",
+      "programming",
+      "tutorial",
+      "cloud"
+    ],
+    "scraped_at": "2026-03-08T20:38:18.842596"
+  },
+  {
+    "source": "devto",
+    "tag": "cloud",
+    "title": "Solved: I\u2019ve always wanted to make something like this. Does anyone know how to",
+    "description": "\ud83d\ude80 Executive Summary   TL;DR: Manual SSH key management across server fleets leads to \u2018key...",
+    "reactions": 0,
+    "comments": 0,
+    "url": "https://dev.to/techresolve/solved-ive-always-wanted-to-make-something-like-this-does-anyone-know-how-to-50d1",
+    "published": "2026-02-11T12:47:06Z",
+    "tags": [
+      "devops",
+      "programming",
+      "tutorial",
+      "cloud"
+    ],
+    "scraped_at": "2026-03-08T20:38:18.842599"
+  },
+  {
+    "source": "devto",
+    "tag": "cloud",
+    "title": "Solved: Duplicator auto-renewed $400 without clear notice \u2014 refused full refund even after immediate cancellation",
+    "description": "\ud83d\ude80 Executive Summary   TL;DR: Unexpected auto-renewals for forgotten software subscriptions,...",
+    "reactions": 0,
+    "comments": 0,
+    "url": "https://dev.to/techresolve/solved-duplicator-auto-renewed-400-without-clear-notice-refused-full-refund-even-after-16bk",
+    "published": "2026-02-19T21:10:10Z",
+    "tags": [
+      "devops",
+      "programming",
+      "tutorial",
+      "cloud"
+    ],
+    "scraped_at": "2026-03-08T20:38:18.842602"
+  },
+  {
+    "source": "devto",
+    "tag": "cloud",
+    "title": "Virtual Machines",
+    "description": "What is a virtual Machine?   A virtual machine is a software-based emulation of a physical...",
+    "reactions": 6,
+    "comments": 1,
+    "url": "https://dev.to/big_namz/virtual-machines-3c2g",
+    "published": "2026-02-21T10:17:23Z",
+    "tags": [
+      "azure",
+      "beginners",
+      "cloud",
+      "tutorial"
+    ],
+    "scraped_at": "2026-03-08T20:38:18.842606"
+  },
+  {
+    "source": "devto",
+    "tag": "cloud",
+    "title": "Cloud Computing: What It Is, Why It Matters, and How It Really Works",
+    "description": "A few years ago, if your laptop crashed, you panicked.  Your files? Gone. Your photos? Gone. Your...",
+    "reactions": 7,
+    "comments": 2,
+    "url": "https://dev.to/buildwithbabs/cloud-computing-what-it-is-why-it-matters-and-how-it-really-works-210m",
+    "published": "2026-02-22T14:17:39Z",
+    "tags": [
+      "devops",
+      "aws",
+      "cloud",
+      "kubernetes"
+    ],
+    "scraped_at": "2026-03-08T20:38:18.842609"
+  },
+  {
+    "source": "devto",
+    "tag": "cloud",
+    "title": "When Agents Attack: The Security Nightmare of Self Discovering APIs",
+    "description": "We are rushing to build APIs that autonomous AI agents can easily consume.   We are forgetting that...",
+    "reactions": 10,
+    "comments": 2,
+    "url": "https://dev.to/alifunk/when-agents-attack-the-security-nightmare-of-self-discovering-apis-2b9c",
+    "published": "2026-02-11T06:22:55Z",
+    "tags": [
+      "security",
+      "ai",
+      "cloud",
+      "architecture"
+    ],
+    "scraped_at": "2026-03-08T20:38:18.842612"
+  },
+  {
+    "source": "devto",
+    "tag": "cloud",
+    "title": "Building a Multi-Region Disaster Recovery Strategy with Terraform and AWS Route 53",
+    "description": "High Availability (HA) and Disaster Recovery (DR) are often discussed in theory, but rarely tested...",
+    "reactions": 11,
+    "comments": 2,
+    "url": "https://dev.to/alifunk/building-a-multi-region-disaster-recovery-strategy-with-terraform-and-aws-route-53-1ha",
+    "published": "2026-02-08T14:20:20Z",
+    "tags": [
+      "aws",
+      "terraform",
+      "devops",
+      "cloud"
+    ],
+    "scraped_at": "2026-03-08T20:38:18.842615"
+  },
+  {
+    "source": "devto",
+    "tag": "cloud",
+    "title": "\ud83d\ude80 My Hands-On Experience Deploying Applications on Azure cloud",
+    "description": "Recently I completed two practical Azure projects that helped me understand how real-world cloud...",
+    "reactions": 1,
+    "comments": 0,
+    "url": "https://dev.to/tufail_mohammed_822ce7383/my-hands-on-experience-deploying-applications-on-azure-cloud-o2n",
+    "published": "2026-03-08T16:51:09Z",
+    "tags": [
+      "architecture",
+      "azure",
+      "cloud",
+      "networking"
+    ],
+    "scraped_at": "2026-03-08T20:38:18.842617"
+  },
+  {
+    "source": "devto",
+    "tag": "cloud",
+    "title": "Terraform for Modern Infrastructure: Automating Cloud Workflows at Scale",
+    "description": "Terraform is a leading tool for defining, provisioning, and managing cloud infrastructure through...",
+    "reactions": 2,
+    "comments": 0,
+    "url": "https://dev.to/albena_galabova_f61445b00/terraform-for-modern-infrastructure-automating-cloud-workflows-at-scale-24if",
+    "published": "2026-02-25T14:41:21Z",
+    "tags": [
+      "terraform",
+      "cloud",
+      "infrastructure",
+      "devops"
+    ],
+    "scraped_at": "2026-03-08T20:38:18.842621"
+  },
+  {
+    "source": "devto",
+    "tag": "cloud",
+    "title": "What Is Docker and Why Is It Important in DevOps?",
+    "description": "If you are learning DevOps or cloud technologies, one tool appears almost everywhere:  Docker.  But...",
+    "reactions": 1,
+    "comments": 0,
+    "url": "https://dev.to/sandhya_rani_techie/what-is-docker-and-why-is-it-important-in-devops-4118",
+    "published": "2026-03-07T10:38:32Z",
+    "tags": [
+      "devops",
+      "docker",
+      "cloud",
+      "beginners"
+    ],
+    "scraped_at": "2026-03-08T20:38:18.842624"
+  }
+]

@@ -1,0 +1,872 @@
+[
+  {
+    "source": "bls",
+    "sector": "Manufacturing",
+    "series_id": "CES3000000001",
+    "year": "2026",
+    "period": "February",
+    "value": "12573",
+    "scraped_at": "2026-03-08T20:36:47.582013"
+  },
+  {
+    "source": "bls",
+    "sector": "Manufacturing",
+    "series_id": "CES3000000001",
+    "year": "2026",
+    "period": "January",
+    "value": "12585",
+    "scraped_at": "2026-03-08T20:36:47.582036"
+  },
+  {
+    "source": "bls",
+    "sector": "Manufacturing",
+    "series_id": "CES3000000001",
+    "year": "2025",
+    "period": "December",
+    "value": "12580",
+    "scraped_at": "2026-03-08T20:36:47.582040"
+  },
+  {
+    "source": "bls",
+    "sector": "Manufacturing",
+    "series_id": "CES3000000001",
+    "year": "2025",
+    "period": "November",
+    "value": "12593",
+    "scraped_at": "2026-03-08T20:36:47.582042"
+  },
+  {
+    "source": "bls",
+    "sector": "Manufacturing",
+    "series_id": "CES3000000001",
+    "year": "2025",
+    "period": "October",
+    "value": "12603",
+    "scraped_at": "2026-03-08T20:36:47.582045"
+  },
+  {
+    "source": "bls",
+    "sector": "Manufacturing",
+    "series_id": "CES3000000001",
+    "year": "2025",
+    "period": "September",
+    "value": "12612",
+    "scraped_at": "2026-03-08T20:36:47.582048"
+  },
+  {
+    "source": "bls",
+    "sector": "Manufacturing",
+    "series_id": "CES3000000001",
+    "year": "2025",
+    "period": "August",
+    "value": "12615",
+    "scraped_at": "2026-03-08T20:36:47.582050"
+  },
+  {
+    "source": "bls",
+    "sector": "Manufacturing",
+    "series_id": "CES3000000001",
+    "year": "2025",
+    "period": "July",
+    "value": "12625",
+    "scraped_at": "2026-03-08T20:36:47.582053"
+  },
+  {
+    "source": "bls",
+    "sector": "Manufacturing",
+    "series_id": "CES3000000001",
+    "year": "2025",
+    "period": "June",
+    "value": "12636",
+    "scraped_at": "2026-03-08T20:36:47.582055"
+  },
+  {
+    "source": "bls",
+    "sector": "Manufacturing",
+    "series_id": "CES3000000001",
+    "year": "2025",
+    "period": "May",
+    "value": "12651",
+    "scraped_at": "2026-03-08T20:36:47.582058"
+  },
+  {
+    "source": "bls",
+    "sector": "Manufacturing",
+    "series_id": "CES3000000001",
+    "year": "2025",
+    "period": "April",
+    "value": "12662",
+    "scraped_at": "2026-03-08T20:36:47.582060"
+  },
+  {
+    "source": "bls",
+    "sector": "Manufacturing",
+    "series_id": "CES3000000001",
+    "year": "2025",
+    "period": "March",
+    "value": "12666",
+    "scraped_at": "2026-03-08T20:36:47.582063"
+  },
+  {
+    "source": "bls",
+    "sector": "Financial Activities",
+    "series_id": "CES5000000001",
+    "year": "2026",
+    "period": "February",
+    "value": "2812",
+    "scraped_at": "2026-03-08T20:36:47.582067"
+  },
+  {
+    "source": "bls",
+    "sector": "Financial Activities",
+    "series_id": "CES5000000001",
+    "year": "2026",
+    "period": "January",
+    "value": "2823",
+    "scraped_at": "2026-03-08T20:36:47.582069"
+  },
+  {
+    "source": "bls",
+    "sector": "Financial Activities",
+    "series_id": "CES5000000001",
+    "year": "2025",
+    "period": "December",
+    "value": "2842",
+    "scraped_at": "2026-03-08T20:36:47.582072"
+  },
+  {
+    "source": "bls",
+    "sector": "Financial Activities",
+    "series_id": "CES5000000001",
+    "year": "2025",
+    "period": "November",
+    "value": "2848",
+    "scraped_at": "2026-03-08T20:36:47.582074"
+  },
+  {
+    "source": "bls",
+    "sector": "Financial Activities",
+    "series_id": "CES5000000001",
+    "year": "2025",
+    "period": "October",
+    "value": "2853",
+    "scraped_at": "2026-03-08T20:36:47.582077"
+  },
+  {
+    "source": "bls",
+    "sector": "Financial Activities",
+    "series_id": "CES5000000001",
+    "year": "2025",
+    "period": "September",
+    "value": "2859",
+    "scraped_at": "2026-03-08T20:36:47.582080"
+  },
+  {
+    "source": "bls",
+    "sector": "Financial Activities",
+    "series_id": "CES5000000001",
+    "year": "2025",
+    "period": "August",
+    "value": "2860",
+    "scraped_at": "2026-03-08T20:36:47.582082"
+  },
+  {
+    "source": "bls",
+    "sector": "Financial Activities",
+    "series_id": "CES5000000001",
+    "year": "2025",
+    "period": "July",
+    "value": "2861",
+    "scraped_at": "2026-03-08T20:36:47.582085"
+  },
+  {
+    "source": "bls",
+    "sector": "Financial Activities",
+    "series_id": "CES5000000001",
+    "year": "2025",
+    "period": "June",
+    "value": "2863",
+    "scraped_at": "2026-03-08T20:36:47.582087"
+  },
+  {
+    "source": "bls",
+    "sector": "Financial Activities",
+    "series_id": "CES5000000001",
+    "year": "2025",
+    "period": "May",
+    "value": "2864",
+    "scraped_at": "2026-03-08T20:36:47.582090"
+  },
+  {
+    "source": "bls",
+    "sector": "Financial Activities",
+    "series_id": "CES5000000001",
+    "year": "2025",
+    "period": "April",
+    "value": "2865",
+    "scraped_at": "2026-03-08T20:36:47.582092"
+  },
+  {
+    "source": "bls",
+    "sector": "Financial Activities",
+    "series_id": "CES5000000001",
+    "year": "2025",
+    "period": "March",
+    "value": "2867",
+    "scraped_at": "2026-03-08T20:36:47.582095"
+  },
+  {
+    "source": "bls",
+    "sector": "Professional & Business Services",
+    "series_id": "CES6000000001",
+    "year": "2026",
+    "period": "February",
+    "value": "22385",
+    "scraped_at": "2026-03-08T20:36:47.582098"
+  },
+  {
+    "source": "bls",
+    "sector": "Professional & Business Services",
+    "series_id": "CES6000000001",
+    "year": "2026",
+    "period": "January",
+    "value": "22390",
+    "scraped_at": "2026-03-08T20:36:47.582101"
+  },
+  {
+    "source": "bls",
+    "sector": "Professional & Business Services",
+    "series_id": "CES6000000001",
+    "year": "2025",
+    "period": "December",
+    "value": "22372",
+    "scraped_at": "2026-03-08T20:36:47.582103"
+  },
+  {
+    "source": "bls",
+    "sector": "Professional & Business Services",
+    "series_id": "CES6000000001",
+    "year": "2025",
+    "period": "November",
+    "value": "22391",
+    "scraped_at": "2026-03-08T20:36:47.582106"
+  },
+  {
+    "source": "bls",
+    "sector": "Professional & Business Services",
+    "series_id": "CES6000000001",
+    "year": "2025",
+    "period": "October",
+    "value": "22335",
+    "scraped_at": "2026-03-08T20:36:47.582108"
+  },
+  {
+    "source": "bls",
+    "sector": "Professional & Business Services",
+    "series_id": "CES6000000001",
+    "year": "2025",
+    "period": "September",
+    "value": "22359",
+    "scraped_at": "2026-03-08T20:36:47.582111"
+  },
+  {
+    "source": "bls",
+    "sector": "Professional & Business Services",
+    "series_id": "CES6000000001",
+    "year": "2025",
+    "period": "August",
+    "value": "22375",
+    "scraped_at": "2026-03-08T20:36:47.582113"
+  },
+  {
+    "source": "bls",
+    "sector": "Professional & Business Services",
+    "series_id": "CES6000000001",
+    "year": "2025",
+    "period": "July",
+    "value": "22403",
+    "scraped_at": "2026-03-08T20:36:47.582116"
+  },
+  {
+    "source": "bls",
+    "sector": "Professional & Business Services",
+    "series_id": "CES6000000001",
+    "year": "2025",
+    "period": "June",
+    "value": "22419",
+    "scraped_at": "2026-03-08T20:36:47.582118"
+  },
+  {
+    "source": "bls",
+    "sector": "Professional & Business Services",
+    "series_id": "CES6000000001",
+    "year": "2025",
+    "period": "May",
+    "value": "22450",
+    "scraped_at": "2026-03-08T20:36:47.582121"
+  },
+  {
+    "source": "bls",
+    "sector": "Professional & Business Services",
+    "series_id": "CES6000000001",
+    "year": "2025",
+    "period": "April",
+    "value": "22470",
+    "scraped_at": "2026-03-08T20:36:47.582123"
+  },
+  {
+    "source": "bls",
+    "sector": "Professional & Business Services",
+    "series_id": "CES6000000001",
+    "year": "2025",
+    "period": "March",
+    "value": "22457",
+    "scraped_at": "2026-03-08T20:36:47.582125"
+  },
+  {
+    "source": "bls",
+    "sector": "Education & Health Services",
+    "series_id": "CES6500000001",
+    "year": "2026",
+    "period": "February",
+    "value": "27722",
+    "scraped_at": "2026-03-08T20:36:47.582129"
+  },
+  {
+    "source": "bls",
+    "sector": "Education & Health Services",
+    "series_id": "CES6500000001",
+    "year": "2026",
+    "period": "January",
+    "value": "27756",
+    "scraped_at": "2026-03-08T20:36:47.582131"
+  },
+  {
+    "source": "bls",
+    "sector": "Education & Health Services",
+    "series_id": "CES6500000001",
+    "year": "2025",
+    "period": "December",
+    "value": "27627",
+    "scraped_at": "2026-03-08T20:36:47.582134"
+  },
+  {
+    "source": "bls",
+    "sector": "Education & Health Services",
+    "series_id": "CES6500000001",
+    "year": "2025",
+    "period": "November",
+    "value": "27589",
+    "scraped_at": "2026-03-08T20:36:47.582137"
+  },
+  {
+    "source": "bls",
+    "sector": "Education & Health Services",
+    "series_id": "CES6500000001",
+    "year": "2025",
+    "period": "October",
+    "value": "27533",
+    "scraped_at": "2026-03-08T20:36:47.582139"
+  },
+  {
+    "source": "bls",
+    "sector": "Education & Health Services",
+    "series_id": "CES6500000001",
+    "year": "2025",
+    "period": "September",
+    "value": "27489",
+    "scraped_at": "2026-03-08T20:36:47.582142"
+  },
+  {
+    "source": "bls",
+    "sector": "Education & Health Services",
+    "series_id": "CES6500000001",
+    "year": "2025",
+    "period": "August",
+    "value": "27435",
+    "scraped_at": "2026-03-08T20:36:47.582145"
+  },
+  {
+    "source": "bls",
+    "sector": "Education & Health Services",
+    "series_id": "CES6500000001",
+    "year": "2025",
+    "period": "July",
+    "value": "27412",
+    "scraped_at": "2026-03-08T20:36:47.582147"
+  },
+  {
+    "source": "bls",
+    "sector": "Education & Health Services",
+    "series_id": "CES6500000001",
+    "year": "2025",
+    "period": "June",
+    "value": "27325",
+    "scraped_at": "2026-03-08T20:36:47.582149"
+  },
+  {
+    "source": "bls",
+    "sector": "Education & Health Services",
+    "series_id": "CES6500000001",
+    "year": "2025",
+    "period": "May",
+    "value": "27276",
+    "scraped_at": "2026-03-08T20:36:47.582151"
+  },
+  {
+    "source": "bls",
+    "sector": "Education & Health Services",
+    "series_id": "CES6500000001",
+    "year": "2025",
+    "period": "April",
+    "value": "27216",
+    "scraped_at": "2026-03-08T20:36:47.582154"
+  },
+  {
+    "source": "bls",
+    "sector": "Education & Health Services",
+    "series_id": "CES6500000001",
+    "year": "2025",
+    "period": "March",
+    "value": "27132",
+    "scraped_at": "2026-03-08T20:36:47.582188"
+  },
+  {
+    "source": "bls",
+    "sector": "Leisure & Hospitality",
+    "series_id": "CES7000000001",
+    "year": "2026",
+    "period": "February",
+    "value": "16922",
+    "scraped_at": "2026-03-08T20:36:47.582194"
+  },
+  {
+    "source": "bls",
+    "sector": "Leisure & Hospitality",
+    "series_id": "CES7000000001",
+    "year": "2026",
+    "period": "January",
+    "value": "16949",
+    "scraped_at": "2026-03-08T20:36:47.582196"
+  },
+  {
+    "source": "bls",
+    "sector": "Leisure & Hospitality",
+    "series_id": "CES7000000001",
+    "year": "2025",
+    "period": "December",
+    "value": "16961",
+    "scraped_at": "2026-03-08T20:36:47.582199"
+  },
+  {
+    "source": "bls",
+    "sector": "Leisure & Hospitality",
+    "series_id": "CES7000000001",
+    "year": "2025",
+    "period": "November",
+    "value": "16936",
+    "scraped_at": "2026-03-08T20:36:47.582201"
+  },
+  {
+    "source": "bls",
+    "sector": "Leisure & Hospitality",
+    "series_id": "CES7000000001",
+    "year": "2025",
+    "period": "October",
+    "value": "16948",
+    "scraped_at": "2026-03-08T20:36:47.582203"
+  },
+  {
+    "source": "bls",
+    "sector": "Leisure & Hospitality",
+    "series_id": "CES7000000001",
+    "year": "2025",
+    "period": "September",
+    "value": "16907",
+    "scraped_at": "2026-03-08T20:36:47.582206"
+  },
+  {
+    "source": "bls",
+    "sector": "Leisure & Hospitality",
+    "series_id": "CES7000000001",
+    "year": "2025",
+    "period": "August",
+    "value": "16870",
+    "scraped_at": "2026-03-08T20:36:47.582208"
+  },
+  {
+    "source": "bls",
+    "sector": "Leisure & Hospitality",
+    "series_id": "CES7000000001",
+    "year": "2025",
+    "period": "July",
+    "value": "16848",
+    "scraped_at": "2026-03-08T20:36:47.582211"
+  },
+  {
+    "source": "bls",
+    "sector": "Leisure & Hospitality",
+    "series_id": "CES7000000001",
+    "year": "2025",
+    "period": "June",
+    "value": "16837",
+    "scraped_at": "2026-03-08T20:36:47.582213"
+  },
+  {
+    "source": "bls",
+    "sector": "Leisure & Hospitality",
+    "series_id": "CES7000000001",
+    "year": "2025",
+    "period": "May",
+    "value": "16839",
+    "scraped_at": "2026-03-08T20:36:47.582215"
+  },
+  {
+    "source": "bls",
+    "sector": "Leisure & Hospitality",
+    "series_id": "CES7000000001",
+    "year": "2025",
+    "period": "April",
+    "value": "16836",
+    "scraped_at": "2026-03-08T20:36:47.582218"
+  },
+  {
+    "source": "bls",
+    "sector": "Leisure & Hospitality",
+    "series_id": "CES7000000001",
+    "year": "2025",
+    "period": "March",
+    "value": "16823",
+    "scraped_at": "2026-03-08T20:36:47.582220"
+  },
+  {
+    "source": "bls",
+    "sector": "Construction",
+    "series_id": "CES3100000001",
+    "year": "2026",
+    "period": "February",
+    "value": "7801",
+    "scraped_at": "2026-03-08T20:36:47.582224"
+  },
+  {
+    "source": "bls",
+    "sector": "Construction",
+    "series_id": "CES3100000001",
+    "year": "2026",
+    "period": "January",
+    "value": "7805",
+    "scraped_at": "2026-03-08T20:36:47.582226"
+  },
+  {
+    "source": "bls",
+    "sector": "Construction",
+    "series_id": "CES3100000001",
+    "year": "2025",
+    "period": "December",
+    "value": "7797",
+    "scraped_at": "2026-03-08T20:36:47.582228"
+  },
+  {
+    "source": "bls",
+    "sector": "Construction",
+    "series_id": "CES3100000001",
+    "year": "2025",
+    "period": "November",
+    "value": "7802",
+    "scraped_at": "2026-03-08T20:36:47.582230"
+  },
+  {
+    "source": "bls",
+    "sector": "Construction",
+    "series_id": "CES3100000001",
+    "year": "2025",
+    "period": "October",
+    "value": "7805",
+    "scraped_at": "2026-03-08T20:36:47.582233"
+  },
+  {
+    "source": "bls",
+    "sector": "Construction",
+    "series_id": "CES3100000001",
+    "year": "2025",
+    "period": "September",
+    "value": "7814",
+    "scraped_at": "2026-03-08T20:36:47.582236"
+  },
+  {
+    "source": "bls",
+    "sector": "Construction",
+    "series_id": "CES3100000001",
+    "year": "2025",
+    "period": "August",
+    "value": "7819",
+    "scraped_at": "2026-03-08T20:36:47.582239"
+  },
+  {
+    "source": "bls",
+    "sector": "Construction",
+    "series_id": "CES3100000001",
+    "year": "2025",
+    "period": "July",
+    "value": "7834",
+    "scraped_at": "2026-03-08T20:36:47.582241"
+  },
+  {
+    "source": "bls",
+    "sector": "Construction",
+    "series_id": "CES3100000001",
+    "year": "2025",
+    "period": "June",
+    "value": "7833",
+    "scraped_at": "2026-03-08T20:36:47.582243"
+  },
+  {
+    "source": "bls",
+    "sector": "Construction",
+    "series_id": "CES3100000001",
+    "year": "2025",
+    "period": "May",
+    "value": "7845",
+    "scraped_at": "2026-03-08T20:36:47.582245"
+  },
+  {
+    "source": "bls",
+    "sector": "Construction",
+    "series_id": "CES3100000001",
+    "year": "2025",
+    "period": "April",
+    "value": "7853",
+    "scraped_at": "2026-03-08T20:36:47.582248"
+  },
+  {
+    "source": "bls",
+    "sector": "Construction",
+    "series_id": "CES3100000001",
+    "year": "2025",
+    "period": "March",
+    "value": "7854",
+    "scraped_at": "2026-03-08T20:36:47.582250"
+  },
+  {
+    "source": "bls",
+    "sector": "Trade/Transport/Utilities",
+    "series_id": "CES4000000001",
+    "year": "2026",
+    "period": "February",
+    "value": "28615",
+    "scraped_at": "2026-03-08T20:36:47.582254"
+  },
+  {
+    "source": "bls",
+    "sector": "Trade/Transport/Utilities",
+    "series_id": "CES4000000001",
+    "year": "2026",
+    "period": "January",
+    "value": "28617",
+    "scraped_at": "2026-03-08T20:36:47.582256"
+  },
+  {
+    "source": "bls",
+    "sector": "Trade/Transport/Utilities",
+    "series_id": "CES4000000001",
+    "year": "2025",
+    "period": "December",
+    "value": "28616",
+    "scraped_at": "2026-03-08T20:36:47.582259"
+  },
+  {
+    "source": "bls",
+    "sector": "Trade/Transport/Utilities",
+    "series_id": "CES4000000001",
+    "year": "2025",
+    "period": "November",
+    "value": "28649",
+    "scraped_at": "2026-03-08T20:36:47.582261"
+  },
+  {
+    "source": "bls",
+    "sector": "Trade/Transport/Utilities",
+    "series_id": "CES4000000001",
+    "year": "2025",
+    "period": "October",
+    "value": "28714",
+    "scraped_at": "2026-03-08T20:36:47.582264"
+  },
+  {
+    "source": "bls",
+    "sector": "Trade/Transport/Utilities",
+    "series_id": "CES4000000001",
+    "year": "2025",
+    "period": "September",
+    "value": "28725",
+    "scraped_at": "2026-03-08T20:36:47.582268"
+  },
+  {
+    "source": "bls",
+    "sector": "Trade/Transport/Utilities",
+    "series_id": "CES4000000001",
+    "year": "2025",
+    "period": "August",
+    "value": "28743",
+    "scraped_at": "2026-03-08T20:36:47.582270"
+  },
+  {
+    "source": "bls",
+    "sector": "Trade/Transport/Utilities",
+    "series_id": "CES4000000001",
+    "year": "2025",
+    "period": "July",
+    "value": "28744",
+    "scraped_at": "2026-03-08T20:36:47.582272"
+  },
+  {
+    "source": "bls",
+    "sector": "Trade/Transport/Utilities",
+    "series_id": "CES4000000001",
+    "year": "2025",
+    "period": "June",
+    "value": "28741",
+    "scraped_at": "2026-03-08T20:36:47.582275"
+  },
+  {
+    "source": "bls",
+    "sector": "Trade/Transport/Utilities",
+    "series_id": "CES4000000001",
+    "year": "2025",
+    "period": "May",
+    "value": "28765",
+    "scraped_at": "2026-03-08T20:36:47.582285"
+  },
+  {
+    "source": "bls",
+    "sector": "Trade/Transport/Utilities",
+    "series_id": "CES4000000001",
+    "year": "2025",
+    "period": "April",
+    "value": "28783",
+    "scraped_at": "2026-03-08T20:36:47.582287"
+  },
+  {
+    "source": "bls",
+    "sector": "Trade/Transport/Utilities",
+    "series_id": "CES4000000001",
+    "year": "2025",
+    "period": "March",
+    "value": "28792",
+    "scraped_at": "2026-03-08T20:36:47.582290"
+  },
+  {
+    "source": "bls",
+    "sector": "Government",
+    "series_id": "CES9000000001",
+    "year": "2026",
+    "period": "February",
+    "value": "23323",
+    "scraped_at": "2026-03-08T20:36:47.582293"
+  },
+  {
+    "source": "bls",
+    "sector": "Government",
+    "series_id": "CES9000000001",
+    "year": "2026",
+    "period": "January",
+    "value": "23329",
+    "scraped_at": "2026-03-08T20:36:47.582295"
+  },
+  {
+    "source": "bls",
+    "sector": "Government",
+    "series_id": "CES9000000001",
+    "year": "2025",
+    "period": "December",
+    "value": "23349",
+    "scraped_at": "2026-03-08T20:36:47.582297"
+  },
+  {
+    "source": "bls",
+    "sector": "Government",
+    "series_id": "CES9000000001",
+    "year": "2025",
+    "period": "November",
+    "value": "23359",
+    "scraped_at": "2026-03-08T20:36:47.582300"
+  },
+  {
+    "source": "bls",
+    "sector": "Government",
+    "series_id": "CES9000000001",
+    "year": "2025",
+    "period": "October",
+    "value": "23390",
+    "scraped_at": "2026-03-08T20:36:47.582302"
+  },
+  {
+    "source": "bls",
+    "sector": "Government",
+    "series_id": "CES9000000001",
+    "year": "2025",
+    "period": "September",
+    "value": "23543",
+    "scraped_at": "2026-03-08T20:36:47.582304"
+  },
+  {
+    "source": "bls",
+    "sector": "Government",
+    "series_id": "CES9000000001",
+    "year": "2025",
+    "period": "August",
+    "value": "23535",
+    "scraped_at": "2026-03-08T20:36:47.582306"
+  },
+  {
+    "source": "bls",
+    "sector": "Government",
+    "series_id": "CES9000000001",
+    "year": "2025",
+    "period": "July",
+    "value": "23585",
+    "scraped_at": "2026-03-08T20:36:47.582309"
+  },
+  {
+    "source": "bls",
+    "sector": "Government",
+    "series_id": "CES9000000001",
+    "year": "2025",
+    "period": "June",
+    "value": "23586",
+    "scraped_at": "2026-03-08T20:36:47.582311"
+  },
+  {
+    "source": "bls",
+    "sector": "Government",
+    "series_id": "CES9000000001",
+    "year": "2025",
+    "period": "May",
+    "value": "23561",
+    "scraped_at": "2026-03-08T20:36:47.582313"
+  },
+  {
+    "source": "bls",
+    "sector": "Government",
+    "series_id": "CES9000000001",
+    "year": "2025",
+    "period": "April",
+    "value": "23568",
+    "scraped_at": "2026-03-08T20:36:47.582316"
+  },
+  {
+    "source": "bls",
+    "sector": "Government",
+    "series_id": "CES9000000001",
+    "year": "2025",
+    "period": "March",
+    "value": "23559",
+    "scraped_at": "2026-03-08T20:36:47.582318"
+  },
+  {
+    "source": "bls_jolts",
+    "type": "job_openings_report",
+    "summary": "\n\n\n Job Openings and Labor Turnover Summary\r - 2025 M12 Results \n\n\n\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \nSkip to Content\n\n\n\n\n\nAn official website of the United States government \n\t  \n\tHere is how you know \n\n\n  United States Department of Labor\n\n\n\n\n\n\nThe .gov means it's official.\n Federal government websites often end in .gov or .mil. Before sharing sensitive information,\n\t\t\tmake sure you're on a federal government site.\n\t\t\n\n\n\n\nThe site is secure.\n The\n\t\t\thttps:// ensures that you are connecting to the official website and that any\n\t\t\tinformation you provide is encrypted and transmitted securely.\n\t\t\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nU.S. Bureau of Labor Statistics\n\n\nRelease Calendar | Subscribe\n\n\nSearch button\n\nSearch:\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n\n\n\n\nMenu\n\n\n\n\n\nSearch button\n\nSearch:\n\n\n\nRelease Calendar | Subscribe\n\nHome \n\n\n\n\nAbout BLS\nHistory\nOur Leadership\nBudget and Performance\nQuestions and Answers\nA-Z Index\nGlossary\nBLS Speakers Available\nErrata\nContact BLS\n\n\n\nOverview of BLS Statistics\nGuide to Programs & Services\nDemographics\nIndustries\nBusiness Costs\nOccupations\nGeography\n\n\n\nResources For\nBusiness Leaders\nConsumers\nDevelopers\nEconomists\nInvestors\nJobseekers\nMedia\nPublic Policymakers\nResearcher\nStudents & Teachers\nSurvey Respondents\n\n\n\n\n\nSubjects \n\n\n\n\nInflation & Prices\nConsumer Price Index\nProducer Price Indexes\nImport/Export Price Indexes\nContract Escalation\nPrice Index Research\nPay & Benefits\nEmployment Cost Index\nEmployer Costs for Employee Compensation\nWage Data by Occupation\nEarnings by Demographics\nEarnings by Industry\nCounty Wages \nBenefits\nModeled Wage Estimates\nCompensation Research\nStrikes & Lockouts \nWage Records from Unemployment Insurance\nOccupational Requirements\n\n\n\nUnemployment\nNational Unemployment Rate \nState & Local Unemployment Rates \nUnemployment Research\nEmployment\nNational Employment \nState & Local Employment \nCounty Employment  \nWorker Characteristics \nAmerican Indian Report\nEmployment Projections \nJob Openings & Labor Turnover Survey \nBusiness Response Sur",
+    "scraped_at": "2026-03-08T20:36:47.930646"
+  }
+]

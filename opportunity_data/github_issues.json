@@ -1,0 +1,1587 @@
+[
+  {
+    "source": "github_issues",
+    "title": "Add support for Error Reporting notification channels",
+    "repo": "hashicorp/terraform-provider-google",
+    "reactions": 207,
+    "thumbs_up": 207,
+    "comments": 5,
+    "state": "open",
+    "url": "https://github.com/hashicorp/terraform-provider-google/issues/12068",
+    "created": "2022-07-09T11:29:04Z",
+    "labels": [
+      "enhancement",
+      "upstream",
+      "new-resource",
+      "size/m",
+      "service/terraform",
+      "new-service",
+      "feature-request"
+    ],
+    "scraped_at": "2026-03-08T20:38:41.398622"
+  },
+  {
+    "source": "github_issues",
+    "title": "KV Engine: Recursively list keys",
+    "repo": "hashicorp/vault",
+    "reactions": 199,
+    "thumbs_up": 196,
+    "comments": 64,
+    "state": "open",
+    "url": "https://github.com/hashicorp/vault/issues/5275",
+    "created": "2018-09-05T15:03:43Z",
+    "labels": [
+      "enhancement",
+      "feature-request",
+      "secret/kv",
+      "community-sentiment"
+    ],
+    "scraped_at": "2026-03-08T20:38:41.398658"
+  },
+  {
+    "source": "github_issues",
+    "title": "Resource to export billing data to bigquery",
+    "repo": "hashicorp/terraform-provider-google",
+    "reactions": 175,
+    "thumbs_up": 163,
+    "comments": 10,
+    "state": "open",
+    "url": "https://github.com/hashicorp/terraform-provider-google/issues/4848",
+    "created": "2019-11-08T22:06:29Z",
+    "labels": [
+      "enhancement",
+      "upstream",
+      "new-resource",
+      "forward/linked",
+      "feature-request",
+      "service/billingbudgets"
+    ],
+    "scraped_at": "2026-03-08T20:38:41.398672"
+  },
+  {
+    "source": "github_issues",
+    "title": "Feature Request: internal IPv6 support",
+    "repo": "netbirdio/netbird",
+    "reactions": 165,
+    "thumbs_up": 160,
+    "comments": 23,
+    "state": "open",
+    "url": "https://github.com/netbirdio/netbird/issues/46",
+    "created": "2021-07-05T16:09:58Z",
+    "labels": [
+      "enhancement",
+      "feature-request",
+      "ipv6"
+    ],
+    "scraped_at": "2026-03-08T20:38:41.398684"
+  },
+  {
+    "source": "github_issues",
+    "title": "Updating Cloud Functions' source code requires changing zip path",
+    "repo": "hashicorp/terraform-provider-google",
+    "reactions": 133,
+    "thumbs_up": 132,
+    "comments": 40,
+    "state": "open",
+    "url": "https://github.com/hashicorp/terraform-provider-google/issues/1938",
+    "created": "2018-08-23T23:52:56Z",
+    "labels": [
+      "enhancement",
+      "upstream",
+      "forward/linked",
+      "service/cloudfunctions",
+      "feature-request"
+    ],
+    "scraped_at": "2026-03-08T20:38:41.398697"
+  },
+  {
+    "source": "github_issues",
+    "title": "google_monitoring_alert_policy: support \"Notify on incident resolution\"",
+    "repo": "hashicorp/terraform-provider-google",
+    "reactions": 94,
+    "thumbs_up": 94,
+    "comments": 10,
+    "state": "closed",
+    "url": "https://github.com/hashicorp/terraform-provider-google/issues/8470",
+    "created": "2021-02-15T16:30:55Z",
+    "labels": [
+      "enhancement",
+      "upstream",
+      "forward/linked",
+      "service/monitoring-alerting",
+      "feature-request"
+    ],
+    "scraped_at": "2026-03-08T20:38:41.398709"
+  },
+  {
+    "source": "github_issues",
+    "title": "aws cloudformation deploy does not clean up failed change set",
+    "repo": "aws/aws-cli",
+    "reactions": 82,
+    "thumbs_up": 82,
+    "comments": 18,
+    "state": "open",
+    "url": "https://github.com/aws/aws-cli/issues/4534",
+    "created": "2019-09-26T11:17:12Z",
+    "labels": [
+      "feature-request",
+      "cloudformation package-deploy",
+      "enhancement",
+      "customization",
+      "p2"
+    ],
+    "scraped_at": "2026-03-08T20:38:41.398722"
+  },
+  {
+    "source": "github_issues",
+    "title": "--cli-input-json error message very misleading",
+    "repo": "aws/aws-cli",
+    "reactions": 80,
+    "thumbs_up": 80,
+    "comments": 23,
+    "state": "open",
+    "url": "https://github.com/aws/aws-cli/issues/3491",
+    "created": "2018-08-06T05:07:45Z",
+    "labels": [
+      "feature-request",
+      "confusing-error",
+      "enhancement",
+      "p2"
+    ],
+    "scraped_at": "2026-03-08T20:38:41.398733"
+  },
+  {
+    "source": "github_issues",
+    "title": "Add support for roles in google_sql_user",
+    "repo": "hashicorp/terraform-provider-google",
+    "reactions": 78,
+    "thumbs_up": 78,
+    "comments": 19,
+    "state": "closed",
+    "url": "https://github.com/hashicorp/terraform-provider-google/issues/10438",
+    "created": "2021-10-28T21:18:01Z",
+    "labels": [
+      "enhancement",
+      "size/s",
+      "forward/linked",
+      "feature-request",
+      "service/sqladmin-infra"
+    ],
+    "scraped_at": "2026-03-08T20:38:41.398745"
+  },
+  {
+    "source": "github_issues",
+    "title": "TPM/TXT auto-unseal",
+    "repo": "hashicorp/vault",
+    "reactions": 76,
+    "thumbs_up": 76,
+    "comments": 7,
+    "state": "open",
+    "url": "https://github.com/hashicorp/vault/issues/10622",
+    "created": "2020-12-27T05:44:20Z",
+    "labels": [
+      "enhancement",
+      "core/seal",
+      "feature-request"
+    ],
+    "scraped_at": "2026-03-08T20:38:41.398755"
+  },
+  {
+    "source": "github_issues",
+    "title": "Add animated transitions to Vega.",
+    "repo": "vega/vega",
+    "reactions": 94,
+    "thumbs_up": 70,
+    "comments": 18,
+    "state": "open",
+    "url": "https://github.com/vega/vega/issues/641",
+    "created": "2016-11-03T20:49:56Z",
+    "labels": [
+      "enhancement",
+      "feature-request"
+    ],
+    "scraped_at": "2026-03-08T20:38:41.398765"
+  },
+  {
+    "source": "github_issues",
+    "title": "OIDC auth - customise entity names",
+    "repo": "hashicorp/vault",
+    "reactions": 68,
+    "thumbs_up": 68,
+    "comments": 15,
+    "state": "open",
+    "url": "https://github.com/hashicorp/vault/issues/7933",
+    "created": "2019-11-25T19:35:48Z",
+    "labels": [
+      "enhancement",
+      "feature-request",
+      "auth/jwt-oidc",
+      "community-sentiment"
+    ],
+    "scraped_at": "2026-03-08T20:38:41.398775"
+  },
+  {
+    "source": "github_issues",
+    "title": "Start brave in incognito+TOR mode using command line",
+    "repo": "brave/brave-browser",
+    "reactions": 69,
+    "thumbs_up": 64,
+    "comments": 43,
+    "state": "closed",
+    "url": "https://github.com/brave/brave-browser/issues/2105",
+    "created": "2018-11-12T14:30:42Z",
+    "labels": [
+      "enhancement",
+      "feature/tor",
+      "QA Pass-Win64",
+      "QA Pass-macOS",
+      "QA Pass-Linux",
+      "priority/P5",
+      "QA/Yes",
+      "release-notes/include",
+      "QA/Test-Plan-Specified",
+      "feature-request",
+      "misc/command-line-args",
+      "OS/Desktop",
+      "QA/Test-All-Platforms"
+    ],
+    "scraped_at": "2026-03-08T20:38:41.398789"
+  },
+  {
+    "source": "github_issues",
+    "title": "Cloud Composer connection resource",
+    "repo": "hashicorp/terraform-provider-google",
+    "reactions": 64,
+    "thumbs_up": 64,
+    "comments": 12,
+    "state": "open",
+    "url": "https://github.com/hashicorp/terraform-provider-google/issues/4418",
+    "created": "2019-09-06T22:38:45Z",
+    "labels": [
+      "enhancement",
+      "upstream",
+      "new-resource",
+      "size/l",
+      "forward/linked",
+      "service/composer",
+      "feature-request"
+    ],
+    "scraped_at": "2026-03-08T20:38:41.398802"
+  },
+  {
+    "source": "github_issues",
+    "title": "Start/Stop Cluster - Support zero node clusters",
+    "repo": "Azure/AKS",
+    "reactions": 64,
+    "thumbs_up": 64,
+    "comments": 46,
+    "state": "closed",
+    "url": "https://github.com/Azure/AKS/issues/52",
+    "created": "2017-11-20T20:21:41Z",
+    "labels": [
+      "enhancement",
+      "client/AzCLI",
+      "feature-request"
+    ],
+    "scraped_at": "2026-03-08T20:38:41.398813"
+  },
+  {
+    "source": "github_issues",
+    "title": "Vault as an ACME-based CA",
+    "repo": "hashicorp/vault",
+    "reactions": 66,
+    "thumbs_up": 63,
+    "comments": 17,
+    "state": "closed",
+    "url": "https://github.com/hashicorp/vault/issues/8690",
+    "created": "2020-04-07T08:36:14Z",
+    "labels": [
+      "enhancement",
+      "secret/pki",
+      "feature-request",
+      "cryptosec",
+      "community-sentiment"
+    ],
+    "scraped_at": "2026-03-08T20:38:41.398824"
+  },
+  {
+    "source": "github_issues",
+    "title": "`vault operator init` resource for initializing the Vault?",
+    "repo": "hashicorp/terraform-provider-vault",
+    "reactions": 62,
+    "thumbs_up": 62,
+    "comments": 17,
+    "state": "open",
+    "url": "https://github.com/hashicorp/terraform-provider-vault/issues/122",
+    "created": "2018-05-14T10:02:38Z",
+    "labels": [
+      "enhancement",
+      "question",
+      "feature-request",
+      "community-sentiment"
+    ],
+    "scraped_at": "2026-03-08T20:38:41.398835"
+  },
+  {
+    "source": "github_issues",
+    "title": "[Feature Request] Add WhatsApp channel support",
+    "repo": "microsoft/BotFramework-Services",
+    "reactions": 73,
+    "thumbs_up": 59,
+    "comments": 49,
+    "state": "closed",
+    "url": "https://github.com/microsoft/BotFramework-Services/issues/7",
+    "created": "2018-10-08T09:25:52Z",
+    "labels": [
+      "enhancement",
+      "feature-request"
+    ],
+    "scraped_at": "2026-03-08T20:38:41.398845"
+  },
+  {
+    "source": "github_issues",
+    "title": "[v2] invalid grant when doing sso login",
+    "repo": "aws/aws-cli",
+    "reactions": 54,
+    "thumbs_up": 54,
+    "comments": 21,
+    "state": "open",
+    "url": "https://github.com/aws/aws-cli/issues/5058",
+    "created": "2020-03-12T14:06:17Z",
+    "labels": [
+      "feature-request",
+      "confusing-error",
+      "v2",
+      "service-api",
+      "enhancement",
+      "sso",
+      "p3"
+    ],
+    "scraped_at": "2026-03-08T20:38:41.398856"
+  },
+  {
+    "source": "github_issues",
+    "title": "Support for parallel storage migration",
+    "repo": "hashicorp/vault",
+    "reactions": 53,
+    "thumbs_up": 53,
+    "comments": 1,
+    "state": "closed",
+    "url": "https://github.com/hashicorp/vault/issues/8883",
+    "created": "2020-04-29T10:55:05Z",
+    "labels": [
+      "enhancement",
+      "core/storage",
+      "feature-request",
+      "core/migration"
+    ],
+    "scraped_at": "2026-03-08T20:38:41.398866"
+  },
+  {
+    "source": "github_issues",
+    "title": "Create a k/v secret that is a symlink of another one",
+    "repo": "hashicorp/vault",
+    "reactions": 51,
+    "thumbs_up": 51,
+    "comments": 4,
+    "state": "open",
+    "url": "https://github.com/hashicorp/vault/issues/9781",
+    "created": "2020-08-19T18:10:34Z",
+    "labels": [
+      "enhancement",
+      "question",
+      "feature-request",
+      "secret/kv",
+      "community-sentiment"
+    ],
+    "scraped_at": "2026-03-08T20:38:41.398876"
+  },
+  {
+    "source": "github_issues",
+    "title": "Support AWS SDK for Go v2 ",
+    "repo": "aws/aws-xray-sdk-go",
+    "reactions": 52,
+    "thumbs_up": 50,
+    "comments": 11,
+    "state": "closed",
+    "url": "https://github.com/aws/aws-xray-sdk-go/issues/277",
+    "created": "2021-01-29T00:26:36Z",
+    "labels": [
+      "enhancement",
+      "feature-request"
+    ],
+    "scraped_at": "2026-03-08T20:38:41.398885"
+  },
+  {
+    "source": "github_issues",
+    "title": "Initial values for any type",
+    "repo": "sanity-io/sanity",
+    "reactions": 50,
+    "thumbs_up": 50,
+    "comments": 28,
+    "state": "closed",
+    "url": "https://github.com/sanity-io/sanity/issues/1581",
+    "created": "2019-10-30T18:56:27Z",
+    "labels": [],
+    "scraped_at": "2026-03-08T20:38:41.398894"
+  },
+  {
+    "source": "github_issues",
+    "title": "Feature: Add \"environment\" sink to Vault Agent",
+    "repo": "hashicorp/vault",
+    "reactions": 49,
+    "thumbs_up": 49,
+    "comments": 8,
+    "state": "closed",
+    "url": "https://github.com/hashicorp/vault/issues/11745",
+    "created": "2021-06-02T09:45:25Z",
+    "labels": [
+      "enhancement",
+      "agent",
+      "feature-request",
+      "auth/aws",
+      "community-sentiment"
+    ],
+    "scraped_at": "2026-03-08T20:38:41.398904"
+  },
+  {
+    "source": "github_issues",
+    "title": "TOTP UI Viewer",
+    "repo": "hashicorp/vault",
+    "reactions": 49,
+    "thumbs_up": 49,
+    "comments": 12,
+    "state": "open",
+    "url": "https://github.com/hashicorp/vault/issues/12698",
+    "created": "2021-09-30T22:45:07Z",
+    "labels": [
+      "ui",
+      "enhancement",
+      "feature-request",
+      "secret/totp",
+      "community-sentiment"
+    ],
+    "scraped_at": "2026-03-08T20:38:41.398914"
+  },
+  {
+    "source": "github_issues",
+    "title": "Kubernetes Secret Backend",
+    "repo": "hashicorp/vault",
+    "reactions": 54,
+    "thumbs_up": 48,
+    "comments": 20,
+    "state": "closed",
+    "url": "https://github.com/hashicorp/vault/issues/3839",
+    "created": "2018-01-24T19:02:05Z",
+    "labels": [
+      "ecosystem",
+      "enhancement",
+      "feature-request",
+      "community-sentiment"
+    ],
+    "scraped_at": "2026-03-08T20:38:41.398924"
+  },
+  {
+    "source": "github_issues",
+    "title": "Modify filter not working with Record Accessors",
+    "repo": "fluent/fluent-bit",
+    "reactions": 46,
+    "thumbs_up": 46,
+    "comments": 21,
+    "state": "open",
+    "url": "https://github.com/fluent/fluent-bit/issues/4651",
+    "created": "2022-01-21T15:04:02Z",
+    "labels": [
+      "enhancement",
+      "feature-request"
+    ],
+    "scraped_at": "2026-03-08T20:38:41.398934"
+  },
+  {
+    "source": "github_issues",
+    "title": "Vault release with CLI only",
+    "repo": "hashicorp/vault",
+    "reactions": 43,
+    "thumbs_up": 43,
+    "comments": 29,
+    "state": "open",
+    "url": "https://github.com/hashicorp/vault/issues/10180",
+    "created": "2020-10-19T18:00:50Z",
+    "labels": [
+      "enhancement",
+      "core/cli",
+      "feature-request",
+      "release/build"
+    ],
+    "scraped_at": "2026-03-08T20:38:41.398944"
+  },
+  {
+    "source": "github_issues",
+    "title": "Feature request: sanity dataset sync",
+    "repo": "sanity-io/sanity",
+    "reactions": 50,
+    "thumbs_up": 43,
+    "comments": 14,
+    "state": "closed",
+    "url": "https://github.com/sanity-io/sanity/issues/1274",
+    "created": "2019-04-19T20:49:27Z",
+    "labels": [],
+    "scraped_at": "2026-03-08T20:38:41.398953"
+  },
+  {
+    "source": "github_issues",
+    "title": "First-class support for AssumeRole in sessions",
+    "repo": "boto/botocore",
+    "reactions": 42,
+    "thumbs_up": 42,
+    "comments": 25,
+    "state": "open",
+    "url": "https://github.com/boto/botocore/issues/761",
+    "created": "2016-01-18T20:17:28Z",
+    "labels": [
+      "enhancement",
+      "feature-request",
+      "p3",
+      "sts"
+    ],
+    "scraped_at": "2026-03-08T20:38:41.398963"
+  },
+  {
+    "source": "github_issues",
+    "title": "Allow classes to be parametric in other parametric classes",
+    "repo": "microsoft/TypeScript",
+    "reactions": 1366,
+    "thumbs_up": 1005,
+    "comments": 182,
+    "state": "open",
+    "url": "https://github.com/microsoft/TypeScript/issues/1213",
+    "created": "2014-11-19T18:46:02Z",
+    "labels": [
+      "Suggestion",
+      "Help Wanted"
+    ],
+    "scraped_at": "2026-03-08T20:38:44.916935"
+  },
+  {
+    "source": "github_issues",
+    "title": "Feature request: hot key drop down ala quake/guake/tilda",
+    "repo": "microsoft/terminal",
+    "reactions": 1257,
+    "thumbs_up": 807,
+    "comments": 147,
+    "state": "closed",
+    "url": "https://github.com/microsoft/terminal/issues/653",
+    "created": "2019-05-10T05:00:10Z",
+    "labels": [
+      "Issue-Feature",
+      "Resolution-Fix-Committed",
+      "Help Wanted",
+      "Area-UserInterface",
+      "Product-Terminal",
+      "Needs-Tag-Fix"
+    ],
+    "scraped_at": "2026-03-08T20:38:44.916968"
+  },
+  {
+    "source": "github_issues",
+    "title": "The future of Vuetify",
+    "repo": "vuetifyjs/vuetify",
+    "reactions": 1308,
+    "thumbs_up": 745,
+    "comments": 93,
+    "state": "closed",
+    "url": "https://github.com/vuetifyjs/vuetify/issues/2240",
+    "created": "2017-10-19T01:50:00Z",
+    "labels": [
+      "T: enhancement",
+      "help wanted",
+      "P: critical"
+    ],
+    "scraped_at": "2026-03-08T20:38:44.916975"
+  },
+  {
+    "source": "github_issues",
+    "title": "[issue]: Remove BLOBs from the source tree",
+    "repo": "ventoy/Ventoy",
+    "reactions": 751,
+    "thumbs_up": 706,
+    "comments": 170,
+    "state": "closed",
+    "url": "https://github.com/ventoy/Ventoy/issues/2795",
+    "created": "2024-04-03T05:47:58Z",
+    "labels": [
+      "help wanted"
+    ],
+    "scraped_at": "2026-03-08T20:38:44.916982"
+  },
+  {
+    "source": "github_issues",
+    "title": "Add \"open Windows terminal here\" into right-click context menu",
+    "repo": "microsoft/terminal",
+    "reactions": 870,
+    "thumbs_up": 673,
+    "comments": 235,
+    "state": "closed",
+    "url": "https://github.com/microsoft/terminal/issues/1060",
+    "created": "2019-05-30T03:52:31Z",
+    "labels": [
+      "Issue-Feature",
+      "Resolution-Fix-Committed",
+      "Help Wanted",
+      "Area-UserInterface",
+      "Product-Terminal"
+    ],
+    "scraped_at": "2026-03-08T20:38:44.916989"
+  },
+  {
+    "source": "github_issues",
+    "title": "Apple Silicon Support",
+    "repo": "unslothai/unsloth",
+    "reactions": 720,
+    "thumbs_up": 620,
+    "comments": 112,
+    "state": "open",
+    "url": "https://github.com/unslothai/unsloth/issues/4",
+    "created": "2023-12-02T02:14:16Z",
+    "labels": [
+      "on roadmap",
+      "help wanted"
+    ],
+    "scraped_at": "2026-03-08T20:38:44.916995"
+  },
+  {
+    "source": "github_issues",
+    "title": "Pressing `u` will undo all the stack.",
+    "repo": "VSCodeVim/Vim",
+    "reactions": 845,
+    "thumbs_up": 589,
+    "comments": 177,
+    "state": "open",
+    "url": "https://github.com/VSCodeVim/Vim/issues/2007",
+    "created": "2017-09-06T20:07:36Z",
+    "labels": [
+      "kind/bug",
+      "help wanted",
+      "area/undo"
+    ],
+    "scraped_at": "2026-03-08T20:38:44.917000"
+  },
+  {
+    "source": "github_issues",
+    "title": "Python is deprecating `distutils.cfg`",
+    "repo": "Homebrew/homebrew-core",
+    "reactions": 721,
+    "thumbs_up": 552,
+    "comments": 78,
+    "state": "closed",
+    "url": "https://github.com/Homebrew/homebrew-core/issues/76621",
+    "created": "2021-05-04T07:46:41Z",
+    "labels": [
+      "help wanted",
+      "outdated"
+    ],
+    "scraped_at": "2026-03-08T20:38:44.917005"
+  },
+  {
+    "source": "github_issues",
+    "title": "Add multi-node support",
+    "repo": "kubernetes/minikube",
+    "reactions": 647,
+    "thumbs_up": 554,
+    "comments": 61,
+    "state": "closed",
+    "url": "https://github.com/kubernetes/minikube/issues/94",
+    "created": "2016-05-19T17:23:17Z",
+    "labels": [
+      "help wanted",
+      "kind/feature",
+      "priority/important-soon",
+      "lifecycle/frozen",
+      "roadmap/2019",
+      "co/multinode"
+    ],
+    "scraped_at": "2026-03-08T20:38:44.917011"
+  },
+  {
+    "source": "github_issues",
+    "title": "Add support for Apple iCloud",
+    "repo": "rclone/rclone",
+    "reactions": 576,
+    "thumbs_up": 536,
+    "comments": 75,
+    "state": "closed",
+    "url": "https://github.com/rclone/rclone/issues/1778",
+    "created": "2017-10-28T01:04:25Z",
+    "labels": [
+      "new backend",
+      "IMPORTANT",
+      "help wanted"
+    ],
+    "scraped_at": "2026-03-08T20:38:44.917017"
+  },
+  {
+    "source": "github_issues",
+    "title": "macOS 11 Big Sur compatibility on Apple Silicon",
+    "repo": "Homebrew/brew",
+    "reactions": 943,
+    "thumbs_up": 509,
+    "comments": 864,
+    "state": "closed",
+    "url": "https://github.com/Homebrew/brew/issues/7857",
+    "created": "2020-06-30T08:05:02Z",
+    "labels": [
+      "help wanted",
+      "in progress",
+      "discussion",
+      "outdated"
+    ],
+    "scraped_at": "2026-03-08T20:38:44.917023"
+  },
+  {
+    "source": "github_issues",
+    "title": "Support multiple windows",
+    "repo": "alacritty/alacritty",
+    "reactions": 529,
+    "thumbs_up": 491,
+    "comments": 152,
+    "state": "closed",
+    "url": "https://github.com/alacritty/alacritty/issues/607",
+    "created": "2017-06-11T06:33:40Z",
+    "labels": [
+      "enhancement",
+      "help wanted"
+    ],
+    "scraped_at": "2026-03-08T20:38:44.917029"
+  },
+  {
+    "source": "github_issues",
+    "title": "\"Context access might be invalid\" warning thrown for repository variables and secrets",
+    "repo": "github/vscode-github-actions",
+    "reactions": 513,
+    "thumbs_up": 487,
+    "comments": 200,
+    "state": "closed",
+    "url": "https://github.com/github/vscode-github-actions/issues/222",
+    "created": "2023-06-21T01:05:51Z",
+    "labels": [
+      "bug",
+      "help wanted"
+    ],
+    "scraped_at": "2026-03-08T20:38:44.917034"
+  },
+  {
+    "source": "github_issues",
+    "title": "Mega Issue: Manual node provisioning",
+    "repo": "kubernetes-sigs/karpenter",
+    "reactions": 482,
+    "thumbs_up": 482,
+    "comments": 87,
+    "state": "open",
+    "url": "https://github.com/kubernetes-sigs/karpenter/issues/749",
+    "created": "2022-07-05T17:14:10Z",
+    "labels": [
+      "help wanted",
+      "kind/feature",
+      "priority/important-soon",
+      "triage/accepted"
+    ],
+    "scraped_at": "2026-03-08T20:38:44.917042"
+  },
+  {
+    "source": "github_issues",
+    "title": "Linux: Add support for embedded Ozone/Wayland windows",
+    "repo": "chromiumembedded/cef",
+    "reactions": 483,
+    "thumbs_up": 461,
+    "comments": 72,
+    "state": "open",
+    "url": "https://github.com/chromiumembedded/cef/issues/2804",
+    "created": "2019-11-13T13:43:35Z",
+    "labels": [
+      "help wanted",
+      "Framework",
+      "linux",
+      "proposal",
+      "native"
+    ],
+    "scraped_at": "2026-03-08T20:38:44.917049"
+  },
+  {
+    "source": "github_issues",
+    "title": "vite build error: out of memory",
+    "repo": "vitejs/vite",
+    "reactions": 498,
+    "thumbs_up": 443,
+    "comments": 169,
+    "state": "closed",
+    "url": "https://github.com/vitejs/vite/issues/2433",
+    "created": "2021-03-08T10:34:31Z",
+    "labels": [
+      "help wanted",
+      "has workaround",
+      "p4-important",
+      "performance"
+    ],
+    "scraped_at": "2026-03-08T20:38:44.917055"
+  },
+  {
+    "source": "github_issues",
+    "title": "Allow controlling cache mounts storage location",
+    "repo": "moby/buildkit",
+    "reactions": 532,
+    "thumbs_up": 441,
+    "comments": 61,
+    "state": "open",
+    "url": "https://github.com/moby/buildkit/issues/1512",
+    "created": "2020-05-27T23:43:57Z",
+    "labels": [
+      "kind/enhancement",
+      "help wanted"
+    ],
+    "scraped_at": "2026-03-08T20:38:44.917060"
+  },
+  {
+    "source": "github_issues",
+    "title": "cmd/go: build: add -static flag",
+    "repo": "golang/go",
+    "reactions": 534,
+    "thumbs_up": 415,
+    "comments": 37,
+    "state": "open",
+    "url": "https://github.com/golang/go/issues/26492",
+    "created": "2018-07-19T23:58:53Z",
+    "labels": [
+      "help wanted",
+      "Proposal",
+      "Proposal-Accepted",
+      "GoCommand"
+    ],
+    "scraped_at": "2026-03-08T20:38:44.917068"
+  },
+  {
+    "source": "github_issues",
+    "title": "Allow to set explorer.autoReveal per specific folder",
+    "repo": "microsoft/vscode",
+    "reactions": 443,
+    "thumbs_up": 397,
+    "comments": 62,
+    "state": "closed",
+    "url": "https://github.com/microsoft/vscode/issues/87956",
+    "created": "2020-01-01T14:40:02Z",
+    "labels": [
+      "help wanted",
+      "feature-request",
+      "file-explorer",
+      "on-testplan",
+      "on-release-notes",
+      "insiders-released"
+    ],
+    "scraped_at": "2026-03-08T20:38:44.917076"
+  },
+  {
+    "source": "github_issues",
+    "title": "Love for TypeScript",
+    "repo": "microsoft/TypeScript",
+    "reactions": 1160,
+    "thumbs_up": 388,
+    "comments": 33,
+    "state": "closed",
+    "url": "https://github.com/microsoft/TypeScript/issues/10011",
+    "created": "2016-07-28T18:31:44Z",
+    "labels": [
+      "By Design",
+      "Suggestion",
+      "Needs Proposal",
+      "Help Wanted",
+      "Committed",
+      "Canonical",
+      "Effort: Difficult",
+      "Working as Intended",
+      "Awaiting More Feedback"
+    ],
+    "scraped_at": "2026-03-08T20:38:44.917085"
+  },
+  {
+    "source": "github_issues",
+    "title": "[Help needed] Vote for React Native's feature requests so we can improve the plugin",
+    "repo": "meliorence/react-native-snap-carousel",
+    "reactions": 554,
+    "thumbs_up": 381,
+    "comments": 28,
+    "state": "open",
+    "url": "https://github.com/meliorence/react-native-snap-carousel/issues/203",
+    "created": "2017-10-31T11:43:00Z",
+    "labels": [
+      "help wanted",
+      "*"
+    ],
+    "scraped_at": "2026-03-08T20:38:44.917091"
+  },
+  {
+    "source": "github_issues",
+    "title": "Alt+Drag or Windows+Drag to move windows",
+    "repo": "microsoft/PowerToys",
+    "reactions": 544,
+    "thumbs_up": 379,
+    "comments": 109,
+    "state": "open",
+    "url": "https://github.com/microsoft/PowerToys/issues/269",
+    "created": "2019-09-06T18:54:50Z",
+    "labels": [
+      "Help Wanted",
+      "Idea-New PowerToy",
+      "Product-Window Manager"
+    ],
+    "scraped_at": "2026-03-08T20:38:44.917097"
+  },
+  {
+    "source": "github_issues",
+    "title": "Timezones: Is yours correct?",
+    "repo": "JamBrain/JamBrain",
+    "reactions": 375,
+    "thumbs_up": 375,
+    "comments": 98,
+    "state": "open",
+    "url": "https://github.com/JamBrain/JamBrain/issues/589",
+    "created": "2017-04-13T15:05:34Z",
+    "labels": [
+      "help wanted",
+      "to be closed"
+    ],
+    "scraped_at": "2026-03-08T20:38:44.917102"
+  },
+  {
+    "source": "github_issues",
+    "title": "Support prettier-ignore-start/end for other languages (not only Markdown)",
+    "repo": "prettier/prettier",
+    "reactions": 436,
+    "thumbs_up": 361,
+    "comments": 75,
+    "state": "open",
+    "url": "https://github.com/prettier/prettier/issues/5287",
+    "created": "2018-10-23T14:56:58Z",
+    "labels": [
+      "help wanted",
+      "area:ignore"
+    ],
+    "scraped_at": "2026-03-08T20:38:44.917108"
+  },
+  {
+    "source": "github_issues",
+    "title": "Allow tabs to wrap to multi-line",
+    "repo": "microsoft/vscode",
+    "reactions": 449,
+    "thumbs_up": 360,
+    "comments": 146,
+    "state": "closed",
+    "url": "https://github.com/microsoft/vscode/issues/70413",
+    "created": "2019-03-13T17:11:20Z",
+    "labels": [
+      "help wanted",
+      "feature-request",
+      "workbench-tabs",
+      "on-testplan",
+      "on-release-notes"
+    ],
+    "scraped_at": "2026-03-08T20:38:44.917116"
+  },
+  {
+    "source": "github_issues",
+    "title": "Add a means to install package peer dependencies for development / testing",
+    "repo": "yarnpkg/yarn",
+    "reactions": 420,
+    "thumbs_up": 355,
+    "comments": 84,
+    "state": "closed",
+    "url": "https://github.com/yarnpkg/yarn/issues/1503",
+    "created": "2016-10-27T10:42:56Z",
+    "labels": [
+      "cat-feature",
+      "help wanted",
+      "triaged",
+      "fixed-in-modern"
+    ],
+    "scraped_at": "2026-03-08T20:38:44.917122"
+  },
+  {
+    "source": "github_issues",
+    "title": "kubectl port-forward should allow forwarding to a Service",
+    "repo": "kubernetes/kubernetes",
+    "reactions": 403,
+    "thumbs_up": 329,
+    "comments": 41,
+    "state": "closed",
+    "url": "https://github.com/kubernetes/kubernetes/issues/15180",
+    "created": "2015-10-06T20:38:11Z",
+    "labels": [
+      "priority/important-soon",
+      "area/kubectl",
+      "kind/feature",
+      "help wanted",
+      "sig/cli"
+    ],
+    "scraped_at": "2026-03-08T20:38:44.917129"
+  },
+  {
+    "source": "github_issues",
+    "title": "Vim plugin slows vscode down.",
+    "repo": "VSCodeVim/Vim",
+    "reactions": 358,
+    "thumbs_up": 318,
+    "comments": 173,
+    "state": "open",
+    "url": "https://github.com/VSCodeVim/Vim/issues/2021",
+    "created": "2017-09-15T08:50:38Z",
+    "labels": [
+      "help wanted",
+      "area/performance"
+    ],
+    "scraped_at": "2026-03-08T20:38:44.917133"
+  },
+  {
+    "source": "github_issues",
+    "title": "Wrap comments",
+    "repo": "prettier/prettier",
+    "reactions": 352,
+    "thumbs_up": 317,
+    "comments": 39,
+    "state": "open",
+    "url": "https://github.com/prettier/prettier/issues/265",
+    "created": "2017-01-17T08:11:00Z",
+    "labels": [
+      "help wanted",
+      "area:comments"
+    ],
+    "scraped_at": "2026-03-08T20:38:44.917139"
+  },
+  {
+    "source": "github_issues",
+    "title": "Web UI should support flame graphs",
+    "repo": "google/pprof",
+    "reactions": 360,
+    "thumbs_up": 315,
+    "comments": 23,
+    "state": "closed",
+    "url": "https://github.com/google/pprof/issues/166",
+    "created": "2017-07-19T22:13:39Z",
+    "labels": [
+      "help wanted",
+      "type: feat"
+    ],
+    "scraped_at": "2026-03-08T20:38:44.917144"
+  },
+  {
+    "source": "github_issues",
+    "title": "Allow to change the font size and font of the workbench",
+    "repo": "microsoft/vscode",
+    "reactions": 4658,
+    "thumbs_up": 3678,
+    "comments": 587,
+    "state": "open",
+    "url": "https://github.com/microsoft/vscode/issues/519",
+    "created": "2015-11-24T00:52:13Z",
+    "labels": [
+      "feature-request",
+      "workbench-fonts"
+    ],
+    "scraped_at": "2026-03-08T20:38:49.631958"
+  },
+  {
+    "source": "github_issues",
+    "title": "Request\u2019s Past, Present and Future",
+    "repo": "request/request",
+    "reactions": 5170,
+    "thumbs_up": 3060,
+    "comments": 437,
+    "state": "open",
+    "url": "https://github.com/request/request/issues/3142",
+    "created": "2019-03-30T21:52:21Z",
+    "labels": [
+      "neverstale"
+    ],
+    "scraped_at": "2026-03-08T20:38:49.631988"
+  },
+  {
+    "source": "github_issues",
+    "title": "Feature Request: Support AGENTS.md.",
+    "repo": "anthropics/claude-code",
+    "reactions": 4131,
+    "thumbs_up": 3074,
+    "comments": 231,
+    "state": "open",
+    "url": "https://github.com/anthropics/claude-code/issues/6235",
+    "created": "2025-08-21T07:22:15Z",
+    "labels": [
+      "enhancement",
+      "area:core",
+      "memory"
+    ],
+    "scraped_at": "2026-03-08T20:38:49.632002"
+  },
+  {
+    "source": "github_issues",
+    "title": "Allow for floating windows",
+    "repo": "microsoft/vscode",
+    "reactions": 3599,
+    "thumbs_up": 2876,
+    "comments": 366,
+    "state": "closed",
+    "url": "https://github.com/microsoft/vscode/issues/10121",
+    "created": "2016-08-04T10:40:20Z",
+    "labels": [
+      "feature-request",
+      "on-testplan",
+      "layout",
+      "workbench-auxwindow"
+    ],
+    "scraped_at": "2026-03-08T20:38:49.632013"
+  },
+  {
+    "source": "github_issues",
+    "title": "Download Docker CE without logging in",
+    "repo": "docker/docs",
+    "reactions": 3278,
+    "thumbs_up": 2770,
+    "comments": 512,
+    "state": "closed",
+    "url": "https://github.com/docker/docs/issues/6910",
+    "created": "2018-06-20T07:19:51Z",
+    "labels": [
+      "lifecycle/locked"
+    ],
+    "scraped_at": "2026-03-08T20:38:49.632023"
+  },
+  {
+    "source": "github_issues",
+    "title": "Add support for opening multiple project folders in same window",
+    "repo": "microsoft/vscode",
+    "reactions": 3123,
+    "thumbs_up": 2618,
+    "comments": 380,
+    "state": "closed",
+    "url": "https://github.com/microsoft/vscode/issues/396",
+    "created": "2015-11-21T06:44:53Z",
+    "labels": [
+      "feature-request",
+      "workbench-multiroot"
+    ],
+    "scraped_at": "2026-03-08T20:38:49.632034"
+  },
+  {
+    "source": "github_issues",
+    "title": "Tabs for integrated terminal",
+    "repo": "microsoft/vscode",
+    "reactions": 3064,
+    "thumbs_up": 2412,
+    "comments": 321,
+    "state": "closed",
+    "url": "https://github.com/microsoft/vscode/issues/10546",
+    "created": "2016-08-15T13:01:26Z",
+    "labels": [
+      "feature-request",
+      "plan-item",
+      "ux",
+      "terminal",
+      "on-testplan",
+      "layout",
+      "on-release-notes"
+    ],
+    "scraped_at": "2026-03-08T20:38:49.632046"
+  },
+  {
+    "source": "github_issues",
+    "title": "Git status in File Explorer",
+    "repo": "microsoft/vscode",
+    "reactions": 2888,
+    "thumbs_up": 2286,
+    "comments": 247,
+    "state": "closed",
+    "url": "https://github.com/microsoft/vscode/issues/178",
+    "created": "2015-11-19T09:24:13Z",
+    "labels": [
+      "feature-request",
+      "git",
+      "file-explorer",
+      "file-decorations"
+    ],
+    "scraped_at": "2026-03-08T20:38:49.632056"
+  },
+  {
+    "source": "github_issues",
+    "title": "Support WebSocket Endpoints",
+    "repo": "postmanlabs/postman-app-support",
+    "reactions": 3022,
+    "thumbs_up": 2168,
+    "comments": 248,
+    "state": "closed",
+    "url": "https://github.com/postmanlabs/postman-app-support/issues/4009",
+    "created": "2017-12-28T19:59:37Z",
+    "labels": [
+      "feature",
+      "product/runtime",
+      "http2 + sse",
+      "protocol",
+      "Initiative",
+      "protocol/websocket"
+    ],
+    "scraped_at": "2026-03-08T20:38:49.632067"
+  },
+  {
+    "source": "github_issues",
+    "title": "Build and Debug support",
+    "repo": "zed-industries/zed",
+    "reactions": 2738,
+    "thumbs_up": 2143,
+    "comments": 86,
+    "state": "closed",
+    "url": "https://github.com/zed-industries/zed/issues/5065",
+    "created": "2022-12-24T20:21:29Z",
+    "labels": [
+      "area:editor"
+    ],
+    "scraped_at": "2026-03-08T20:38:49.632077"
+  },
+  {
+    "source": "github_issues",
+    "title": "[ECS] [request]: Delete task definitions",
+    "repo": "aws/containers-roadmap",
+    "reactions": 2145,
+    "thumbs_up": 2113,
+    "comments": 158,
+    "state": "closed",
+    "url": "https://github.com/aws/containers-roadmap/issues/685",
+    "created": "2020-01-08T23:01:54Z",
+    "labels": [
+      "ECS",
+      "Proposed",
+      "Shipped"
+    ],
+    "scraped_at": "2026-03-08T20:38:49.632086"
+  },
+  {
+    "source": "github_issues",
+    "title": "proposal: spec: generic programming facilities",
+    "repo": "golang/go",
+    "reactions": 3452,
+    "thumbs_up": 1996,
+    "comments": 874,
+    "state": "closed",
+    "url": "https://github.com/golang/go/issues/15292",
+    "created": "2016-04-14T02:33:22Z",
+    "labels": [
+      "LanguageChange",
+      "v2",
+      "Proposal",
+      "NeedsInvestigation",
+      "FrozenDueToAge",
+      "generics"
+    ],
+    "scraped_at": "2026-03-08T20:38:49.632097"
+  },
+  {
+    "source": "github_issues",
+    "title": "Dark version of github",
+    "repo": "isaacs/github",
+    "reactions": 2909,
+    "thumbs_up": 1981,
+    "comments": 161,
+    "state": "closed",
+    "url": "https://github.com/isaacs/github/issues/66",
+    "created": "2013-07-06T20:01:50Z",
+    "labels": [
+      "enhancement",
+      "ui",
+      "parity",
+      "implemented",
+      "render"
+    ],
+    "scraped_at": "2026-03-08T20:38:49.632109"
+  },
+  {
+    "source": "github_issues",
+    "title": "[Database Support] MySQL",
+    "repo": "microsoft/azuredatastudio",
+    "reactions": 2234,
+    "thumbs_up": 1978,
+    "comments": 117,
+    "state": "closed",
+    "url": "https://github.com/microsoft/azuredatastudio/issues/4904",
+    "created": "2019-04-08T21:02:02Z",
+    "labels": [
+      "Area - Extensibility",
+      "Enhancement"
+    ],
+    "scraped_at": "2026-03-08T20:38:49.632118"
+  },
+  {
+    "source": "github_issues",
+    "title": "View list of issues I'm subscribed to, on the website",
+    "repo": "isaacs/github",
+    "reactions": 2237,
+    "thumbs_up": 1940,
+    "comments": 430,
+    "state": "closed",
+    "url": "https://github.com/isaacs/github/issues/283",
+    "created": "2014-10-30T14:26:14Z",
+    "labels": [
+      "issues",
+      "notifications",
+      "implemented"
+    ],
+    "scraped_at": "2026-03-08T20:38:49.632128"
+  },
+  {
+    "source": "github_issues",
+    "title": "Allow customization of mouse shortcuts",
+    "repo": "microsoft/vscode",
+    "reactions": 2507,
+    "thumbs_up": 1896,
+    "comments": 452,
+    "state": "open",
+    "url": "https://github.com/microsoft/vscode/issues/3130",
+    "created": "2016-02-18T17:49:30Z",
+    "labels": [
+      "feature-request",
+      "keybindings"
+    ],
+    "scraped_at": "2026-03-08T20:38:49.632137"
+  },
+  {
+    "source": "github_issues",
+    "title": "@ts-ignore for the block scope and imports",
+    "repo": "microsoft/TypeScript",
+    "reactions": 2266,
+    "thumbs_up": 1818,
+    "comments": 214,
+    "state": "open",
+    "url": "https://github.com/microsoft/TypeScript/issues/19573",
+    "created": "2017-10-30T14:37:04Z",
+    "labels": [
+      "Suggestion",
+      "Awaiting More Feedback",
+      "VS Code Tracked"
+    ],
+    "scraped_at": "2026-03-08T20:38:49.632147"
+  },
+  {
+    "source": "github_issues",
+    "title": "New VS Code icon is ugly!",
+    "repo": "microsoft/vscode",
+    "reactions": 2207,
+    "thumbs_up": 1805,
+    "comments": 361,
+    "state": "closed",
+    "url": "https://github.com/microsoft/vscode/issues/35783",
+    "created": "2017-10-07T09:18:32Z",
+    "labels": [
+      "icon-brand"
+    ],
+    "scraped_at": "2026-03-08T20:38:49.632157"
+  },
+  {
+    "source": "github_issues",
+    "title": "Feature: Join across multiple databases",
+    "repo": "metabase/metabase",
+    "reactions": 2101,
+    "thumbs_up": 1793,
+    "comments": 50,
+    "state": "open",
+    "url": "https://github.com/metabase/metabase/issues/3953",
+    "created": "2016-12-14T21:13:17Z",
+    "labels": [
+      "Priority:P2",
+      "Querying/Processor",
+      "Type:New Feature"
+    ],
+    "scraped_at": "2026-03-08T20:38:49.632167"
+  },
+  {
+    "source": "github_issues",
+    "title": "Optional arguments in object variable type definition",
+    "repo": "hashicorp/terraform",
+    "reactions": 2391,
+    "thumbs_up": 1758,
+    "comments": 112,
+    "state": "closed",
+    "url": "https://github.com/hashicorp/terraform/issues/19898",
+    "created": "2018-12-30T10:37:06Z",
+    "labels": [
+      "enhancement",
+      "config"
+    ],
+    "scraped_at": "2026-03-08T20:38:49.632177"
+  },
+  {
+    "source": "github_issues",
+    "title": "RFC: React Hooks",
+    "repo": "reactjs/rfcs",
+    "reactions": 3246,
+    "thumbs_up": 1713,
+    "comments": 1394,
+    "state": "closed",
+    "url": "https://github.com/reactjs/rfcs/pull/68",
+    "created": "2018-10-25T16:20:37Z",
+    "labels": [
+      "CLA Signed"
+    ],
+    "scraped_at": "2026-03-08T20:38:49.632187"
+  },
+  {
+    "source": "github_issues",
+    "title": "Need tab key support",
+    "repo": "cypress-io/cypress",
+    "reactions": 1701,
+    "thumbs_up": 1669,
+    "comments": 94,
+    "state": "closed",
+    "url": "https://github.com/cypress-io/cypress/issues/299",
+    "created": "2016-11-17T06:27:08Z",
+    "labels": [
+      "type: feature",
+      "pkg/driver",
+      "topic: native events",
+      "existing workaround"
+    ],
+    "scraped_at": "2026-03-08T20:38:49.632197"
+  },
+  {
+    "source": "github_issues",
+    "title": "Support YAML Anchors",
+    "repo": "actions/runner",
+    "reactions": 1776,
+    "thumbs_up": 1655,
+    "comments": 153,
+    "state": "closed",
+    "url": "https://github.com/actions/runner/issues/1182",
+    "created": "2021-07-01T20:34:51Z",
+    "labels": [
+      "enhancement",
+      "papercut"
+    ],
+    "scraped_at": "2026-03-08T20:38:49.632207"
+  },
+  {
+    "source": "github_issues",
+    "title": "URGENT: SECURITY: New maintainer is probably malicious",
+    "repo": "greatsuspender/thegreatsuspender",
+    "reactions": 2265,
+    "thumbs_up": 1615,
+    "comments": 552,
+    "state": "open",
+    "url": "https://github.com/greatsuspender/thegreatsuspender/issues/1263",
+    "created": "2020-11-03T15:18:34Z",
+    "labels": [],
+    "scraped_at": "2026-03-08T20:38:49.632216"
+  },
+  {
+    "source": "github_issues",
+    "title": "Ability to access fields in JSON Dicts in Postgres driver",
+    "repo": "metabase/metabase",
+    "reactions": 1811,
+    "thumbs_up": 1561,
+    "comments": 47,
+    "state": "closed",
+    "url": "https://github.com/metabase/metabase/issues/708",
+    "created": "2015-07-13T23:10:02Z",
+    "labels": [
+      "Priority:P1",
+      "Database/Postgres",
+      "Querying/Processor",
+      "Administration/Metadata & Sync",
+      "Type:New Feature",
+      ".Completeness"
+    ],
+    "scraped_at": "2026-03-08T20:38:49.632228"
+  },
+  {
+    "source": "github_issues",
+    "title": "Feature Request: Workflow to create branch from issue",
+    "repo": "isaacs/github",
+    "reactions": 1930,
+    "thumbs_up": 1551,
+    "comments": 134,
+    "state": "closed",
+    "url": "https://github.com/isaacs/github/issues/1125",
+    "created": "2017-11-16T16:29:30Z",
+    "labels": [
+      "issues",
+      "pull-requests",
+      "parity",
+      "workflow",
+      "project management",
+      "WIP",
+      "issue-transfer"
+    ],
+    "scraped_at": "2026-03-08T20:38:49.632238"
+  },
+  {
+    "source": "github_issues",
+    "title": "Add data classes",
+    "repo": "dart-lang/language",
+    "reactions": 2307,
+    "thumbs_up": 1547,
+    "comments": 391,
+    "state": "open",
+    "url": "https://github.com/dart-lang/language/issues/314",
+    "created": "2017-10-31T11:42:42Z",
+    "labels": [
+      "request",
+      "data-classes",
+      "brevity"
+    ],
+    "scraped_at": "2026-03-08T20:38:49.632248"
+  },
+  {
+    "source": "github_issues",
+    "title": "Add way to exclude fields via query arguments or globally",
+    "repo": "prisma/prisma",
+    "reactions": 1980,
+    "thumbs_up": 1542,
+    "comments": 216,
+    "state": "closed",
+    "url": "https://github.com/prisma/prisma/issues/5042",
+    "created": "2020-04-13T13:19:15Z",
+    "labels": [
+      "kind/feature",
+      "topic: client api",
+      "topic: extend-client",
+      "topic: exclude",
+      "status/is-preview-feature"
+    ],
+    "scraped_at": "2026-03-08T20:38:49.632258"
+  },
+  {
+    "source": "github_issues",
+    "title": "feature request: inverse targeting / exclude",
+    "repo": "hashicorp/terraform",
+    "reactions": 2078,
+    "thumbs_up": 1530,
+    "comments": 165,
+    "state": "open",
+    "url": "https://github.com/hashicorp/terraform/issues/2253",
+    "created": "2015-06-06T06:19:11Z",
+    "labels": [
+      "enhancement",
+      "core",
+      "cli"
+    ],
+    "scraped_at": "2026-03-08T20:38:49.632266"
+  },
+  {
+    "source": "github_issues",
+    "title": "Support asyncio",
+    "repo": "boto/botocore",
+    "reactions": 1689,
+    "thumbs_up": 1491,
+    "comments": 110,
+    "state": "open",
+    "url": "https://github.com/boto/botocore/issues/458",
+    "created": "2015-02-12T18:55:41Z",
+    "labels": [
+      "feature-request",
+      "p3",
+      "needs-major-version"
+    ],
+    "scraped_at": "2026-03-08T20:38:49.632275"
+  }
+]
