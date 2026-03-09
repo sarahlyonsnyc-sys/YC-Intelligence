@@ -1,0 +1,6 @@
+YC Scrape Log
+========================================
+Timestamp: 2026-03-08T18:33:12.175690
+Source: https://yc-oss.github.io/api/companies/all.json
+Total companies: 5690
+Columns: id, name, slug, former_names, small_logo_thumb_url, website, all_locations, long_description, one_liner, team_size, industry, subindustry, launched_at, tags, tags_highlighted, top_company, isHiring, nonprofit, batch, status, industries, regions, stage, app_video_public, demo_day_video_public, app_answers, question_answers, url, api

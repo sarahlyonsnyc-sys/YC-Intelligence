@@ -1,0 +1,507 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>YC Intelligence — Startup Analysis Platform</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=JetBrains+Mono:wght@400;500;600&family=DM+Sans:wght@400;500;600;700&display=swap" rel="stylesheet" />
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js"></script>
+  <style>
+    :root {
+      --bg: #08080c; --surface: #0f0f14; --surface-light: #16161e;
+      --border: rgba(255,255,255,0.06); --border-hover: rgba(255,255,255,0.14);
+      --text: #e8e8f0; --text-muted: #7a7a8c; --text-dim: #4a4a5c;
+      --accent: #ff6b35; --accent-soft: rgba(255,107,53,0.12);
+      --green: #22c55e; --red: #ef4444; --blue: #3b82f6; --purple: #a855f7;
+      --yellow: #eab308; --cyan: #06b6d4; --pink: #ec4899;
+      --font-display: 'Instrument Serif', Georgia, serif;
+      --font-mono: 'JetBrains Mono', 'Fira Code', monospace;
+      --font-body: 'DM Sans', 'Helvetica Neue', sans-serif;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body { background: var(--bg); color: var(--text); font-family: var(--font-body); min-height: 100vh; }
+    ::selection { background: rgba(255,107,53,0.3); }
+    ::-webkit-scrollbar { width: 5px; } ::-webkit-scrollbar-thumb { background: #333; border-radius: 3px; }
+
+    @keyframes spin { to { transform: rotate(360deg); } }
+    @keyframes fadeUp { from { opacity: 0; transform: translateY(12px); } to { opacity: 1; transform: translateY(0); } }
+    @keyframes pulse { 0%,100% { opacity: 0.3; } 50% { opacity: 1; } }
+
+    /* ── Layout ── */
+    header { padding: 16px 28px; display: flex; align-items: center; justify-content: space-between; border-bottom: 1px solid var(--border); background: rgba(8,8,12,0.95); backdrop-filter: blur(20px); position: sticky; top: 0; z-index: 100; }
+    .logo { display: flex; align-items: center; gap: 14; }
+    .logo-icon { width: 34px; height: 34px; background: linear-gradient(135deg, var(--accent), #d4380d); border-radius: 7px; display: flex; align-items: center; justify-content: center; font-family: var(--font-display); font-size: 20px; color: #fff; font-style: italic; }
+    .logo-text { font-family: var(--font-display); font-size: 20px; color: #fff; font-style: italic; line-height: 1; }
+    .logo-sub { font-family: var(--font-mono); font-size: 9px; color: var(--text-dim); letter-spacing: 2.5px; text-transform: uppercase; margin-top: 2px; }
+    nav { display: flex; gap: 2px; background: var(--surface); border-radius: 10px; padding: 3px; }
+    .nav-btn { padding: 10px 20px; border-radius: 8px; border: none; cursor: pointer; font-family: var(--font-body); font-size: 13px; font-weight: 500; background: transparent; color: var(--text-dim); transition: all 0.2s; }
+    .nav-btn.active { background: var(--accent-soft); color: var(--accent); }
+    main { padding: 28px; max-width: 1320px; margin: 0 auto; }
+
+    /* ── Cards ── */
+    .stat-grid { display: flex; gap: 14px; flex-wrap: wrap; margin-bottom: 28px; }
+    .stat-card { background: var(--surface); border: 1px solid var(--border); border-radius: 10px; padding: 18px 22px; flex: 1 1 150px; min-width: 150px; }
+    .stat-label { font-family: var(--font-mono); font-size: 10px; color: var(--text-dim); text-transform: uppercase; letter-spacing: 2px; margin-bottom: 8px; }
+    .stat-value { font-family: var(--font-display); font-size: 34px; font-style: italic; line-height: 1; }
+    .stat-sub { font-family: var(--font-mono); font-size: 10px; color: var(--text-dim); margin-top: 6px; }
+
+    /* ── Charts ── */
+    .chart-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 20px; margin-bottom: 24px; }
+    .chart-box { background: var(--surface); border: 1px solid var(--border); border-radius: 12px; padding: 22px; }
+    .chart-title { font-family: var(--font-mono); font-size: 10px; color: var(--text-dim); text-transform: uppercase; letter-spacing: 2px; margin-bottom: 14px; }
+
+    /* ── Table ── */
+    .table-wrap { background: var(--surface); border: 1px solid var(--border); border-radius: 12px; overflow: hidden; }
+    .table-header { display: grid; grid-template-columns: 2fr 1.3fr 0.7fr 0.7fr 0.6fr; padding: 10px 16px; font-family: var(--font-mono); font-size: 10px; color: var(--text-dim); text-transform: uppercase; letter-spacing: 1.5px; border-bottom: 1px solid var(--border); }
+    .table-body { max-height: 520px; overflow-y: auto; }
+    .table-row { display: grid; grid-template-columns: 2fr 1.3fr 0.7fr 0.7fr 0.6fr; padding: 10px 16px; font-size: 12px; border-bottom: 1px solid var(--border); align-items: center; }
+    .table-row:nth-child(even) { background: rgba(255,255,255,0.01); }
+    .co-name { font-weight: 600; }
+    .co-liner { font-size: 11px; color: var(--text-muted); margin-top: 2px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+    .tag-top { margin-left: 6px; font-size: 9px; color: var(--accent); background: var(--accent-soft); padding: 1px 6px; border-radius: 4px; }
+    .status-pill { padding: 2px 8px; border-radius: 4px; font-size: 10px; font-family: var(--font-mono); }
+
+    /* ── Filters ── */
+    .filter-bar { display: flex; gap: 10px; margin-bottom: 20px; flex-wrap: wrap; align-items: center; }
+    .filter-bar input, .filter-bar select { background: var(--surface); border: 1px solid var(--border); border-radius: 8px; padding: 10px 14px; color: var(--text); font-family: var(--font-mono); font-size: 12px; outline: none; }
+    .filter-bar input { flex: 1 1 200px; font-family: var(--font-body); font-size: 13px; }
+    .filter-bar input:focus { border-color: var(--accent); }
+    .result-count { font-family: var(--font-mono); font-size: 11px; color: var(--text-dim); margin-left: auto; }
+
+    /* ── AI Section ── */
+    .ai-section { max-width: 800px; }
+    .ai-title { font-family: var(--font-display); font-size: 28px; color: #fff; font-style: italic; margin-bottom: 8px; }
+    .ai-subtitle { font-family: var(--font-body); font-size: 14px; color: var(--text-muted); margin-bottom: 24px; }
+    .ai-input-row { display: flex; gap: 10px; margin-bottom: 24px; }
+    .ai-input { flex: 1; background: var(--surface); border: 1px solid var(--border); border-radius: 10px; padding: 14px 20px; color: var(--text); font-family: var(--font-body); font-size: 14px; outline: none; }
+    .ai-input:focus { border-color: var(--accent); }
+    .ai-btn { background: linear-gradient(135deg, var(--accent), #d4380d); border: none; border-radius: 10px; padding: 14px 28px; color: #fff; font-family: var(--font-body); font-size: 14px; font-weight: 600; cursor: pointer; white-space: nowrap; }
+    .ai-btn:disabled { opacity: 0.4; cursor: default; }
+    .ai-result { background: var(--surface); border: 1px solid var(--border); border-radius: 14px; padding: 24px; font-size: 14px; line-height: 1.7; animation: fadeUp 0.4s ease; }
+    .ai-result b { color: var(--accent); }
+
+    /* ── Sector Pills ── */
+    .pill-row { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 20px; }
+    .pill { padding: 5px 14px; border-radius: 20px; border: 1px solid var(--border); background: transparent; cursor: pointer; font-family: var(--font-mono); font-size: 11px; color: var(--text-muted); transition: all 0.15s; }
+    .pill.active { border-color: var(--accent); background: var(--accent-soft); color: var(--accent); }
+
+    /* ── Loading ── */
+    .loader { display: flex; gap: 6px; padding: 14px 20px; background: var(--surface); border: 1px solid var(--border); border-radius: 14px; width: fit-content; }
+    .loader-dot { width: 7px; height: 7px; border-radius: 50%; background: var(--accent); opacity: 0.4; }
+    .loader-dot:nth-child(1) { animation: pulse 1.2s ease-in-out 0s infinite; }
+    .loader-dot:nth-child(2) { animation: pulse 1.2s ease-in-out 0.2s infinite; }
+    .loader-dot:nth-child(3) { animation: pulse 1.2s ease-in-out 0.4s infinite; }
+
+    /* ── Sector Table ── */
+    .sector-table { max-height: 280px; overflow-y: auto; }
+    .sector-row { display: flex; align-items: center; gap: 12px; padding: 8px 0; border-bottom: 1px solid var(--border); }
+    .sector-row .name { flex: 1; font-size: 13px; }
+    .sector-row .count { font-family: var(--font-mono); font-size: 11px; color: var(--text-muted); width: 50px; text-align: right; }
+    .bar-bg { width: 100px; height: 6px; background: var(--surface-light); border-radius: 3px; overflow: hidden; }
+    .bar-fill { height: 100%; border-radius: 3px; }
+    .sector-row .rate { font-family: var(--font-mono); font-size: 11px; width: 36px; text-align: right; }
+
+    .tab-content { animation: fadeUp 0.4s ease; }
+    .hidden { display: none; }
+
+    @media (max-width: 768px) {
+      .chart-grid { grid-template-columns: 1fr; }
+      nav { flex-wrap: wrap; }
+      .nav-btn { padding: 8px 14px; font-size: 12px; }
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <div class="logo">
+      <div class="logo-icon">Y</div>
+      <div>
+        <div class="logo-text">YC Intelligence</div>
+        <div class="logo-sub" id="companyCount">Loading companies...</div>
+      </div>
+    </div>
+    <nav id="nav">
+      <button class="nav-btn active" data-tab="overview">Overview</button>
+      <button class="nav-btn" data-tab="explorer">Explorer</button>
+      <button class="nav-btn" data-tab="sectors">Sector Deep Dive</button>
+      <button class="nav-btn" data-tab="ideas">Idea Evaluator</button>
+    </nav>
+  </header>
+
+  <main>
+    <!-- LOADING STATE -->
+    <div id="loadingState" style="display:flex;align-items:center;justify-content:center;height:60vh;flex-direction:column;gap:16px;">
+      <div style="width:40px;height:40px;border:3px solid var(--border);border-top:3px solid var(--accent);border-radius:50%;animation:spin 0.8s linear infinite;"></div>
+      <div style="font-family:var(--font-mono);font-size:13px;color:var(--text-muted);">Loading YC companies...</div>
+    </div>
+
+    <!-- OVERVIEW -->
+    <div id="tab-overview" class="tab-content hidden">
+      <div class="stat-grid" id="statsGrid"></div>
+      <div class="chart-grid">
+        <div class="chart-box">
+          <div class="chart-title">Companies by Sector</div>
+          <canvas id="sectorChart" height="280"></canvas>
+        </div>
+        <div class="chart-box">
+          <div class="chart-title">Batch Size Trend</div>
+          <canvas id="batchChart" height="280"></canvas>
+        </div>
+      </div>
+      <div class="chart-grid">
+        <div class="chart-box">
+          <div class="chart-title">Status Distribution</div>
+          <canvas id="statusChart" height="220"></canvas>
+        </div>
+        <div class="chart-box">
+          <div class="chart-title">Sector Success Rates (% Active)</div>
+          <div class="sector-table" id="sectorTable"></div>
+        </div>
+      </div>
+    </div>
+
+    <!-- EXPLORER -->
+    <div id="tab-explorer" class="tab-content hidden">
+      <div class="filter-bar">
+        <input type="text" id="searchInput" placeholder="Search companies..." />
+        <select id="sectorSelect"></select>
+        <select id="statusSelect"></select>
+        <select id="sortSelect">
+          <option value="name">Sort: Name</option>
+          <option value="team">Sort: Team Size</option>
+          <option value="batch">Sort: Newest</option>
+        </select>
+        <div class="result-count" id="resultCount"></div>
+      </div>
+      <div class="table-wrap">
+        <div class="table-header">
+          <div>Company</div><div>Sector</div><div>Batch</div><div>Status</div><div>Team</div>
+        </div>
+        <div class="table-body" id="tableBody"></div>
+      </div>
+    </div>
+
+    <!-- SECTOR DEEP DIVE -->
+    <div id="tab-sectors" class="tab-content hidden">
+      <div class="ai-section">
+        <div class="ai-title">Sector Deep Dive</div>
+        <div class="ai-subtitle">Pick a sector and Claude will analyze the competitive landscape, whitespace, and best opportunities.</div>
+        <div class="pill-row" id="sectorPills"></div>
+        <button class="ai-btn" id="deepDiveBtn" disabled>Analyze sector</button>
+        <div id="deepDiveLoader" class="loader hidden" style="margin-top:20px"><div class="loader-dot"></div><div class="loader-dot"></div><div class="loader-dot"></div></div>
+        <div id="deepDiveResult" class="ai-result hidden" style="margin-top:20px"></div>
+      </div>
+    </div>
+
+    <!-- IDEA EVALUATOR -->
+    <div id="tab-ideas" class="tab-content hidden">
+      <div class="ai-section">
+        <div class="ai-title">Startup Idea Evaluator</div>
+        <div class="ai-subtitle" id="ideaSubtitle">Describe your startup idea and Claude will evaluate it against YC companies.</div>
+        <div class="ai-input-row">
+          <input class="ai-input" id="ideaInput" placeholder="e.g. AI-powered contract analysis for small law firms..." />
+          <button class="ai-btn" id="ideaBtn">Evaluate</button>
+        </div>
+        <div id="ideaLoader" class="loader hidden"><div class="loader-dot"></div><div class="loader-dot"></div><div class="loader-dot"></div></div>
+        <div id="ideaResult" class="ai-result hidden"></div>
+      </div>
+    </div>
+  </main>
+
+<script>
+// ─── Global State ────────────────────────────────────────────────────────────
+let companies = [];
+let sectors = [];
+let batchTrends = [];
+let statusData = [];
+let currentTab = "overview";
+let selectedSector = "";
+
+const COLORS = ["#ff6b35","#3b82f6","#22c55e","#a855f7","#eab308","#06b6d4","#ec4899","#f97316","#6366f1","#14b8a6","#f43f5e","#84cc16"];
+const STATUS_COLORS = { Active: "#22c55e", Inactive: "#ef4444", Acquired: "#3b82f6", Public: "#a855f7" };
+
+// ─── Data Loading ────────────────────────────────────────────────────────────
+async function loadData() {
+  try {
+    const res = await fetch("https://yc-oss.github.io/api/companies/all.json");
+    if (!res.ok) throw new Error(`HTTP ${res.status}`);
+    const raw = await res.json();
+    companies = raw.map(c => ({
+      name: c.name || "Unknown",
+      oneLiner: c.one_liner || "",
+      industry: c.industry || "Unspecified",
+      batch: c.batch || "",
+      status: c.status || "Unknown",
+      teamSize: parseInt(c.team_size) || 0,
+      topCompany: c.top_company || false,
+      isHiring: c.isHiring || false,
+      tags: Array.isArray(c.tags) ? c.tags.join(", ") : (c.tags || ""),
+    }));
+    processData();
+    document.getElementById("loadingState").style.display = "none";
+    document.getElementById("companyCount").textContent = `${companies.length.toLocaleString()} companies · live data`;
+    showTab("overview");
+  } catch (e) {
+    document.getElementById("loadingState").innerHTML = `
+      <div style="font-family:var(--font-display);font-size:28px;color:var(--red);font-style:italic;">Failed to load data</div>
+      <div style="font-family:var(--font-mono);font-size:12px;color:var(--text-muted);">${e.message}</div>`;
+  }
+}
+
+function processData() {
+  // Sectors
+  const sMap = {};
+  companies.forEach(c => {
+    if (!sMap[c.industry]) sMap[c.industry] = { name: c.industry, count: 0, active: 0 };
+    sMap[c.industry].count++;
+    if (c.status === "Active") sMap[c.industry].active++;
+  });
+  sectors = Object.values(sMap).map(s => ({ ...s, rate: s.count > 0 ? Math.round((s.active / s.count) * 100) : 0 })).sort((a, b) => b.count - a.count);
+
+  // Batch trends
+  const bMap = {};
+  companies.forEach(c => { if (c.batch) { bMap[c.batch] = (bMap[c.batch] || 0) + 1; } });
+  batchTrends = Object.entries(bMap).map(([b, c]) => ({ batch: b, count: c })).sort((a, b) => a.batch.localeCompare(b.batch)).slice(-20);
+
+  // Status
+  const stMap = {};
+  companies.forEach(c => { stMap[c.status] = (stMap[c.status] || 0) + 1; });
+  statusData = Object.entries(stMap).map(([n, v]) => ({ name: n, value: v })).sort((a, b) => b.value - a.value);
+}
+
+// ─── Tab Navigation ──────────────────────────────────────────────────────────
+document.querySelectorAll(".nav-btn").forEach(btn => {
+  btn.addEventListener("click", () => showTab(btn.dataset.tab));
+});
+
+function showTab(tab) {
+  currentTab = tab;
+  document.querySelectorAll(".nav-btn").forEach(b => b.classList.toggle("active", b.dataset.tab === tab));
+  document.querySelectorAll(".tab-content").forEach(t => t.classList.add("hidden"));
+  const el = document.getElementById(`tab-${tab}`);
+  if (el) el.classList.remove("hidden");
+
+  if (tab === "overview") renderOverview();
+  if (tab === "explorer") renderExplorer();
+  if (tab === "sectors") renderSectors();
+  if (tab === "ideas") renderIdeas();
+}
+
+// ─── Overview ────────────────────────────────────────────────────────────────
+let chartsRendered = false;
+
+function renderOverview() {
+  const active = companies.filter(c => c.status === "Active").length;
+  const inactive = companies.filter(c => c.status === "Inactive").length;
+  const acquired = companies.filter(c => c.status === "Acquired").length;
+  const pub = companies.filter(c => c.status === "Public").length;
+
+  document.getElementById("statsGrid").innerHTML = [
+    statCard("Companies", companies.length.toLocaleString(), "In YC directory", "var(--accent)"),
+    statCard("Active", active.toLocaleString(), `${Math.round(active/companies.length*100)}% of total`, "var(--green)"),
+    statCard("Inactive", inactive.toLocaleString(), "", "var(--red)"),
+    statCard("Acquired", acquired.toLocaleString(), "", "var(--blue)"),
+    statCard("Public", pub.toLocaleString(), "", "var(--purple)"),
+    statCard("Sectors", sectors.length.toString(), "", "var(--yellow)"),
+  ].join("");
+
+  // Sector success table
+  document.getElementById("sectorTable").innerHTML = sectors.slice(0, 12).map(s => {
+    const col = s.rate > 70 ? "var(--green)" : s.rate > 50 ? "var(--yellow)" : "var(--red)";
+    return `<div class="sector-row">
+      <div class="name">${s.name}</div>
+      <div class="count">${s.count}</div>
+      <div class="bar-bg"><div class="bar-fill" style="width:${s.rate}%;background:${col}"></div></div>
+      <div class="rate" style="color:${col}">${s.rate}%</div>
+    </div>`;
+  }).join("");
+
+  if (!chartsRendered) {
+    renderCharts();
+    chartsRendered = true;
+  }
+}
+
+function statCard(label, value, sub, color) {
+  return `<div class="stat-card">
+    <div class="stat-label">${label}</div>
+    <div class="stat-value" style="color:${color}">${value}</div>
+    ${sub ? `<div class="stat-sub">${sub}</div>` : ""}
+  </div>`;
+}
+
+function renderCharts() {
+  // Sector bar chart
+  new Chart(document.getElementById("sectorChart"), {
+    type: "bar",
+    data: { labels: sectors.slice(0, 8).map(s => s.name), datasets: [{ data: sectors.slice(0, 8).map(s => s.count), backgroundColor: COLORS.slice(0, 8), borderRadius: 4 }] },
+    options: { responsive: true, plugins: { legend: { display: false } }, scales: { x: { ticks: { color: "#4a4a5c", font: { size: 10 } }, grid: { display: false } }, y: { ticks: { color: "#4a4a5c", font: { size: 10 } }, grid: { color: "rgba(255,255,255,0.03)" } } } }
+  });
+
+  // Batch trend line
+  new Chart(document.getElementById("batchChart"), {
+    type: "line",
+    data: { labels: batchTrends.map(b => b.batch), datasets: [{ data: batchTrends.map(b => b.count), borderColor: "#ff6b35", backgroundColor: "rgba(255,107,53,0.1)", fill: true, tension: 0.4, pointRadius: 2 }] },
+    options: { responsive: true, plugins: { legend: { display: false } }, scales: { x: { ticks: { color: "#4a4a5c", font: { size: 9 }, maxRotation: 45 }, grid: { display: false } }, y: { ticks: { color: "#4a4a5c", font: { size: 10 } }, grid: { color: "rgba(255,255,255,0.03)" } } } }
+  });
+
+  // Status pie
+  new Chart(document.getElementById("statusChart"), {
+    type: "doughnut",
+    data: { labels: statusData.map(s => s.name), datasets: [{ data: statusData.map(s => s.value), backgroundColor: COLORS, borderWidth: 0 }] },
+    options: { responsive: true, cutout: "55%", plugins: { legend: { position: "bottom", labels: { color: "#7a7a8c", font: { family: "'JetBrains Mono'", size: 10 }, padding: 12 } } } }
+  });
+}
+
+// ─── Explorer ────────────────────────────────────────────────────────────────
+function renderExplorer() {
+  const secSelect = document.getElementById("sectorSelect");
+  if (secSelect.options.length <= 1) {
+    secSelect.innerHTML = `<option value="All">All Sectors</option>` + sectors.map(s => `<option value="${s.name}">${s.name}</option>`).join("");
+  }
+  const statSelect = document.getElementById("statusSelect");
+  if (statSelect.options.length <= 1) {
+    statSelect.innerHTML = `<option value="All">All Statuses</option>` + statusData.map(s => `<option value="${s.name}">${s.name}</option>`).join("");
+  }
+  filterTable();
+}
+
+function filterTable() {
+  const search = document.getElementById("searchInput").value.toLowerCase();
+  const sector = document.getElementById("sectorSelect").value;
+  const status = document.getElementById("statusSelect").value;
+  const sort = document.getElementById("sortSelect").value;
+
+  let filtered = companies.filter(c => {
+    if (sector !== "All" && c.industry !== sector) return false;
+    if (status !== "All" && c.status !== status) return false;
+    if (search && !c.name.toLowerCase().includes(search) && !c.oneLiner.toLowerCase().includes(search)) return false;
+    return true;
+  });
+
+  if (sort === "name") filtered.sort((a, b) => a.name.localeCompare(b.name));
+  else if (sort === "team") filtered.sort((a, b) => b.teamSize - a.teamSize);
+  else if (sort === "batch") filtered.sort((a, b) => (b.batch || "").localeCompare(a.batch || ""));
+
+  document.getElementById("resultCount").textContent = `${filtered.length.toLocaleString()} results`;
+
+  document.getElementById("tableBody").innerHTML = filtered.slice(0, 200).map((c, i) => {
+    const sColor = STATUS_COLORS[c.status] || "var(--text-muted)";
+    return `<div class="table-row">
+      <div>
+        <span class="co-name">${c.name}</span>${c.topCompany ? '<span class="tag-top">TOP</span>' : ''}
+        <div class="co-liner">${c.oneLiner}</div>
+      </div>
+      <div style="color:var(--text-muted);font-size:12px">${c.industry}</div>
+      <div style="font-family:var(--font-mono);font-size:11px;color:var(--text-muted)">${c.batch}</div>
+      <div><span class="status-pill" style="color:${sColor};background:${sColor}15">${c.status}</span></div>
+      <div style="font-family:var(--font-mono);font-size:11px;color:var(--text-muted)">${c.teamSize > 0 ? c.teamSize : '—'}</div>
+    </div>`;
+  }).join("");
+}
+
+document.getElementById("searchInput").addEventListener("input", filterTable);
+document.getElementById("sectorSelect").addEventListener("change", filterTable);
+document.getElementById("statusSelect").addEventListener("change", filterTable);
+document.getElementById("sortSelect").addEventListener("change", filterTable);
+
+// ─── Sector Deep Dive ────────────────────────────────────────────────────────
+function renderSectors() {
+  document.getElementById("sectorPills").innerHTML = sectors.slice(0, 10).map(s =>
+    `<button class="pill ${selectedSector === s.name ? 'active' : ''}" data-sector="${s.name}">${s.name} (${s.count})</button>`
+  ).join("");
+
+  document.querySelectorAll("#sectorPills .pill").forEach(p => {
+    p.addEventListener("click", () => {
+      selectedSector = p.dataset.sector;
+      document.querySelectorAll("#sectorPills .pill").forEach(pp => pp.classList.toggle("active", pp.dataset.sector === selectedSector));
+      document.getElementById("deepDiveBtn").disabled = false;
+      document.getElementById("deepDiveBtn").textContent = `Analyze ${selectedSector}`;
+    });
+  });
+}
+
+document.getElementById("deepDiveBtn").addEventListener("click", async () => {
+  if (!selectedSector) return;
+  const loader = document.getElementById("deepDiveLoader");
+  const result = document.getElementById("deepDiveResult");
+  loader.classList.remove("hidden");
+  result.classList.add("hidden");
+
+  const sectorCos = companies.filter(c => c.industry === selectedSector);
+  const sample = sectorCos.slice(0, 50).map(c => ({ name: c.name, one_liner: c.oneLiner, batch: c.batch, status: c.status, team_size: c.teamSize }));
+
+  const text = await callClaude(
+    `Analyzing ${sectorCos.length} companies in ${selectedSector}. Sample: ${JSON.stringify(sample)}`,
+    `Deep dive into ${selectedSector} in YC:\n1. How many companies, % active vs inactive?\n2. Sub-niches and saturation?\n3. Top companies and why they won?\n4. Biggest whitespace opportunity right now?\n5. What specific problem should I solve here?\n6. Opportunity Score (1-10), Saturation (1-10), Timing (1-10)`
+  );
+
+  loader.classList.add("hidden");
+  result.classList.remove("hidden");
+  result.innerHTML = formatAI(text);
+});
+
+// ─── Idea Evaluator ──────────────────────────────────────────────────────────
+function renderIdeas() {
+  document.getElementById("ideaSubtitle").textContent = `Describe your startup idea and Claude will evaluate it against ${companies.length.toLocaleString()} YC companies.`;
+}
+
+document.getElementById("ideaBtn").addEventListener("click", evaluateIdea);
+document.getElementById("ideaInput").addEventListener("keydown", e => { if (e.key === "Enter") evaluateIdea(); });
+
+async function evaluateIdea() {
+  const idea = document.getElementById("ideaInput").value.trim();
+  if (!idea) return;
+  const loader = document.getElementById("ideaLoader");
+  const result = document.getElementById("ideaResult");
+  loader.classList.remove("hidden");
+  result.classList.add("hidden");
+
+  const text = await callClaude(
+    "Evaluate startup ideas against YC data. Be brutally honest.",
+    `Evaluate this startup idea: "${idea}"\n\n1. How many similar companies exist in YC? Name them.\n2. Is this sector growing or declining?\n3. Competitive landscape?\n4. What angle makes this most fundable?\n5. Rate: Fundability (1-10), Market Timing (1-10), Competition (Low/Med/High)\n6. Honest verdict: build, pivot, or avoid?`
+  );
+
+  loader.classList.add("hidden");
+  result.classList.remove("hidden");
+  result.innerHTML = formatAI(text);
+}
+
+// ─── Claude API Helper ───────────────────────────────────────────────────────
+async function callClaude(systemExtra, userPrompt) {
+  const sample = companies.slice(0, 100).map(c => ({ name: c.name, one_liner: c.oneLiner, industry: c.industry, batch: c.batch, status: c.status, team_size: c.teamSize, top_company: c.topCompany }));
+  const stats = {
+    total: companies.length,
+    sectors: sectors.slice(0, 10).map(s => `${s.name}: ${s.count} (${s.rate}% active)`).join("; "),
+    statuses: statusData.map(s => `${s.name}: ${s.value}`).join(", "),
+  };
+
+  const system = `You are a world-class Y Combinator startup analyst with data on ${stats.total} YC companies.\n\nSECTOR SUMMARY: ${stats.sectors}\nSTATUS: ${stats.statuses}\n\nSAMPLE (${sample.length}): ${JSON.stringify(sample)}\n\n${systemExtra}\n\nBe specific, cite companies, quantify. Use **bold**. Be concise and actionable.`;
+
+  try {
+    const res = await fetch("https://api.anthropic.com/v1/messages", {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ model: "claude-sonnet-4-20250514", max_tokens: 1000, system, messages: [{ role: "user", content: userPrompt }] }),
+    });
+    const data = await res.json();
+    return data.content?.map(b => b.text || "").join("\n") || "Analysis unavailable.";
+  } catch {
+    return "Could not reach Claude API. The AI features require running this page inside Claude.ai, or you can add your own API key to the code.";
+  }
+}
+
+function formatAI(text) {
+  return text.split("\n").map(line => {
+    const formatted = line.replace(/\*\*([^*]+)\*\*/g, '<b>$1</b>');
+    return `<p style="margin:5px 0;line-height:1.7">${formatted}</p>`;
+  }).join("");
+}
+
+// ─── Init ────────────────────────────────────────────────────────────────────
+loadData();
+</script>
+</body>
+</html>
